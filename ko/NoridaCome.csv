@@ -1,105 +1,112 @@
-﻿NoridaCome.Monologue.1,哦已经有堆积的工作了嘛……,
-NoridaCome.Norida.2,"初夏之际，感谢能在此时节与您相遇。
-您好，我是从新鲜事找过来的 Norida，有关于公司运营的事情想要拜托您。",
-NoridaCome.Norida.3,这是我的名片请您查收。,
-NoridaCome.Norida.4,"Norida
+"location","source","target"
+"﻿NoridaCome.Monologue.1","哦已经有堆积的工作了嘛……","哦已经有堆积的工作了嘛……"
+"NoridaCome.Norida.2","初夏之际，感谢能在此时节与您相遇。
+您好，我是从新鲜事找过来的 Norida，有关于公司运营的事情想要拜托您。","初夏之际，感谢能在此时节与您相遇。
+您好，我是从新鲜事找过来的 Norida，有关于公司运营的事情想要拜托您。"
+"NoridaCome.Norida.3","这是我的名片请您查收。","这是我的名片请您查收。"
+"NoridaCome.Norida.4","Norida
 幻视科技 剧情副总监
 聊天：Norikkkko
 邮箱：Norida@pv.com
-地址：麻园市云府区云府中心A座17F",
-NoridaCome.Tips.5,以下是新消息,
-NoridaCome.Monologue.6,科技公司的剧情副总监。,
-NoridaCome.Monologue.7,副总监说话都是这个调调吗……？,
-NoridaCome.Monologue.8,我要不也试试。,
-NoridaCome.Monologue.9,如果不是副总监这样说话会不会挨打……,
-NoridaCome.Typing.10.1,您好，短夜之节，承蒙错爱，不胜惶恐。,
-NoridaCome.Typing.11,请问有什么能帮到您的？,
-NoridaCome.Monologue.12,我不会得一直这样吧……,
-NoridaCome.Monologue.13,让 Daisy 来代聊算了……,
-NoridaCome.Typing.10.2,您好，转我五百解决您的一切烦恼,
-NoridaCome.Norida.15,确认了您的报价，这个价格是没有问题的,
-NoridaCome.Norida.16,是这样的，目前我们公司的发展出现了一些无法解决的危机,
-NoridaCome.Norida.17,想要委托您处理,
-NoridaCome.Norida.18,如果弄不好的话，我就完蛋啦！,
-NoridaCome.Norida.19,可能还得坐牢！,
-NoridaCome.Monologue.20,……为什么说话的风格，突然就……,
-NoridaCome.Typing.21,具体是什么情况呢？,
-NoridaCome.Norida.22,"——******——
-以下谈话内容涉及到幻视科技的商业机密，请您严格注意保密原则。任何复制、泄露、公开此机密的行为，幻视科技都会追究其责任。",
-NoridaCome.Typing.23.1,我会保密的,
-NoridaCome.Typing.23.2,非得整这一套吗,
-NoridaCome.Typing.25,我们都受过专业训练不会轻易泄露客人的信息,
-NoridaCome.Norida.26,额，这只是个一般的商业流程,
-NoridaCome.Norida.27,以公司目前的状况来说,
-NoridaCome.Norida.28,应该也没有保密的必要了,
-NoridaCome.Norida.29,算了，还是感谢您的配合,
-NoridaCome.Norida.30,您有听说过幻视科技吗,
-NoridaCome.Norida.31,目前应该没什么名气,
-NoridaCome.Norida.32,不过我司的作品 幽灵协议 您应该有听说过吧？,
-NoridaCome.Monologue.1001,幽灵协议……好像有印象。,
-NoridaCome.Monologue.1002,是在楼下，还是在<color=#DB7F20> 新鲜事 </color>里有见到过？,
-NoridaCome.Monologue.1003,稍微看看吧。,
-NoridaCome.Monologue.1005,从“新鲜事”中确认 Norida 说的相关信息,
-NoridaCome.Typing.33.1,广告牌上看到过,
-NoridaCome.Typing.33.2,有听说过,
-NoridaCome.Norida.1004,没错就是这个,
-NoridaCome.Norida.35,我是在公司的 幽灵协议 爆了之后被招进来的,
-NoridaCome.Typing.36,爆了是说？,
-NoridaCome.Typing.1006,谁和谁爆了？,
-NoridaCome.Norida.37,据 Will 老师说大概卖了六百万份吧,
-NoridaCome.Norida.38,爆了就是说销量很火爆的意思,
-NoridaCome.Norida.39,Will 老师是我的直接上级，也是公司的创始人之一,
-NoridaCome.Typing.40.1,那 will 就是剧情总监吗？,
-NoridaCome.Norida.41,对的,
-NoridaCome.Typing.40.2,你们一份卖多少钱,
-NoridaCome.Norida.43,首发价是 49，生命周期均价是 41,
-NoridaCome.Monologue.44,这样算下来能赚好几个亿啊……,
-NoridaCome.Monologue.45,游戏公司！,
-NoridaCome.Typing.40.3,/不错,
-NoridaCome.Norida.47,在那之后公司租了新办公室开始扩大规模，扩张人员,
-NoridaCome.Norida.48,问题也，随之而来吧,
-NoridaCome.Norida.49,其中最大的问题是我们和 Milix 签订的续作开发协议,
-NoridaCome.Norida.50,我们必须要在 7 月 1 日之前把试玩版本提交给他们,
-NoridaCome.Typing.51.1,那不是只有四天时间了吗！,
-NoridaCome.Typing.51.2,时间好紧张啊,
-NoridaCome.Norida.53,恩，时间上确实不宽裕,
-NoridaCome.Norida.54,功能和美术基本上复用了前作的资源,
-NoridaCome.Norida.55,只差剧本没配,
-NoridaCome.Norida.56,带上测试熬两个通宵配置的话，应该能勉强赶上,
-NoridaCome.Norida.57,也就是说我想让您在 6 月 29 号之前找到老师和剧本,
-NoridaCome.Norida.58,我想要留一天的容错,
-NoridaCome.Norida.59,请您务必在 6 月 28 号之前,
-NoridaCome.Norida.60,这样还能赶上这个死线,
-NoridaCome.Typing.61,等一下，我有点乱,
-NoridaCome.Typing.62,交不出试玩版本，最多只是违约,
-NoridaCome.Typing.63,为什么会牵扯到坐牢,
-NoridaCome.Norida.64,我是公司的法人,
-NoridaCome.Norida.65,公司的一切行为我都要负责,
-NoridaCome.Monologue.66,……这就是总监和法人的器量吗？,
-NoridaCome.Norida.67,如果 Frank 公开税务信息的话,
-NoridaCome.Norida.68,不不，他不会那么做的,
-NoridaCome.Typing.69,稍微打断一下,
-NoridaCome.Typing.70,找到他和剧本的意思是说，他们丢了？,
-NoridaCome.Norida.71,是的，都丢了,
-NoridaCome.Norida.72,电话、聊天、新鲜事、他家里都找不到人,
-NoridaCome.Typing.73,那剧本呢？,
-NoridaCome.Typing.74,为什么要特意把人和剧本分开说？,
-NoridaCome.Norida.75,恩……其实我也不太确定是不是真的有那个剧本,
-NoridaCome.Norida.76,老师说话真真假假，虚虚实实,
-NoridaCome.Norida.77,我也不太清楚,
-NoridaCome.Norida.78,而且他和公司的另一位创始人 Frank 有些矛盾,
-NoridaCome.Norida.79,消极怠工一个字没写也不是完全没可能,
-NoridaCome.Norida.80,我们在做的这个项目虽然是 幽灵协议 的续作,
-NoridaCome.Norida.81,但是是个手游，就是在手机上玩的游戏,
-NoridaCome.Norida.82,老师对此很不满,
-NoridaCome.Typing.83,什么意思？,
-NoridaCome.Norida.84,没什么，就是说我也会考虑这个剧本不存在的情况,
-NoridaCome.Typing.85.1,你打算自己写一个？,
-NoridaCome.Norida.86,并没有这个打算,
-NoridaCome.Typing.85.2,那你自己写一个剧本不就好了吗？,
-NoridaCome.Norida.88,我只是一个实习生而已啊！！,
-NoridaCome.Monologue.89,……,
-NoridaCome.Monologue.90,人为什么要说谎。,
-NoridaCome.Monologue.91,为什么我的每个客人都要说谎。,
-NoridaCome.Monologue.92,网络让人戴上面具，然后使面具后面的人自动说谎。,
-NoridaCome.Monologue.93,我不理解。,
+地址：麻园市云府区云府中心A座17F","Norida
+幻视科技 剧情副总监
+聊天：Norikkkko
+邮箱：Norida@pv.com
+地址：麻园市云府区云府中心A座17F"
+"NoridaCome.Tips.5","以下是新消息","以下是新消息"
+"NoridaCome.Monologue.6","科技公司的剧情副总监。","科技公司的剧情副总监。"
+"NoridaCome.Monologue.7","副总监说话都是这个调调吗……？","副总监说话都是这个调调吗……？"
+"NoridaCome.Monologue.8","我要不也试试。","我要不也试试。"
+"NoridaCome.Monologue.9","如果不是副总监这样说话会不会挨打……","如果不是副总监这样说话会不会挨打……"
+"NoridaCome.Typing.10.1","您好，短夜之节，承蒙错爱，不胜惶恐。","您好，短夜之节，承蒙错爱，不胜惶恐。"
+"NoridaCome.Typing.11","请问有什么能帮到您的？","请问有什么能帮到您的？"
+"NoridaCome.Monologue.12","我不会得一直这样吧……","我不会得一直这样吧……"
+"NoridaCome.Monologue.13","让 Daisy 来代聊算了……","让 Daisy 来代聊算了……"
+"NoridaCome.Typing.10.2","您好，转我五百解决您的一切烦恼","您好，转我五百解决您的一切烦恼"
+"NoridaCome.Norida.15","确认了您的报价，这个价格是没有问题的","确认了您的报价，这个价格是没有问题的"
+"NoridaCome.Norida.16","是这样的，目前我们公司的发展出现了一些无法解决的危机","是这样的，目前我们公司的发展出现了一些无法解决的危机"
+"NoridaCome.Norida.17","想要委托您处理","想要委托您处理"
+"NoridaCome.Norida.18","如果弄不好的话，我就完蛋啦！","如果弄不好的话，我就完蛋啦！"
+"NoridaCome.Norida.19","可能还得坐牢！","可能还得坐牢！"
+"NoridaCome.Monologue.20","……为什么说话的风格，突然就……","……为什么说话的风格，突然就……"
+"NoridaCome.Typing.21","具体是什么情况呢？","具体是什么情况呢？"
+"NoridaCome.Norida.22","——******——
+以下谈话内容涉及到幻视科技的商业机密，请您严格注意保密原则。任何复制、泄露、公开此机密的行为，幻视科技都会追究其责任。","——******——
+以下谈话内容涉及到幻视科技的商业机密，请您严格注意保密原则。任何复制、泄露、公开此机密的行为，幻视科技都会追究其责任。"
+"NoridaCome.Typing.23.1","我会保密的","我会保密的"
+"NoridaCome.Typing.23.2","非得整这一套吗","非得整这一套吗"
+"NoridaCome.Typing.25","我们都受过专业训练不会轻易泄露客人的信息","我们都受过专业训练不会轻易泄露客人的信息"
+"NoridaCome.Norida.26","额，这只是个一般的商业流程","额，这只是个一般的商业流程"
+"NoridaCome.Norida.27","以公司目前的状况来说","以公司目前的状况来说"
+"NoridaCome.Norida.28","应该也没有保密的必要了","应该也没有保密的必要了"
+"NoridaCome.Norida.29","算了，还是感谢您的配合","算了，还是感谢您的配合"
+"NoridaCome.Norida.30","您有听说过幻视科技吗","您有听说过幻视科技吗"
+"NoridaCome.Norida.31","目前应该没什么名气","目前应该没什么名气"
+"NoridaCome.Norida.32","不过我司的作品 幽灵协议 您应该有听说过吧？","不过我司的作品 幽灵协议 您应该有听说过吧？"
+"NoridaCome.Monologue.1001","幽灵协议……好像有印象。","幽灵协议……好像有印象。"
+"NoridaCome.Monologue.1002","是在楼下，还是在<color=#DB7F20> 新鲜事 </color>里有见到过？","是在楼下，还是在<color=#DB7F20> 新鲜事 </color>里有见到过？"
+"NoridaCome.Monologue.1003","稍微看看吧。","稍微看看吧。"
+"NoridaCome.Monologue.1005","从“新鲜事”中确认 Norida 说的相关信息","从“新鲜事”中确认 Norida 说的相关信息"
+"NoridaCome.Typing.33.1","广告牌上看到过","广告牌上看到过"
+"NoridaCome.Typing.33.2","有听说过","有听说过"
+"NoridaCome.Norida.1004","没错就是这个","没错就是这个"
+"NoridaCome.Norida.35","我是在公司的 幽灵协议 爆了之后被招进来的","我是在公司的 幽灵协议 爆了之后被招进来的"
+"NoridaCome.Typing.36","爆了是说？","爆了是说？"
+"NoridaCome.Typing.1006","谁和谁爆了？","谁和谁爆了？"
+"NoridaCome.Norida.37","据 Will 老师说大概卖了六百万份吧","据 Will 老师说大概卖了六百万份吧"
+"NoridaCome.Norida.38","爆了就是说销量很火爆的意思","爆了就是说销量很火爆的意思"
+"NoridaCome.Norida.39","Will 老师是我的直接上级，也是公司的创始人之一","Will 老师是我的直接上级，也是公司的创始人之一"
+"NoridaCome.Typing.40.1","那 will 就是剧情总监吗？","那 will 就是剧情总监吗？"
+"NoridaCome.Norida.41","对的","对的"
+"NoridaCome.Typing.40.2","你们一份卖多少钱","你们一份卖多少钱"
+"NoridaCome.Norida.43","首发价是 49，生命周期均价是 41","首发价是 49，生命周期均价是 41"
+"NoridaCome.Monologue.44","这样算下来能赚好几个亿啊……","这样算下来能赚好几个亿啊……"
+"NoridaCome.Monologue.45","游戏公司！","游戏公司！"
+"NoridaCome.Typing.40.3","/不错","/不错"
+"NoridaCome.Norida.47","在那之后公司租了新办公室开始扩大规模，扩张人员","在那之后公司租了新办公室开始扩大规模，扩张人员"
+"NoridaCome.Norida.48","问题也，随之而来吧","问题也，随之而来吧"
+"NoridaCome.Norida.49","其中最大的问题是我们和 Milix 签订的续作开发协议","其中最大的问题是我们和 Milix 签订的续作开发协议"
+"NoridaCome.Norida.50","我们必须要在 7 月 1 日之前把试玩版本提交给他们","我们必须要在 7 月 1 日之前把试玩版本提交给他们"
+"NoridaCome.Typing.51.1","那不是只有四天时间了吗！","那不是只有四天时间了吗！"
+"NoridaCome.Typing.51.2","时间好紧张啊","时间好紧张啊"
+"NoridaCome.Norida.53","恩，时间上确实不宽裕","恩，时间上确实不宽裕"
+"NoridaCome.Norida.54","功能和美术基本上复用了前作的资源","功能和美术基本上复用了前作的资源"
+"NoridaCome.Norida.55","只差剧本没配","只差剧本没配"
+"NoridaCome.Norida.56","带上测试熬两个通宵配置的话，应该能勉强赶上","带上测试熬两个通宵配置的话，应该能勉强赶上"
+"NoridaCome.Norida.57","也就是说我想让您在 6 月 29 号之前找到老师和剧本","也就是说我想让您在 6 月 29 号之前找到老师和剧本"
+"NoridaCome.Norida.58","我想要留一天的容错","我想要留一天的容错"
+"NoridaCome.Norida.59","请您务必在 6 月 28 号之前","请您务必在 6 月 28 号之前"
+"NoridaCome.Norida.60","这样还能赶上这个死线","这样还能赶上这个死线"
+"NoridaCome.Typing.61","等一下，我有点乱","等一下，我有点乱"
+"NoridaCome.Typing.62","交不出试玩版本，最多只是违约","交不出试玩版本，最多只是违约"
+"NoridaCome.Typing.63","为什么会牵扯到坐牢","为什么会牵扯到坐牢"
+"NoridaCome.Norida.64","我是公司的法人","我是公司的法人"
+"NoridaCome.Norida.65","公司的一切行为我都要负责","公司的一切行为我都要负责"
+"NoridaCome.Monologue.66","……这就是总监和法人的器量吗？","……这就是总监和法人的器量吗？"
+"NoridaCome.Norida.67","如果 Frank 公开税务信息的话","如果 Frank 公开税务信息的话"
+"NoridaCome.Norida.68","不不，他不会那么做的","不不，他不会那么做的"
+"NoridaCome.Typing.69","稍微打断一下","稍微打断一下"
+"NoridaCome.Typing.70","找到他和剧本的意思是说，他们丢了？","找到他和剧本的意思是说，他们丢了？"
+"NoridaCome.Norida.71","是的，都丢了","是的，都丢了"
+"NoridaCome.Norida.72","电话、聊天、新鲜事、他家里都找不到人","电话、聊天、新鲜事、他家里都找不到人"
+"NoridaCome.Typing.73","那剧本呢？","那剧本呢？"
+"NoridaCome.Typing.74","为什么要特意把人和剧本分开说？","为什么要特意把人和剧本分开说？"
+"NoridaCome.Norida.75","恩……其实我也不太确定是不是真的有那个剧本","恩……其实我也不太确定是不是真的有那个剧本"
+"NoridaCome.Norida.76","老师说话真真假假，虚虚实实","老师说话真真假假，虚虚实实"
+"NoridaCome.Norida.77","我也不太清楚","我也不太清楚"
+"NoridaCome.Norida.78","而且他和公司的另一位创始人 Frank 有些矛盾","而且他和公司的另一位创始人 Frank 有些矛盾"
+"NoridaCome.Norida.79","消极怠工一个字没写也不是完全没可能","消极怠工一个字没写也不是完全没可能"
+"NoridaCome.Norida.80","我们在做的这个项目虽然是 幽灵协议 的续作","我们在做的这个项目虽然是 幽灵协议 的续作"
+"NoridaCome.Norida.81","但是是个手游，就是在手机上玩的游戏","但是是个手游，就是在手机上玩的游戏"
+"NoridaCome.Norida.82","老师对此很不满","老师对此很不满"
+"NoridaCome.Typing.83","什么意思？","什么意思？"
+"NoridaCome.Norida.84","没什么，就是说我也会考虑这个剧本不存在的情况","没什么，就是说我也会考虑这个剧本不存在的情况"
+"NoridaCome.Typing.85.1","你打算自己写一个？","你打算自己写一个？"
+"NoridaCome.Norida.86","并没有这个打算","并没有这个打算"
+"NoridaCome.Typing.85.2","那你自己写一个剧本不就好了吗？","那你自己写一个剧本不就好了吗？"
+"NoridaCome.Norida.88","我只是一个实习生而已啊！！","我只是一个实习生而已啊！！"
+"NoridaCome.Monologue.89","……","……"
+"NoridaCome.Monologue.90","人为什么要说谎。","人为什么要说谎。"
+"NoridaCome.Monologue.91","为什么我的每个客人都要说谎。","为什么我的每个客人都要说谎。"
+"NoridaCome.Monologue.92","网络让人戴上面具，然后使面具后面的人自动说谎。","网络让人戴上面具，然后使面具后面的人自动说谎。"
+"NoridaCome.Monologue.93","我不理解。","我不理解。"
