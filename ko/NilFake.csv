@@ -1,40 +1,41 @@
-﻿NilFake.Nil.1,"Intranet broadcast test, sending default strings...",
-NilFake.Nil.2,...,
-NilFake.Nil.3,...,
-NilFake.Nil.4,succeed,
-NilFake.Nil.5,Warning!!!Intranet will be initialize in 1 min(s).Please log out  immediately. All connected units will be hurt seriously.,
-NilFake.Typing.6,你在发什么疯？,
-NilFake.Nil.7,哦，是你啊,
-NilFake.Typing.8.1,哈？什么叫是我啊？,
-NilFake.Typing.8.2,嗯？是我啊，怎么了,
-NilFake.Kaede.9,Mi,
-NilFake.Kaede.10,是我,
-NilFake.Typing.11,呃……怎么突然这么叫我,
-NilFake.Kaede.12,控制台输 Gamemode1,
-NilFake.Kaede.13,快,
-NilFake.Kaede.14,我草,
-NilFake.Monologue.15,……,
-NilFake.Monologue.16,这是什么情况……,
-NilFake.Daisy.17,我 Nil,
-NilFake.Daisy.18,紧急状况,
-NilFake.Daisy.19,来不及解释这么多了,
-NilFake.Daisy.20,千万别让你的机子掉线,
-NilFake.Max.21,一定要把火种保留下来,
-NilFake.Max.22,控制台 Gamemode1 打开以后每分钟发一条消息过去,
-NilFake.Max.23,什么都可以,
-NilFake.Max.24,靠你了！！！,
-NilFake.Monologue.25,……,
-NilFake.Monologue.26,发一条消息……为什么？,
-NilFake.Monologue.27,虽然不明白他是怎么了。,
-NilFake.Monologue.28,但他看起来很急的样子。,
-NilFake.Monologue.29,而且屏幕上这个进度条也搞得我心神不宁的。,
-NilFake.Monologue.30,感觉现在就是要打开<color=#DB7F20> 控制台，输入 gamemode1……,
-NilFake.Todo.1,在“控制台”输入 Gamemode1,
-NilFake.Monologue.31,哦，打开了这个<color=#DB7F20> 黑色软件的输入框。</color>,
-NilFake.Monologue.32,真的是发什么都行吗……？,
-NilFake.Monologue.33,那就稍微发泄一下最近的戾气吧……,
-NilFake.Monologue.34,我想想……,
-NilFake.Typing.35,你的基金跌停了。,
-NilFake.Monologue.36,哦！成功了耶！,
-NilFake.Monologue.37,看上去应该<color=#DB7F20> 在这个进度条完成之前发一条消息 </color>就好。,
-NilFake.Monologue.38,赶紧回到我的六十万之中吧。,
+"location","source","target"
+"﻿NilFake.Nil.1","Intranet broadcast test, sending default strings...","Intranet broadcast test, sending default strings..."
+"NilFake.Nil.2","...",""
+"NilFake.Nil.3","...","..."
+"NilFake.Nil.4","succeed","succeed"
+"NilFake.Nil.5","Warning!!!Intranet will be initialize in 1 min(s).Please log out  immediately. All connected units will be hurt seriously.","Warning!!!Intranet will be initialize in 1 min(s).Please log out  immediately. All connected units will be hurt seriously."
+"NilFake.Typing.6","你在发什么疯？","你在发什么疯？"
+"NilFake.Nil.7","哦，是你啊","哦，是你啊"
+"NilFake.Typing.8.1","哈？什么叫是我啊？","哈？什么叫是我啊？"
+"NilFake.Typing.8.2","嗯？是我啊，怎么了","嗯？是我啊，怎么了"
+"NilFake.Kaede.9","Mi","Mi"
+"NilFake.Kaede.10","是我","是我"
+"NilFake.Typing.11","呃……怎么突然这么叫我","呃……怎么突然这么叫我"
+"NilFake.Kaede.12","控制台输 Gamemode1","控制台输 Gamemode1"
+"NilFake.Kaede.13","快","快"
+"NilFake.Kaede.14","我草","我草"
+"NilFake.Monologue.15","……",""
+"NilFake.Monologue.16","这是什么情况……","这是什么情况……"
+"NilFake.Daisy.17","我 Nil","我 Nil"
+"NilFake.Daisy.18","紧急状况","紧急状况"
+"NilFake.Daisy.19","来不及解释这么多了","来不及解释这么多了"
+"NilFake.Daisy.20","千万别让你的机子掉线","千万别让你的机子掉线"
+"NilFake.Max.21","一定要把火种保留下来","一定要把火种保留下来"
+"NilFake.Max.22","控制台 Gamemode1 打开以后每分钟发一条消息过去","控制台 Gamemode1 打开以后每分钟发一条消息过去"
+"NilFake.Max.23","什么都可以","什么都可以"
+"NilFake.Max.24","靠你了！！！","靠你了！！！"
+"NilFake.Monologue.25","……","……"
+"NilFake.Monologue.26","发一条消息……为什么？","发一条消息……为什么？"
+"NilFake.Monologue.27","虽然不明白他是怎么了。","虽然不明白他是怎么了。"
+"NilFake.Monologue.28","但他看起来很急的样子。","但他看起来很急的样子。"
+"NilFake.Monologue.29","而且屏幕上这个进度条也搞得我心神不宁的。","而且屏幕上这个进度条也搞得我心神不宁的。"
+"NilFake.Monologue.30","感觉现在就是要打开<color=#DB7F20> 控制台，输入 gamemode1……","感觉现在就是要打开<color=#DB7F20> 控制台，输入 gamemode1……"
+"NilFake.Todo.1","在“控制台”输入 Gamemode1","在“控制台”输入 Gamemode1"
+"NilFake.Monologue.31","哦，打开了这个<color=#DB7F20> 黑色软件的输入框。</color>","哦，打开了这个<color=#DB7F20> 黑色软件的输入框。</color>"
+"NilFake.Monologue.32","真的是发什么都行吗……？","真的是发什么都行吗……？"
+"NilFake.Monologue.33","那就稍微发泄一下最近的戾气吧……","那就稍微发泄一下最近的戾气吧……"
+"NilFake.Monologue.34","我想想……","我想想……"
+"NilFake.Typing.35","你的基金跌停了。","你的基金跌停了。"
+"NilFake.Monologue.36","哦！成功了耶！","哦！成功了耶！"
+"NilFake.Monologue.37","看上去应该<color=#DB7F20> 在这个进度条完成之前发一条消息 </color>就好。","看上去应该<color=#DB7F20> 在这个进度条完成之前发一条消息 </color>就好。"
+"NilFake.Monologue.38","赶紧回到我的六十万之中吧。","赶紧回到我的六十万之中吧。"
