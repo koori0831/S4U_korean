@@ -1,42 +1,44 @@
-﻿KaedeRight.Monologue.1,这个名字和头像……,
-KaedeRight.Monologue.2,中年女医生都是这个审美吗……,
-KaedeRight.Monologue.3,话说回来……,
-KaedeRight.Monologue.4,真有这么巧的事情？,
-KaedeRight.Monologue.5,同在大川小县城，两个同名的医生。,
-KaedeRight.Monologue.6,老妈从来没和我提过机动结晶的事情啊。,
-KaedeRight.Monologue.7,我脑子有点乱。,
-KaedeRight.Monologue.8,结不结晶倒是都还好。,
-KaedeRight.Monologue.9,MaLow 的对象。,
-KaedeRight.Monologue.10,那他说的那个 Cenol——,
-KaedeRight.Monologue.11,难道是——,
-KaedeRight.Monologue.12,私生子？？！,
-KaedeRight.Monologue.13,趁我在麻园的这段时间……,
-KaedeRight.Monologue.14,把 Daisy 丢去餐厅打工……,
-KaedeRight.Monologue.15,实则自己悄悄和这个不可一世的博士 MaLow……,
-KaedeRight.Monologue.16,这会是巧合吗……,
-KaedeRight.Monologue.17,不行，我接受不了。,
-KaedeRight.Monologue.18,我要把这件事情查个清楚。,
-KaedeRight.Monologue.19,老妈是骨科医生，现在的诊所名字是枫叶万能事务所。,
-KaedeRight.Monologue.20,只要搞清楚这两件事情基本就能确定是不是她了。,
-KaedeRight.Monologue.21,是她的话……让她道歉的事情基本就没辙了。,
-KaedeRight.Monologue.22,她从来不听我的。,
-KaedeRight.Monologue.23,说起来其实我也没怎么听过她的。,
-KaedeRight.Monologue.24,先以这个人是不是老妈作为侦破方向入手吧。,
-KaedeRight.Typing.25.1,所长,
-KaedeRight.Typing.25.2,主任,
-KaedeRight.Typing.25.3,Kaede,
-KaedeRight.Kaede.28,有事说事,
-KaedeRight.Typing.29.1,最近骨头有点不舒服,
-KaedeRight.Kaede.30,明天下午有号，挂了过来看,
-KaedeRight.Typing.29.2,最近 Daisy 还好吗？,
-KaedeRight.Kaede.32,老样子,
-KaedeRight.Monologue.33,这个说话的风格……,
-KaedeRight.Monologue.34,像。很像。,
-KaedeRight.Monologue.35,但我还不能肯定。,
-KaedeRight.Typing.36,我有点想不起来,
-KaedeRight.Typing.37,就是那个诊所的名字了,
-KaedeRight.Kaede.38,"骨科主治医师 Kaede
-大川市枫叶万能事务所，大川市西苍路 237 号",
-KaedeRight.Monologue.39,完了。,
-KaedeRight.Monologue.40,全完了。,
-KaedeRight.Todo.0,试探一下老妈,
+"location","source","target"
+"﻿KaedeRight.Monologue.1","这个名字和头像……","这个名字和头像……"
+"KaedeRight.Monologue.2","中年女医生都是这个审美吗……","中年女医生都是这个审美吗……"
+"KaedeRight.Monologue.3","话说回来……","话说回来……"
+"KaedeRight.Monologue.4","真有这么巧的事情？","真有这么巧的事情？"
+"KaedeRight.Monologue.5","同在大川小县城，两个同名的医生。","同在大川小县城，两个同名的医生。"
+"KaedeRight.Monologue.6","老妈从来没和我提过机动结晶的事情啊。","老妈从来没和我提过机动结晶的事情啊。"
+"KaedeRight.Monologue.7","我脑子有点乱。","我脑子有点乱。"
+"KaedeRight.Monologue.8","结不结晶倒是都还好。","结不结晶倒是都还好。"
+"KaedeRight.Monologue.9","MaLow 的对象。","MaLow 的对象。"
+"KaedeRight.Monologue.10","那他说的那个 Cenol——","那他说的那个 Cenol——"
+"KaedeRight.Monologue.11","难道是——","难道是——"
+"KaedeRight.Monologue.12","私生子？？！","私生子？？！"
+"KaedeRight.Monologue.13","趁我在麻园的这段时间……","趁我在麻园的这段时间……"
+"KaedeRight.Monologue.14","把 Daisy 丢去餐厅打工……","把 Daisy 丢去餐厅打工……"
+"KaedeRight.Monologue.15","实则自己悄悄和这个不可一世的博士 MaLow……","实则自己悄悄和这个不可一世的博士 MaLow……"
+"KaedeRight.Monologue.16","这会是巧合吗……","这会是巧合吗……"
+"KaedeRight.Monologue.17","不行，我接受不了。","不行，我接受不了。"
+"KaedeRight.Monologue.18","我要把这件事情查个清楚。","我要把这件事情查个清楚。"
+"KaedeRight.Monologue.19","老妈是骨科医生，现在的诊所名字是枫叶万能事务所。","老妈是骨科医生，现在的诊所名字是枫叶万能事务所。"
+"KaedeRight.Monologue.20","只要搞清楚这两件事情基本就能确定是不是她了。","只要搞清楚这两件事情基本就能确定是不是她了。"
+"KaedeRight.Monologue.21","是她的话……让她道歉的事情基本就没辙了。","是她的话……让她道歉的事情基本就没辙了。"
+"KaedeRight.Monologue.22","她从来不听我的。","她从来不听我的。"
+"KaedeRight.Monologue.23","说起来其实我也没怎么听过她的。","说起来其实我也没怎么听过她的。"
+"KaedeRight.Monologue.24","先以这个人是不是老妈作为侦破方向入手吧。","先以这个人是不是老妈作为侦破方向入手吧。"
+"KaedeRight.Typing.25.1","所长","所长"
+"KaedeRight.Typing.25.2","主任","主任"
+"KaedeRight.Typing.25.3","Kaede","Kaede"
+"KaedeRight.Kaede.28","有事说事","有事说事"
+"KaedeRight.Typing.29.1","最近骨头有点不舒服","最近骨头有点不舒服"
+"KaedeRight.Kaede.30","明天下午有号，挂了过来看","明天下午有号，挂了过来看"
+"KaedeRight.Typing.29.2","最近 Daisy 还好吗？","最近 Daisy 还好吗？"
+"KaedeRight.Kaede.32","老样子","老样子"
+"KaedeRight.Monologue.33","这个说话的风格……","这个说话的风格……"
+"KaedeRight.Monologue.34","像。很像。","像。很像。"
+"KaedeRight.Monologue.35","但我还不能肯定。","但我还不能肯定。"
+"KaedeRight.Typing.36","我有点想不起来","我有点想不起来"
+"KaedeRight.Typing.37","就是那个诊所的名字了","就是那个诊所的名字了"
+"KaedeRight.Kaede.38","骨科主治医师 Kaede
+大川市枫叶万能事务所，大川市西苍路 237 号","骨科主治医师 Kaede
+大川市枫叶万能事务所，大川市西苍路 237 号"
+"KaedeRight.Monologue.39","完了。","完了。"
+"KaedeRight.Monologue.40","全完了。","全完了。"
+"KaedeRight.Todo.0","试探一下老妈","试探一下老妈"
