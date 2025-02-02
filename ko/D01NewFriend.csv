@@ -1,48 +1,62 @@
-﻿D01NewFriend.Monologue.10,"Dom，
-我在公司的<color=#DB7F20> 直接上级 </color>。",
-D01NewFriend.Monologue.11,我刚刚才从公司下班回家。,
-D01NewFriend.Monologue.12,没有什么事要找他。,
-D01NewFriend.Dom.13,这是？,
-D01NewFriend.Monologue.14,靠！没注意看，把新鲜事发给 Dom 了。,
-D01NewFriend.Monologue.15,Dom 已经看到了，撤回也来不及了。,
-D01NewFriend.Monologue.16,还是赶紧解释一下吧。,
-D01NewFriend.Typing.17,对不起，老大，我不小心发错了,
-D01NewFriend.Typing.18,/ 表情：对不起,
-D01NewFriend.Dom.19,哦，没事。,
-D01NewFriend.Monologue.1,好像不小心<color=#DB7F20> 打断了 Dom </color>想说的话。,
-D01NewFriend.Monologue.2,以后<color=#DB7F20> 转发新鲜事 </color>的时候还是注意一些为好。,
-D01NewFriend.Monologue.3,刚刚已经不小心给 Dom 发了无关紧要的新鲜事，现在就不要再发给他了吧。,
-D01NewFriend.Monologue.20,"Kaede，
-我<color=#DB7F20> 老妈 </color>。",
-D01NewFriend.Monologue.21,不在线。,
-D01NewFriend.Monologue.30,"Nil，
-给我介绍兼职<color=#DB7F20> 网络替身 </color>工作的人。",
-D01NewFriend.Monologue.32,有没有赛博生命相关的微博可以发送给 Nil ？,
-D01NewFriend.Monologue.33,"有了！
-TT 的这一条《限制法案》，应该是在讨论赛博生命。",
-D01NewFriend.Monologue.34,已经聊过赛博生命的事了，今天就到这里吧。,
-D01NewFriend.Monologue.35,和 Nil 聊完就下楼吧。,
-D01NewFriend.Monologue.40,"Duke，
-看上去是客人 Holly 的老板。",
-D01NewFriend.Monologue.41,Holly 希望痛骂他一顿。,
-D01NewFriend.Monologue.42,这个头像，和今天的客人 Holly 好像是一样的。,
-D01NewFriend.Monologue.43,但客人的账号，还是不要乱操作比较好。,
-D01NewFriend.Monologue.50,"群聊，
-应该是客人 Holly 的工作群。",
-D01NewFriend.Monologue.51,客人的账号，还是不要乱操作比较好。,
-D01NewFriend.Monologue.60,"Alan，
-今天跑过来的第二个客人。",
-D01NewFriend.Monologue.61,还是不要乱发东西给客人比较好。,
-D01NewFriend.Monologue.62,"Alan，
-既然提到了<color=#DB7F20> 网络替身 </color>，应该是新来的客人。",
-D01NewFriend.Monologue.63,"Alan？
-突然出现在转发列表里，先去看看这个人是谁吧。",
-D01NewFriend.Monologue.70,"Someone，
-这个人是……",
-D01NewFriend.Monologue.71,好像是在大川上高中时候的同学……,
-D01NewFriend.Monologue.72,"很久都没联系过了，
-高中那会儿也没说过几句话……",
-D01NewFriend.Monologue.73,"嗯……
-我们好像不是很熟，还是算了吧。",
-D01NewFriend.Monologue.74,"Someone？
-突然出现在转发列表里，先去看看这个人是谁吧。",
+"location","source","target"
+"﻿D01NewFriend.Monologue.10","Dom，
+我在公司的<color=#DB7F20> 直接上级 </color>。","Dom，
+我在公司的<color=#DB7F20> 直接上级 </color>。"
+"D01NewFriend.Monologue.11","我刚刚才从公司下班回家。","我刚刚才从公司下班回家。"
+"D01NewFriend.Monologue.12","没有什么事要找他。","没有什么事要找他。"
+"D01NewFriend.Dom.13","这是？","这是？"
+"D01NewFriend.Monologue.14","靠！没注意看，把新鲜事发给 Dom 了。","靠！没注意看，把新鲜事发给 Dom 了。"
+"D01NewFriend.Monologue.15","Dom 已经看到了，撤回也来不及了。","Dom 已经看到了，撤回也来不及了。"
+"D01NewFriend.Monologue.16","还是赶紧解释一下吧。","还是赶紧解释一下吧。"
+"D01NewFriend.Typing.17","对不起，老大，我不小心发错了","对不起，老大，我不小心发错了"
+"D01NewFriend.Typing.18","/ 表情：对不起","/ 表情：对不起"
+"D01NewFriend.Dom.19","哦，没事。","哦，没事。"
+"D01NewFriend.Monologue.1","好像不小心<color=#DB7F20> 打断了 Dom </color>想说的话。","好像不小心<color=#DB7F20> 打断了 Dom </color>想说的话。"
+"D01NewFriend.Monologue.2","以后<color=#DB7F20> 转发新鲜事 </color>的时候还是注意一些为好。","以后<color=#DB7F20> 转发新鲜事 </color>的时候还是注意一些为好。"
+"D01NewFriend.Monologue.3","刚刚已经不小心给 Dom 发了无关紧要的新鲜事，现在就不要再发给他了吧。","刚刚已经不小心给 Dom 发了无关紧要的新鲜事，现在就不要再发给他了吧。"
+"D01NewFriend.Monologue.20","Kaede，
+我<color=#DB7F20> 老妈 </color>。","Kaede，
+我<color=#DB7F20> 老妈 </color>。"
+"D01NewFriend.Monologue.21","不在线。","不在线。"
+"D01NewFriend.Monologue.30","Nil，
+给我介绍兼职<color=#DB7F20> 网络替身 </color>工作的人。","Nil，
+给我介绍兼职<color=#DB7F20> 网络替身 </color>工作的人。"
+"D01NewFriend.Monologue.32","有没有赛博生命相关的微博可以发送给 Nil ？","有没有赛博生命相关的微博可以发送给 Nil ？"
+"D01NewFriend.Monologue.33","有了！
+TT 的这一条《限制法案》，应该是在讨论赛博生命。","有了！
+TT 的这一条《限制法案》，应该是在讨论赛博生命。"
+"D01NewFriend.Monologue.34","已经聊过赛博生命的事了，今天就到这里吧。","已经聊过赛博生命的事了，今天就到这里吧。"
+"D01NewFriend.Monologue.35","和 Nil 聊完就下楼吧。","和 Nil 聊完就下楼吧。"
+"D01NewFriend.Monologue.40","Duke，
+看上去是客人 Holly 的老板。","Duke，
+看上去是客人 Holly 的老板。"
+"D01NewFriend.Monologue.41","Holly 希望痛骂他一顿。","Holly 希望痛骂他一顿。"
+"D01NewFriend.Monologue.42","这个头像，和今天的客人 Holly 好像是一样的。","这个头像，和今天的客人 Holly 好像是一样的。"
+"D01NewFriend.Monologue.43","但客人的账号，还是不要乱操作比较好。","但客人的账号，还是不要乱操作比较好。"
+"D01NewFriend.Monologue.50","群聊，
+应该是客人 Holly 的工作群。","群聊，
+应该是客人 Holly 的工作群。"
+"D01NewFriend.Monologue.51","客人的账号，还是不要乱操作比较好。","客人的账号，还是不要乱操作比较好。"
+"D01NewFriend.Monologue.60","Alan，
+今天跑过来的第二个客人。","Alan，
+今天跑过来的第二个客人。"
+"D01NewFriend.Monologue.61","还是不要乱发东西给客人比较好。","还是不要乱发东西给客人比较好。"
+"D01NewFriend.Monologue.62","Alan，
+既然提到了<color=#DB7F20> 网络替身 </color>，应该是新来的客人。","Alan，
+既然提到了<color=#DB7F20> 网络替身 </color>，应该是新来的客人。"
+"D01NewFriend.Monologue.63","Alan？
+突然出现在转发列表里，先去看看这个人是谁吧。","Alan？
+突然出现在转发列表里，先去看看这个人是谁吧。"
+"D01NewFriend.Monologue.70","Someone，
+这个人是……","Someone，
+这个人是……"
+"D01NewFriend.Monologue.71","好像是在大川上高中时候的同学……","好像是在大川上高中时候的同学……"
+"D01NewFriend.Monologue.72","很久都没联系过了，
+高中那会儿也没说过几句话……","很久都没联系过了，
+高中那会儿也没说过几句话……"
+"D01NewFriend.Monologue.73","嗯……
+我们好像不是很熟，还是算了吧。","嗯……
+我们好像不是很熟，还是算了吧。"
+"D01NewFriend.Monologue.74","Someone？
+突然出现在转发列表里，先去看看这个人是谁吧。","Someone？
+突然出现在转发列表里，先去看看这个人是谁吧。"
