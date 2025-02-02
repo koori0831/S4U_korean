@@ -1,66 +1,67 @@
-﻿ChatSella1.Typing.1,想起来还没打过招呼,
-ChatSella1.Sella.2,是哦,
-ChatSella1.Sella.3,我是 829 首席咖啡师 Sella，很高兴认识你哇 ,
-ChatSella1.Typing.4,哈罗，我是 Miki,
-ChatSella1.Typing.5,一杯手冲谢谢,
-ChatSella1.Sella.6,哦呀,
-ChatSella1.Sella.7,没想到你喜欢喝手冲,
-ChatSella1.Typing.8.1,怎么了吗？,
-ChatSella1.Sella.9,倒是没什么,
-ChatSella1.Sella.10,就是,
-ChatSella1.Typing.8.2,Sella 喜欢喝什么？,
-ChatSella1.Sella.12,那当然是无敌的 Dirty,
-ChatSella1.Typing.13.1,什么是 Dirty,
-ChatSella1.Sella.14,就是一种把浓缩加在冰博客上的做法,
-ChatSella1.Sella.15,浇上灵魂~,
-ChatSella1.Typing.16,什么是,
-ChatSella1.Sella.17,冰博客就是一种特制的超浓牛奶,
-ChatSella1.Sella.18,有机会请务必来尝尝,
-ChatSella1.Typing.13.2,/表情：好的,
-ChatSella1.Sella.20,不过,
-ChatSella1.Sella.21,我不太喜欢手冲啦,
-ChatSella1.Sella.22,我觉得没什么味道,
-ChatSella1.Sella.23,每次做起来都很麻烦,
-ChatSella1.Sella.24,虽说是价格也会更贵一点,
-ChatSella1.Sella.25,但是我拿不到提成,
-ChatSella1.Sella.26,我还是倾向于做简单一点儿的,
-ChatSella1.Sella.27,顺带还可以营销健康理念的,
-ChatSella1.Sella.28,无敌冰美式,
-ChatSella1.Sella.29,顺带一提，由本首席领衔开发的花椒美式,
-ChatSella1.Sella.30,将于今日上架！首发8.29折优惠！,
-ChatSella1.Sella.31,沦陷在爱情酥酥麻麻的香甜之中吧！,
-ChatSella1.Typing.32.1,好词！,
-ChatSella1.Sella.33,是吧是吧,
-ChatSella1.Sella.34,我在当咖啡师之前是豆商做运营的,
-ChatSella1.Typing.32.2,花椒美式,
-ChatSella1.Sella.36,我记得开发者是 Max？,
-ChatSella1.Sella.37,哦呀，你认识那小子,
-ChatSella1.Sella.38,需要特别指出,
-ChatSella1.Sella.39,Max 只是本咖啡师微不足道的拥趸之一,
-ChatSella1.Sella.40,每天只顾着和客人眉来眼去,
-ChatSella1.Sella.41,怎么可能做得好咖啡,
-ChatSella1.Sella.42,连老板 Shaddy 都拜倒在我的才华之下,
-ChatSella1.Sella.43,有空请务必来尝一杯,
-ChatSella1.Sella.44,哎，可惜明天就不来星水出摊了,
-ChatSella1.Sella.45,可能要等到烟花节才会再出,
-ChatSella1.Sella.46,烟花节那天好像下雨啊,
-ChatSella1.Typing.47.1,希望别下,
-ChatSella1.Typing.47.2,那也没办法,
-ChatSella1.Sella.49,是吧是吧,
-ChatSella1.Sella.50,不嫌远的话就来店里怎么样？,
-ChatSella1.Typing.51.1,可能不太方便,
-ChatSella1.Sella.52,好吧好吧,
-ChatSella1.Typing.51.2,有空就来,
-ChatSella1.Sella.54,好哦，我一般是周四休息,
-ChatSella1.Sella.55,已告知，勿辜负,
-ChatSella1.Typing.56,好的,
-ChatSella1.Typing.51.3,我不知道我能不能来,
-ChatSella1.Sella.58,为啥,
-ChatSella1.Typing.59,我不太自由,
-ChatSella1.Typing.60,一天之中我只有少数时间能自由活动,
-ChatSella1.Typing.61,麻园的大部分地方我可能都去不了,
-ChatSella1.Sella.62,因为工作吗？,
-ChatSella1.Typing.63,因为工期和成本控制吧算是,
-ChatSella1.Sella.64,好吧好吧,
-ChatSella1.Sella.65,要注意身体啊,
-ChatSella1.Typing.66,嗯嗯,
+"location","source","target"
+"﻿ChatSella1.Typing.1","想起来还没打过招呼","想起来还没打过招呼"
+"ChatSella1.Sella.2","是哦","是哦"
+"ChatSella1.Sella.3","我是 829 首席咖啡师 Sella，很高兴认识你哇 ","我是 829 首席咖啡师 Sella，很高兴认识你哇 "
+"ChatSella1.Typing.4","哈罗，我是 Miki","哈罗，我是 Miki"
+"ChatSella1.Typing.5","一杯手冲谢谢","一杯手冲谢谢"
+"ChatSella1.Sella.6","哦呀","哦呀"
+"ChatSella1.Sella.7","没想到你喜欢喝手冲","没想到你喜欢喝手冲"
+"ChatSella1.Typing.8.1","怎么了吗？","怎么了吗？"
+"ChatSella1.Sella.9","倒是没什么","倒是没什么"
+"ChatSella1.Sella.10","就是","就是"
+"ChatSella1.Typing.8.2","Sella 喜欢喝什么？","Sella 喜欢喝什么？"
+"ChatSella1.Sella.12","那当然是无敌的 Dirty","那当然是无敌的 Dirty"
+"ChatSella1.Typing.13.1","什么是 Dirty","什么是 Dirty"
+"ChatSella1.Sella.14","就是一种把浓缩加在冰博客上的做法","就是一种把浓缩加在冰博客上的做法"
+"ChatSella1.Sella.15","浇上灵魂~","浇上灵魂~"
+"ChatSella1.Typing.16","什么是","什么是"
+"ChatSella1.Sella.17","冰博客就是一种特制的超浓牛奶","冰博客就是一种特制的超浓牛奶"
+"ChatSella1.Sella.18","有机会请务必来尝尝","有机会请务必来尝尝"
+"ChatSella1.Typing.13.2","/表情：好的","/表情：好的"
+"ChatSella1.Sella.20","不过","不过"
+"ChatSella1.Sella.21","我不太喜欢手冲啦","我不太喜欢手冲啦"
+"ChatSella1.Sella.22","我觉得没什么味道","我觉得没什么味道"
+"ChatSella1.Sella.23","每次做起来都很麻烦","每次做起来都很麻烦"
+"ChatSella1.Sella.24","虽说是价格也会更贵一点","虽说是价格也会更贵一点"
+"ChatSella1.Sella.25","但是我拿不到提成","但是我拿不到提成"
+"ChatSella1.Sella.26","我还是倾向于做简单一点儿的","我还是倾向于做简单一点儿的"
+"ChatSella1.Sella.27","顺带还可以营销健康理念的","顺带还可以营销健康理念的"
+"ChatSella1.Sella.28","无敌冰美式","无敌冰美式"
+"ChatSella1.Sella.29","顺带一提，由本首席领衔开发的花椒美式","顺带一提，由本首席领衔开发的花椒美式"
+"ChatSella1.Sella.30","将于今日上架！首发8.29折优惠！","将于今日上架！首发8.29折优惠！"
+"ChatSella1.Sella.31","沦陷在爱情酥酥麻麻的香甜之中吧！","沦陷在爱情酥酥麻麻的香甜之中吧！"
+"ChatSella1.Typing.32.1","好词！","好词！"
+"ChatSella1.Sella.33","是吧是吧",""
+"ChatSella1.Sella.34","我在当咖啡师之前是豆商做运营的","我在当咖啡师之前是豆商做运营的"
+"ChatSella1.Typing.32.2","花椒美式","花椒美式"
+"ChatSella1.Sella.36","我记得开发者是 Max？","我记得开发者是 Max？"
+"ChatSella1.Sella.37","哦呀，你认识那小子","哦呀，你认识那小子"
+"ChatSella1.Sella.38","需要特别指出","需要特别指出"
+"ChatSella1.Sella.39","Max 只是本咖啡师微不足道的拥趸之一","Max 只是本咖啡师微不足道的拥趸之一"
+"ChatSella1.Sella.40","每天只顾着和客人眉来眼去","每天只顾着和客人眉来眼去"
+"ChatSella1.Sella.41","怎么可能做得好咖啡","怎么可能做得好咖啡"
+"ChatSella1.Sella.42","连老板 Shaddy 都拜倒在我的才华之下","连老板 Shaddy 都拜倒在我的才华之下"
+"ChatSella1.Sella.43","有空请务必来尝一杯","有空请务必来尝一杯"
+"ChatSella1.Sella.44","哎，可惜明天就不来星水出摊了","哎，可惜明天就不来星水出摊了"
+"ChatSella1.Sella.45","可能要等到烟花节才会再出","可能要等到烟花节才会再出"
+"ChatSella1.Sella.46","烟花节那天好像下雨啊","烟花节那天好像下雨啊"
+"ChatSella1.Typing.47.1","希望别下","希望别下"
+"ChatSella1.Typing.47.2","那也没办法","那也没办法"
+"ChatSella1.Sella.49","是吧是吧","是吧是吧"
+"ChatSella1.Sella.50","不嫌远的话就来店里怎么样？","不嫌远的话就来店里怎么样？"
+"ChatSella1.Typing.51.1","可能不太方便","可能不太方便"
+"ChatSella1.Sella.52","好吧好吧",""
+"ChatSella1.Typing.51.2","有空就来","有空就来"
+"ChatSella1.Sella.54","好哦，我一般是周四休息","好哦，我一般是周四休息"
+"ChatSella1.Sella.55","已告知，勿辜负","已告知，勿辜负"
+"ChatSella1.Typing.56","好的","好的"
+"ChatSella1.Typing.51.3","我不知道我能不能来","我不知道我能不能来"
+"ChatSella1.Sella.58","为啥","为啥"
+"ChatSella1.Typing.59","我不太自由","我不太自由"
+"ChatSella1.Typing.60","一天之中我只有少数时间能自由活动","一天之中我只有少数时间能自由活动"
+"ChatSella1.Typing.61","麻园的大部分地方我可能都去不了","麻园的大部分地方我可能都去不了"
+"ChatSella1.Sella.62","因为工作吗？","因为工作吗？"
+"ChatSella1.Typing.63","因为工期和成本控制吧算是","因为工期和成本控制吧算是"
+"ChatSella1.Sella.64","好吧好吧","好吧好吧"
+"ChatSella1.Sella.65","要注意身体啊","要注意身体啊"
+"ChatSella1.Typing.66","嗯嗯","嗯嗯"
