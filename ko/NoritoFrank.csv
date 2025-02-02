@@ -1,43 +1,44 @@
-﻿NoritoFrank.Todo.0,尝试用 Norida 给 Frank 发消息,
-NoritoFrank.Monologue.1,>确定要以Nori的身份发消息给Frank吗？,
-NoritoFrank.Monologue.2,确定,
-NoritoFrank.Monologue.3,再想想……,
-NoritoFrank.Typing.4,Frank,
-NoritoFrank.Frank.5,滚,
-NoritoFrank.Frank.6,我他妈已经说了滚啊！,
-NoritoFrank.Typing.7,/不回,
-NoritoFrank.Monologue.8,靠……说不出话来……,
-NoritoFrank.Monologue.9,我是不是缺了什么线索……,
-NoritoFrank.Monologue.10,还是说这就是Nori的极限了……,
-NoritoFrank.Typing.11,你听我说,
-NoritoFrank.Think.100,Norida 其实还想继续做下去,
-NoritoFrank.Todo.100,用 Norida 告诉 Frank 他还想继续做下去,
-NoritoFrank.Todo.101,没有向 Frank 表明 Norida 的意愿,
-NoritoFrank.Typing.12,剧本我已经在写了,
-NoritoFrank.Frank.13,在写有什么用,
-NoritoFrank.Frank.14,啊？？,
-NoritoFrank.Frank.15,你现在写还能写得完？,
-NoritoFrank.Frank.16,就算写完了，你觉得自己写得那些垃圾比得上 Will？,
-NoritoFrank.Frank.17,你不是他，你做不到,
-NoritoFrank.Typing.18,我没想过成为老师,
-NoritoFrank.Typing.19,我只是想守护这个大家一起做游戏的地方,
-NoritoFrank.Typing.20,仅此而已,
-NoritoFrank.Frank.21,别装模作样的说些场面话,
-NoritoFrank.Frank.22,你倒是和 Will 学的有模有样,
-NoritoFrank.Frank.23,你能保证你做出来的剧情有玩家会喜欢,
-NoritoFrank.Frank.24,他们会氪金吗,
-NoritoFrank.Typing.25,我保证不了,
-NoritoFrank.Frank.26,那你还跟我废什么话,
-NoritoFrank.Typing.27,我觉得我们的目的是一样的,
-NoritoFrank.Typing.28,我们都想把这个项目做完,
-NoritoFrank.Typing.29,无论如何,
-NoritoFrank.Typing.30,无论幽灵协议 2 能走到哪里,
-NoritoFrank.Typing.31,我都会陪它走完,
-NoritoFrank.Frank.32,知道了,
-NoritoFrank.Frank.33,你尽快写完。,
-NoritoFrank.Frank.34,发行那边我尽量去谈延期,
-NoritoFrank.Frank.35,我和测试先跑着功能,
-NoritoFrank.Frank.36,明天来公司办公，不然不给你发工资。,
-NoritoFrank.Monologue.37,好！,
-NoritoFrank.Monologue.38,虽然没能取得什么实质进展。,
-NoritoFrank.Monologue.39,至少稳住了 Frank。,
+"location","source","target"
+"﻿NoritoFrank.Todo.0","尝试用 Norida 给 Frank 发消息","尝试用 Norida 给 Frank 发消息"
+"NoritoFrank.Monologue.1",">确定要以Nori的身份发消息给Frank吗？",">确定要以Nori的身份发消息给Frank吗？"
+"NoritoFrank.Monologue.2","确定","确定"
+"NoritoFrank.Monologue.3","再想想……","再想想……"
+"NoritoFrank.Typing.4","Frank","Frank"
+"NoritoFrank.Frank.5","滚","滚"
+"NoritoFrank.Frank.6","我他妈已经说了滚啊！","我他妈已经说了滚啊！"
+"NoritoFrank.Typing.7","/不回","/不回"
+"NoritoFrank.Monologue.8","靠……说不出话来……","靠……说不出话来……"
+"NoritoFrank.Monologue.9","我是不是缺了什么线索……","我是不是缺了什么线索……"
+"NoritoFrank.Monologue.10","还是说这就是Nori的极限了……","还是说这就是Nori的极限了……"
+"NoritoFrank.Typing.11","你听我说","你听我说"
+"NoritoFrank.Think.100","Norida 其实还想继续做下去","Norida 其实还想继续做下去"
+"NoritoFrank.Todo.100","用 Norida 告诉 Frank 他还想继续做下去","用 Norida 告诉 Frank 他还想继续做下去"
+"NoritoFrank.Todo.101","没有向 Frank 表明 Norida 的意愿","没有向 Frank 表明 Norida 的意愿"
+"NoritoFrank.Typing.12","剧本我已经在写了","剧本我已经在写了"
+"NoritoFrank.Frank.13","在写有什么用","在写有什么用"
+"NoritoFrank.Frank.14","啊？？","啊？？"
+"NoritoFrank.Frank.15","你现在写还能写得完？","你现在写还能写得完？"
+"NoritoFrank.Frank.16","就算写完了，你觉得自己写得那些垃圾比得上 Will？","就算写完了，你觉得自己写得那些垃圾比得上 Will？"
+"NoritoFrank.Frank.17","你不是他，你做不到","你不是他，你做不到"
+"NoritoFrank.Typing.18","我没想过成为老师","我没想过成为老师"
+"NoritoFrank.Typing.19","我只是想守护这个大家一起做游戏的地方","我只是想守护这个大家一起做游戏的地方"
+"NoritoFrank.Typing.20","仅此而已","仅此而已"
+"NoritoFrank.Frank.21","别装模作样的说些场面话","别装模作样的说些场面话"
+"NoritoFrank.Frank.22","你倒是和 Will 学的有模有样","你倒是和 Will 学的有模有样"
+"NoritoFrank.Frank.23","你能保证你做出来的剧情有玩家会喜欢","你能保证你做出来的剧情有玩家会喜欢"
+"NoritoFrank.Frank.24","他们会氪金吗","他们会氪金吗"
+"NoritoFrank.Typing.25","我保证不了","我保证不了"
+"NoritoFrank.Frank.26","那你还跟我废什么话","那你还跟我废什么话"
+"NoritoFrank.Typing.27","我觉得我们的目的是一样的","我觉得我们的目的是一样的"
+"NoritoFrank.Typing.28","我们都想把这个项目做完","我们都想把这个项目做完"
+"NoritoFrank.Typing.29","无论如何","无论如何"
+"NoritoFrank.Typing.30","无论幽灵协议 2 能走到哪里","无论幽灵协议 2 能走到哪里"
+"NoritoFrank.Typing.31","我都会陪它走完","我都会陪它走完"
+"NoritoFrank.Frank.32","知道了","知道了"
+"NoritoFrank.Frank.33","你尽快写完。","你尽快写完。"
+"NoritoFrank.Frank.34","发行那边我尽量去谈延期","发行那边我尽量去谈延期"
+"NoritoFrank.Frank.35","我和测试先跑着功能","我和测试先跑着功能"
+"NoritoFrank.Frank.36","明天来公司办公，不然不给你发工资。","明天来公司办公，不然不给你发工资。"
+"NoritoFrank.Monologue.37","好！","好！"
+"NoritoFrank.Monologue.38","虽然没能取得什么实质进展。","虽然没能取得什么实质进展。"
+"NoritoFrank.Monologue.39","至少稳住了 Frank。","至少稳住了 Frank。"
