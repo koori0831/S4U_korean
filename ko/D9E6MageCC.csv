@@ -1,29 +1,30 @@
-﻿D9E6MageCC.Tips.100,2011/6/28 21:01,
-D9E6MageCC.MageCC.1,勘探队呼叫特工 411，请汇报你的情况,
-D9E6MageCC.Lith.2,返回值 23,
-D9E6MageCC.MageCC.3,确认，链接已送达，请移步,
-D9E6MageCC.MageCC.4,前台组呼叫主厨 370，客人在催请上菜,
-D9E6MageCC.Lith.5,返回值 359,
-D9E6MageCC.MageCC.6,确认，链接已送达，请移步,
-D9E6MageCC.MageCC.7,现场呼叫总工 9，泵车已到达请开始施工,
-D9E6MageCC.Monologue.8,什么泵车……施工……是建筑行业的诅咒吗？,
-D9E6MageCC.Monologue.101,不过这个人说的话里是不是有什么<color=#DB7F20> 规律 </color>……？,
-D9E6MageCC.Typing.9,你是谁啊？,
-D9E6MageCC.Typing.10,什么泵车？,
-D9E6MageCC.Typing.11,返回值 126,
-D9E6MageCC.MageCC.12,否认，十个太阳时之后重新呼叫,
-D9E6MageCC.MageCC.13,你的粒子剩余量，是，EU78BB,
-D9E6MageCC.Typing.14,返回值 7,
-D9E6MageCC.MageCC.15,确认，链接环境不稳定，请重复此呼叫,
-D9E6MageCC.Monologue.16,我靠……重复什么？,
-D9E6MageCC.Monologue.17,我不小心说对了什么谜语？,
-D9E6MageCC.Typing.18,海鸥呼叫码头 042，请上菜,
-D9E6MageCC.Typing.19,建筑师呼叫公司 258，请发薪,
-D9E6MageCC.Typing.20,先遣队呼叫指挥员 73，请下达指示,
-D9E6MageCC.MageCC.21,钱收集得怎么样了？,
-D9E6MageCC.MageCC.22,这两天可是风声最紧的时候,
-D9E6MageCC.MageCC.23,你也不想你是赛博生命的事情被 TT 知道吧？,
-D9E6MageCC.Monologue.24,……这是？,
-D9E6MageCC.Monologue.25,不对劲。,
-D9E6MageCC.Monologue.26,不对劲……这次被骗的情况好复杂。,
-D9E6MageCC.Monologue.27,脑子里有点乱。,
+"location","source","target"
+"﻿D9E6MageCC.Tips.100","2011/6/28 21:01","2011/6/28 21:01"
+"D9E6MageCC.MageCC.1","勘探队呼叫特工 411，请汇报你的情况","勘探队呼叫特工 411，请汇报你的情况"
+"D9E6MageCC.Lith.2","返回值 23","返回值 23"
+"D9E6MageCC.MageCC.3","确认，链接已送达，请移步",""
+"D9E6MageCC.MageCC.4","前台组呼叫主厨 370，客人在催请上菜","前台组呼叫主厨 370，客人在催请上菜"
+"D9E6MageCC.Lith.5","返回值 359","返回值 359"
+"D9E6MageCC.MageCC.6","确认，链接已送达，请移步","确认，链接已送达，请移步"
+"D9E6MageCC.MageCC.7","现场呼叫总工 9，泵车已到达请开始施工","现场呼叫总工 9，泵车已到达请开始施工"
+"D9E6MageCC.Monologue.8","什么泵车……施工……是建筑行业的诅咒吗？","什么泵车……施工……是建筑行业的诅咒吗？"
+"D9E6MageCC.Monologue.101","不过这个人说的话里是不是有什么<color=#DB7F20> 规律 </color>……？","不过这个人说的话里是不是有什么<color=#DB7F20> 规律 </color>……？"
+"D9E6MageCC.Typing.9","你是谁啊？","你是谁啊？"
+"D9E6MageCC.Typing.10","什么泵车？","什么泵车？"
+"D9E6MageCC.Typing.11","返回值 126","返回值 126"
+"D9E6MageCC.MageCC.12","否认，十个太阳时之后重新呼叫","否认，十个太阳时之后重新呼叫"
+"D9E6MageCC.MageCC.13","你的粒子剩余量，是，EU78BB","你的粒子剩余量，是，EU78BB"
+"D9E6MageCC.Typing.14","返回值 7","返回值 7"
+"D9E6MageCC.MageCC.15","确认，链接环境不稳定，请重复此呼叫","确认，链接环境不稳定，请重复此呼叫"
+"D9E6MageCC.Monologue.16","我靠……重复什么？","我靠……重复什么？"
+"D9E6MageCC.Monologue.17","我不小心说对了什么谜语？","我不小心说对了什么谜语？"
+"D9E6MageCC.Typing.18","海鸥呼叫码头 042，请上菜","海鸥呼叫码头 042，请上菜"
+"D9E6MageCC.Typing.19","建筑师呼叫公司 258，请发薪","建筑师呼叫公司 258，请发薪"
+"D9E6MageCC.Typing.20","先遣队呼叫指挥员 73，请下达指示","先遣队呼叫指挥员 73，请下达指示"
+"D9E6MageCC.MageCC.21","钱收集得怎么样了？","钱收集得怎么样了？"
+"D9E6MageCC.MageCC.22","这两天可是风声最紧的时候","这两天可是风声最紧的时候"
+"D9E6MageCC.MageCC.23","你也不想你是赛博生命的事情被 TT 知道吧？","你也不想你是赛博生命的事情被 TT 知道吧？"
+"D9E6MageCC.Monologue.24","……这是？","……这是？"
+"D9E6MageCC.Monologue.25","不对劲。","不对劲。"
+"D9E6MageCC.Monologue.26","不对劲……这次被骗的情况好复杂。","不对劲……这次被骗的情况好复杂。"
+"D9E6MageCC.Monologue.27","脑子里有点乱。","脑子里有点乱。"
