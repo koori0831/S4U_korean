@@ -1,16 +1,17 @@
-﻿FrankAsk.Typing.1.1,Frank，你有 Will 的新消息吗？,
-FrankAsk.Typing.1.2,Frank老师，你有 Will 的新消息吗？,
-FrankAsk.Frank.3,滚,
-FrankAsk.Frank.4,有完没完？,
-FrankAsk.Frank.5,你还找了些三流公司来审我是不是？,
-FrankAsk.Monologue.6,那么快露馅了吗……？,
-FrankAsk.Frank.7,剧本找到了没？什么时候能给？我告诉你，我不会再为这件破事花一分钱,
-FrankAsk.Typing.8,你吗的,
-FrankAsk.Frank.9,要是后天还交不出剧本你就等着坐牢吧,
-FrankAsk.Monologue.101,越想越气！,
-FrankAsk.Monologue.102,他妈的，这两天怎么每个人都要屌我两句。,
-FrankAsk.Monologue.103,不行我不能再忍了。,
-FrankAsk.Monologue.104,必须重拳出击。,
-FrankAsk.Typing.10.1,你妈的，你是不是有病,
-FrankAsk.Typing.10.2,滚,
-FrankAsk.Typing.10.3,/不回,
+"location","source","target"
+"﻿FrankAsk.Typing.1.1","Frank，你有 Will 的新消息吗？","Frank，你有 Will 的新消息吗？"
+"FrankAsk.Typing.1.2","Frank老师，你有 Will 的新消息吗？","Frank老师，你有 Will 的新消息吗？"
+"FrankAsk.Frank.3","滚",""
+"FrankAsk.Frank.4","有完没完？","有完没完？"
+"FrankAsk.Frank.5","你还找了些三流公司来审我是不是？","你还找了些三流公司来审我是不是？"
+"FrankAsk.Monologue.6","那么快露馅了吗……？","那么快露馅了吗……？"
+"FrankAsk.Frank.7","剧本找到了没？什么时候能给？我告诉你，我不会再为这件破事花一分钱","剧本找到了没？什么时候能给？我告诉你，我不会再为这件破事花一分钱"
+"FrankAsk.Typing.8","你吗的","你吗的"
+"FrankAsk.Frank.9","要是后天还交不出剧本你就等着坐牢吧","要是后天还交不出剧本你就等着坐牢吧"
+"FrankAsk.Monologue.101","越想越气！","越想越气！"
+"FrankAsk.Monologue.102","他妈的，这两天怎么每个人都要屌我两句。","他妈的，这两天怎么每个人都要屌我两句。"
+"FrankAsk.Monologue.103","不行我不能再忍了。","不行我不能再忍了。"
+"FrankAsk.Monologue.104","必须重拳出击。","必须重拳出击。"
+"FrankAsk.Typing.10.1","你妈的，你是不是有病","你妈的，你是不是有病"
+"FrankAsk.Typing.10.2","滚","滚"
+"FrankAsk.Typing.10.3","/不回","/不回"
