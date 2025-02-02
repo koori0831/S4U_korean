@@ -1,10 +1,11 @@
-﻿D9E6NilMage.Lith.1,钱我已经准备好了,
-D9E6NilMage.Lith.2,之前的那个渠道好像被盯上了,
-D9E6NilMage.Lith.3,我不放心,
-D9E6NilMage.Lith.4,我们改用加密渠道付款吧,
-D9E6NilMage.MageCC.5,怎么都行,
-D9E6NilMage.MageCC.6,随便你,
-D9E6NilMage.Tips.7,failed refer,
-D9E6NilMage.Tips.8,failed refer,
-D9E6NilMage.Tips.9,failed refer,
-D9E6NilMage.Tips.10,您已经与服务器断联,
+"location","source","target"
+"﻿D9E6NilMage.Lith.1","钱我已经准备好了","钱我已经准备好了"
+"D9E6NilMage.Lith.2","之前的那个渠道好像被盯上了","之前的那个渠道好像被盯上了"
+"D9E6NilMage.Lith.3","我不放心","我不放心"
+"D9E6NilMage.Lith.4","我们改用加密渠道付款吧","我们改用加密渠道付款吧"
+"D9E6NilMage.MageCC.5","怎么都行","怎么都行"
+"D9E6NilMage.MageCC.6","随便你",""
+"D9E6NilMage.Tips.7","failed refer",""
+"D9E6NilMage.Tips.8","failed refer",""
+"D9E6NilMage.Tips.9","failed refer","failed refer"
+"D9E6NilMage.Tips.10","您已经与服务器断联","您已经与服务器断联"
