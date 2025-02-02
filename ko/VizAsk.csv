@@ -1,35 +1,36 @@
-﻿VizAsk.Typing.1.1,Viz 姐，你有老师的新消息吗？,
-VizAsk.Viz.2,没有……,
-VizAsk.Typing.3,他也没联系你吗？,
-VizAsk.Viz.4,没，一点消息都没有,
-VizAsk.Typing.1.2,Viz 姐，老师这两天还好吗？,
-VizAsk.Viz.6,我不知道啊……,
-VizAsk.Viz.7,他完全没联系过我,
-VizAsk.Typing.8,您最后一次见他是什么时候？,
-VizAsk.Viz.9,前个星期五，机械洲的酒会,
-VizAsk.Viz.10,他一开始在 KK 他们工作室不是解散了，他刚开始在那桌哭来着,
-VizAsk.Viz.11,后来我看他和一个女孩儿一起打车走的,
-VizAsk.Viz.12,不知道去哪里了,
-VizAsk.Monologue.13,KK……我好像在哪里看到过这个名字。,
-VizAsk.Monologue.14,这会成为找到 Will 的线索吗……,
-VizAsk.Monologue.15,是在哪里看到过来着……？,
-VizAsk.Viz.16,你最近还好吗？,
-VizAsk.Typing.17,嗯？,
-VizAsk.Viz.18,Frank 后来有找过你的麻烦吗,
-VizAsk.Monologue.100,刚刚 Frank 确实在找……我的麻烦,
-VizAsk.Monologue.101,麻烦？,
-VizAsk.Typing.19.1,有,
-VizAsk.Viz.20,唉,
-VizAsk.Viz.21,我劝不住他,
-VizAsk.Viz.22,你也理解他点儿,
-VizAsk.Viz.23,他压力也很大，每天都在和 Milix 那边扯皮,
-VizAsk.Typing.19.2,没有,
-VizAsk.Viz.25,那就好,
-VizAsk.Typing.26.1,老师真的没有联系过您?,
-VizAsk.Viz.27,真的,
-VizAsk.Typing.26.2,您和老师到底是什么关系？,
-VizAsk.Viz.29,普通朋友,
-VizAsk.Viz.30,同事，仅此而已,
-VizAsk.Typing.31,好吧,
-VizAsk.Monologue.32,好像没有什么能和她说的了……,
-VizAsk.Todo.2,无法从 Viz 得到信息,
+"location","source","target"
+"﻿VizAsk.Typing.1.1","Viz 姐，你有老师的新消息吗？","Viz 姐，你有老师的新消息吗？"
+"VizAsk.Viz.2","没有……","没有……"
+"VizAsk.Typing.3","他也没联系你吗？","他也没联系你吗？"
+"VizAsk.Viz.4","没，一点消息都没有","没，一点消息都没有"
+"VizAsk.Typing.1.2","Viz 姐，老师这两天还好吗？","Viz 姐，老师这两天还好吗？"
+"VizAsk.Viz.6","我不知道啊……","我不知道啊……"
+"VizAsk.Viz.7","他完全没联系过我","他完全没联系过我"
+"VizAsk.Typing.8","您最后一次见他是什么时候？","您最后一次见他是什么时候？"
+"VizAsk.Viz.9","前个星期五，机械洲的酒会","前个星期五，机械洲的酒会"
+"VizAsk.Viz.10","他一开始在 KK 他们工作室不是解散了，他刚开始在那桌哭来着","他一开始在 KK 他们工作室不是解散了，他刚开始在那桌哭来着"
+"VizAsk.Viz.11","后来我看他和一个女孩儿一起打车走的","后来我看他和一个女孩儿一起打车走的"
+"VizAsk.Viz.12","不知道去哪里了","不知道去哪里了"
+"VizAsk.Monologue.13","KK……我好像在哪里看到过这个名字。","KK……我好像在哪里看到过这个名字。"
+"VizAsk.Monologue.14","这会成为找到 Will 的线索吗……","这会成为找到 Will 的线索吗……"
+"VizAsk.Monologue.15","是在哪里看到过来着……？","是在哪里看到过来着……？"
+"VizAsk.Viz.16","你最近还好吗？","你最近还好吗？"
+"VizAsk.Typing.17","嗯？","嗯？"
+"VizAsk.Viz.18","Frank 后来有找过你的麻烦吗","Frank 后来有找过你的麻烦吗"
+"VizAsk.Monologue.100","刚刚 Frank 确实在找……我的麻烦","刚刚 Frank 确实在找……我的麻烦"
+"VizAsk.Monologue.101","麻烦？","麻烦？"
+"VizAsk.Typing.19.1","有","有"
+"VizAsk.Viz.20","唉","唉"
+"VizAsk.Viz.21","我劝不住他","我劝不住他"
+"VizAsk.Viz.22","你也理解他点儿","你也理解他点儿"
+"VizAsk.Viz.23","他压力也很大，每天都在和 Milix 那边扯皮","他压力也很大，每天都在和 Milix 那边扯皮"
+"VizAsk.Typing.19.2","没有","没有"
+"VizAsk.Viz.25","那就好","那就好"
+"VizAsk.Typing.26.1","老师真的没有联系过您?","老师真的没有联系过您?"
+"VizAsk.Viz.27","真的","真的"
+"VizAsk.Typing.26.2","您和老师到底是什么关系？","您和老师到底是什么关系？"
+"VizAsk.Viz.29","普通朋友","普通朋友"
+"VizAsk.Viz.30","同事，仅此而已","同事，仅此而已"
+"VizAsk.Typing.31","好吧","好吧"
+"VizAsk.Monologue.32","好像没有什么能和她说的了……","好像没有什么能和她说的了……"
+"VizAsk.Todo.2","无法从 Viz 得到信息","无法从 Viz 得到信息"
