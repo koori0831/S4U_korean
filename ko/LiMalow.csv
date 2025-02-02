@@ -1,47 +1,48 @@
-﻿LiMalow.todo.0,帮 Malow 回复 Li,
-LiMalow.Li.1,老板，我有个问题想请教一下,
-LiMalow.Monologue.2,这是我的手下吗？,
-LiMalow.Monologue.3,照 MaLow 的话来说，我应该是个高高在上的学术皇帝。,
-LiMalow.Monologue.3_1,没办法，来都来了——,
-LiMalow.Monologue.4,这次就试着把握一下皇帝和老板的感觉吧。,
-LiMalow.Typing.5.1,说,
-LiMalow.Li.6,呃,
-LiMalow.Typing.5.2,现在没空,
-LiMalow.Li.8,老板！拜托了，我已经苦思冥想了 30 分钟了！,
-LiMalow.Typing.9,才 30 分钟而已吗？,
-LiMalow.Typing.10,再给我去想 2 个小时！,
-LiMalow.Li.11,老板，你听我解释,
-LiMalow.Li.12,我的那个甲基化实验数据看着有点不对,
-LiMalow.Typing.13,什么实验？,
-LiMalow.Li.14,就是你说年中必须发论文的那个实验啊,
-LiMalow.Typing.15.1,我不知道，别来问我,
-LiMalow.Bubble.15.1,嗯，很有感觉。,
-LiMalow.Li.16,太薄情了，老板,
-LiMalow.Li.17,很简单的，你肯定一眼就能看出来,
-LiMalow.Li.18,我是说,
-LiMalow.Li.19,我作为您的大弟子和您心有灵犀,
-LiMalow.Typing.15.2,植物混凝土那个吗？,
-LiMalow.Bubble.15.2,我还是忘不了建筑。,
-LiMalow.Li.20,啊？那是什么,
-LiMalow.Li.21,我是 Li 啊，您的大弟子 Li,
-LiMalow.Typing.15.3,怎么不做机动结晶？,
-LiMalow.Bubble.15.3,好像 Malow 是做这个的。,
-LiMalow.Li.110,啊？不是老板你之前说的,
-LiMalow.Li.111,我的资质不足以从事结晶药研究,
-LiMalow.Li.112,还是好好折腾我这些花花草草,
-LiMalow.Li.113,作为您的大弟子我其实很受伤,
-LiMalow.Monologue.22,原来是我的大弟子啊。,
-LiMalow.Monologue.101,好久没听这个词了。,
-LiMalow.Monologue.102,感觉像是本世纪初的 MMORPG 里的用词——,
-LiMalow.Monologue.103,那个时候还有网恋。,
-LiMalow.Monologue.104,真好啊……,
-LiMalow.Li.23,我的题目是,
-LiMalow.Li.24,凤凰苷对拟南芥 DNA 甲基化的影响,
-LiMalow.Typing.25,哦，我想起来了，是有这么回事,
-LiMalow.Li.26,总之麻烦老板看一下数据是哪里有问题,
-LiMalow.Li.27,[实验数据图],
-LiMalow.Tips.101,对方撤回了一条消息，因为要去拿外卖,
-LiMalow.Typing.28.1,你干嘛？,
-LiMalow.Typing.28.2,怎么了?,
-LiMalow.Li.30,不好意思，这个图稍微有点问题,
-LiMalow.Li.31,稍等我修一下,
+"location","source","target"
+"﻿LiMalow.todo.0","帮 Malow 回复 Li","帮 Malow 回复 Li"
+"LiMalow.Li.1","老板，我有个问题想请教一下","老板，我有个问题想请教一下"
+"LiMalow.Monologue.2","这是我的手下吗？","这是我的手下吗？"
+"LiMalow.Monologue.3","照 MaLow 的话来说，我应该是个高高在上的学术皇帝。","照 MaLow 的话来说，我应该是个高高在上的学术皇帝。"
+"LiMalow.Monologue.3_1","没办法，来都来了——","没办法，来都来了——"
+"LiMalow.Monologue.4","这次就试着把握一下皇帝和老板的感觉吧。","这次就试着把握一下皇帝和老板的感觉吧。"
+"LiMalow.Typing.5.1","说","说"
+"LiMalow.Li.6","呃","呃"
+"LiMalow.Typing.5.2","现在没空","现在没空"
+"LiMalow.Li.8","老板！拜托了，我已经苦思冥想了 30 分钟了！","老板！拜托了，我已经苦思冥想了 30 分钟了！"
+"LiMalow.Typing.9","才 30 分钟而已吗？","才 30 分钟而已吗？"
+"LiMalow.Typing.10","再给我去想 2 个小时！","再给我去想 2 个小时！"
+"LiMalow.Li.11","老板，你听我解释","老板，你听我解释"
+"LiMalow.Li.12","我的那个甲基化实验数据看着有点不对","我的那个甲基化实验数据看着有点不对"
+"LiMalow.Typing.13","什么实验？","什么实验？"
+"LiMalow.Li.14","就是你说年中必须发论文的那个实验啊","就是你说年中必须发论文的那个实验啊"
+"LiMalow.Typing.15.1","我不知道，别来问我","我不知道，别来问我"
+"LiMalow.Bubble.15.1","嗯，很有感觉。","嗯，很有感觉。"
+"LiMalow.Li.16","太薄情了，老板","太薄情了，老板"
+"LiMalow.Li.17","很简单的，你肯定一眼就能看出来","很简单的，你肯定一眼就能看出来"
+"LiMalow.Li.18","我是说","我是说"
+"LiMalow.Li.19","我作为您的大弟子和您心有灵犀","我作为您的大弟子和您心有灵犀"
+"LiMalow.Typing.15.2","植物混凝土那个吗？","植物混凝土那个吗？"
+"LiMalow.Bubble.15.2","我还是忘不了建筑。","我还是忘不了建筑。"
+"LiMalow.Li.20","啊？那是什么","啊？那是什么"
+"LiMalow.Li.21","我是 Li 啊，您的大弟子 Li","我是 Li 啊，您的大弟子 Li"
+"LiMalow.Typing.15.3","怎么不做机动结晶？","怎么不做机动结晶？"
+"LiMalow.Bubble.15.3","好像 Malow 是做这个的。","好像 Malow 是做这个的。"
+"LiMalow.Li.110","啊？不是老板你之前说的","啊？不是老板你之前说的"
+"LiMalow.Li.111","我的资质不足以从事结晶药研究","我的资质不足以从事结晶药研究"
+"LiMalow.Li.112","还是好好折腾我这些花花草草","还是好好折腾我这些花花草草"
+"LiMalow.Li.113","作为您的大弟子我其实很受伤","作为您的大弟子我其实很受伤"
+"LiMalow.Monologue.22","原来是我的大弟子啊。","原来是我的大弟子啊。"
+"LiMalow.Monologue.101","好久没听这个词了。","好久没听这个词了。"
+"LiMalow.Monologue.102","感觉像是本世纪初的 MMORPG 里的用词——","感觉像是本世纪初的 MMORPG 里的用词——"
+"LiMalow.Monologue.103","那个时候还有网恋。","那个时候还有网恋。"
+"LiMalow.Monologue.104","真好啊……","真好啊……"
+"LiMalow.Li.23","我的题目是","我的题目是"
+"LiMalow.Li.24","凤凰苷对拟南芥 DNA 甲基化的影响","凤凰苷对拟南芥 DNA 甲基化的影响"
+"LiMalow.Typing.25","哦，我想起来了，是有这么回事","哦，我想起来了，是有这么回事"
+"LiMalow.Li.26","总之麻烦老板看一下数据是哪里有问题","总之麻烦老板看一下数据是哪里有问题"
+"LiMalow.Li.27","[实验数据图]","[实验数据图]"
+"LiMalow.Tips.101","对方撤回了一条消息，因为要去拿外卖","对方撤回了一条消息，因为要去拿外卖"
+"LiMalow.Typing.28.1","你干嘛？","你干嘛？"
+"LiMalow.Typing.28.2","怎么了?","怎么了?"
+"LiMalow.Li.30","不好意思，这个图稍微有点问题","不好意思，这个图稍微有点问题"
+"LiMalow.Li.31","稍等我修一下","稍等我修一下"
