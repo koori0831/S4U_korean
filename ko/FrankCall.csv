@@ -1,9 +1,10 @@
-﻿FrankCall.Monologue.1,Frank 发起了语音通话,
-FrankCall.Monologue.2,靠……这什么意思……,
-FrankCall.Monologue.3,Frank 发起了语音通话,
-FrankCall.Monologue.4,Frank 发起了语音通话,
-FrankCall.Monologue.5,看来没办法从他身上问到什么有价值的情报。,
-FrankCall.Frank.6,@#$^&%!$# …*&@%!$#……*&#$^&@#$^&%!$# …*&@%!$#……*&#$^&,
-FrankCall.Frank.7,*&%!$# @#$^&*&@#$^&%!$# ……*&%!$# @#$^&*&@#$^&%!$# ……,
-FrankCall.Frank.8,……*&#$^&*&%!$# @#$^&*&@#$^&%!$# …………*&#$^&*&%!$# @#$^&*&@#$^&%!$# ……,
-FrankCall.Todo.1,无法从 Frank 得到信息,
+"location","source","target"
+"﻿FrankCall.Monologue.1","Frank 发起了语音通话",""
+"FrankCall.Monologue.2","靠……这什么意思……","靠……这什么意思……"
+"FrankCall.Monologue.3","Frank 发起了语音通话",""
+"FrankCall.Monologue.4","Frank 发起了语音通话","Frank 发起了语音通话"
+"FrankCall.Monologue.5","看来没办法从他身上问到什么有价值的情报。","看来没办法从他身上问到什么有价值的情报。"
+"FrankCall.Frank.6","@#$^&%!$# …*&@%!$#……*&#$^&@#$^&%!$# …*&@%!$#……*&#$^&","@#$^&%!$# …*&@%!$#……*&#$^&@#$^&%!$# …*&@%!$#……*&#$^&"
+"FrankCall.Frank.7","*&%!$# @#$^&*&@#$^&%!$# ……*&%!$# @#$^&*&@#$^&%!$# ……","*&%!$# @#$^&*&@#$^&%!$# ……*&%!$# @#$^&*&@#$^&%!$# ……"
+"FrankCall.Frank.8","……*&#$^&*&%!$# @#$^&*&@#$^&%!$# …………*&#$^&*&%!$# @#$^&*&@#$^&%!$# ……","……*&#$^&*&%!$# @#$^&*&@#$^&%!$# …………*&#$^&*&%!$# @#$^&*&@#$^&%!$# ……"
+"FrankCall.Todo.1","无法从 Frank 得到信息","无法从 Frank 得到信息"
