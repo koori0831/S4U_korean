@@ -1,12 +1,13 @@
-﻿NoridaWillChoose.Typing.1.1,我回来了,
-NoridaWillChoose.Think.200,用 Will 和 Frank 还能再谈谈吗？,
-NoridaWillChoose.Think.201,用 Will 直接去找 Viz？,
-NoridaWillChoose.Typing.1.2,我觉得我们可以谈谈了,
-NoridaWillChoose.Typing.1.3,前几天有点事情,
-NoridaWillChoose.Typing.4,Frank,
-NoridaWillChoose.Think.202,用 Norida 的身份或许可以劝劝 Frank？,
-NoridaWillChoose.Typing.5,Viz 姐，我们谈谈吧,
-NoridaWillChoose.Typing.6,Viz姐，老师和我说了您的事情,
-NoridaWillChoose.Think.99,用 Norida 向 Viz 打听 Will 在哪？,
-NoridaWillChoose.Todo.101,没有深入 Viz 和 Will 的关系,
-NoridaWillChoose.Think.100,Viz 和 Will 似乎有暧昧不清的关系,
+"location","source","target"
+"﻿NoridaWillChoose.Typing.1.1","我回来了","我回来了"
+"NoridaWillChoose.Think.200","用 Will 和 Frank 还能再谈谈吗？","用 Will 和 Frank 还能再谈谈吗？"
+"NoridaWillChoose.Think.201","用 Will 直接去找 Viz？","用 Will 直接去找 Viz？"
+"NoridaWillChoose.Typing.1.2","我觉得我们可以谈谈了","我觉得我们可以谈谈了"
+"NoridaWillChoose.Typing.1.3","前几天有点事情","前几天有点事情"
+"NoridaWillChoose.Typing.4","Frank","Frank"
+"NoridaWillChoose.Think.202","用 Norida 的身份或许可以劝劝 Frank？","用 Norida 的身份或许可以劝劝 Frank？"
+"NoridaWillChoose.Typing.5","Viz 姐，我们谈谈吧","Viz 姐，我们谈谈吧"
+"NoridaWillChoose.Typing.6","Viz姐，老师和我说了您的事情","Viz姐，老师和我说了您的事情"
+"NoridaWillChoose.Think.99","用 Norida 向 Viz 打听 Will 在哪？","用 Norida 向 Viz 打听 Will 在哪？"
+"NoridaWillChoose.Todo.101","没有深入 Viz 和 Will 的关系","没有深入 Viz 和 Will 的关系"
+"NoridaWillChoose.Think.100","Viz 和 Will 似乎有暧昧不清的关系","Viz 和 Will 似乎有暧昧不清的关系"
