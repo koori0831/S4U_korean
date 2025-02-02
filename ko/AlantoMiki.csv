@@ -1,32 +1,33 @@
-﻿AlantoMiki.Alan.1,怎么样,
-AlantoMiki.Monologue.2,……,
-AlantoMiki.Monologue.3,靠，忙忘了……,
-AlantoMiki.Typing.4,发生了一些复杂的事情,
-AlantoMiki.Think.201,Amanda 和 Frank 似乎有别的关系,
-AlantoMiki.Typing.5,你老婆 Amanda 是幻视科技的员工,
-AlantoMiki.Alan.6,是的,
-AlantoMiki.Typing.7,她出轨了,
-AlantoMiki.Typing.8,和她的上司 Frank,
-AlantoMiki.Alan.9,证据,
-AlantoMiki.Typing.10,我有一些间接，但是直白的证据,
-AlantoMiki.Typing.11,/转发: [Frank 与 Will 的聊天记录],
-AlantoMiki.Typing.202,"<color=#38639A><sprite name=""Link"">[Frank 与 Will 的聊天记录]",
-AlantoMiki.Alan.12,你和她提离婚了吗？,
-AlantoMiki.Typing.13,还没,
-AlantoMiki.Alan.14,好，你别管这件事了,
-AlantoMiki.Alan.15,请你为我保守秘密,
-AlantoMiki.Alan.16,如果有机会，在我的能力范围内,
-AlantoMiki.Alan.17,我会报答你的,
-AlantoMiki.Alan.18,谢谢你,
-AlantoMiki.Monologue.19,……就这样吗？,
-AlantoMiki.Monologue.20,一段婚姻的毁灭。,
-AlantoMiki.Typing.200,她没有回复,
-AlantoMiki.Typing.21,我给忙忘了……,
-AlantoMiki.Alan.22,啧，你好没用啊,
-AlantoMiki.Alan.23,算了,
-AlantoMiki.Alan.24,不用你管理,
-AlantoMiki.Alan.25,管了,
-AlantoMiki.Alan.26,我自己去,
-AlantoMiki.Monologue.100,还不是因为你每次都在我处理别的订单的时候来……,
-AlantoMiki.Monologue.101,不过我好像什么都没干……,
-AlantoMiki.Monologue.102,不过 Amanda 的事情，还是让 Alan 自己去处理吧。,
+"location","source","target"
+"﻿AlantoMiki.Alan.1","怎么样","怎么样"
+"AlantoMiki.Monologue.2","……","……"
+"AlantoMiki.Monologue.3","靠，忙忘了……","靠，忙忘了……"
+"AlantoMiki.Typing.4","发生了一些复杂的事情","发生了一些复杂的事情"
+"AlantoMiki.Think.201","Amanda 和 Frank 似乎有别的关系","Amanda 和 Frank 似乎有别的关系"
+"AlantoMiki.Typing.5","你老婆 Amanda 是幻视科技的员工","你老婆 Amanda 是幻视科技的员工"
+"AlantoMiki.Alan.6","是的","是的"
+"AlantoMiki.Typing.7","她出轨了","她出轨了"
+"AlantoMiki.Typing.8","和她的上司 Frank","和她的上司 Frank"
+"AlantoMiki.Alan.9","证据","证据"
+"AlantoMiki.Typing.10","我有一些间接，但是直白的证据","我有一些间接，但是直白的证据"
+"AlantoMiki.Typing.11","/转发: [Frank 与 Will 的聊天记录]","/转发: [Frank 与 Will 的聊天记录]"
+"AlantoMiki.Typing.202","<color=#38639A><sprite name=""Link"">[Frank 与 Will 的聊天记录]","<color=#38639A><sprite name=""Link"">[Frank 与 Will 的聊天记录]"
+"AlantoMiki.Alan.12","你和她提离婚了吗？","你和她提离婚了吗？"
+"AlantoMiki.Typing.13","还没","还没"
+"AlantoMiki.Alan.14","好，你别管这件事了","好，你别管这件事了"
+"AlantoMiki.Alan.15","请你为我保守秘密","请你为我保守秘密"
+"AlantoMiki.Alan.16","如果有机会，在我的能力范围内","如果有机会，在我的能力范围内"
+"AlantoMiki.Alan.17","我会报答你的","我会报答你的"
+"AlantoMiki.Alan.18","谢谢你","谢谢你"
+"AlantoMiki.Monologue.19","……就这样吗？","……就这样吗？"
+"AlantoMiki.Monologue.20","一段婚姻的毁灭。","一段婚姻的毁灭。"
+"AlantoMiki.Typing.200","她没有回复","她没有回复"
+"AlantoMiki.Typing.21","我给忙忘了……","我给忙忘了……"
+"AlantoMiki.Alan.22","啧，你好没用啊","啧，你好没用啊"
+"AlantoMiki.Alan.23","算了","算了"
+"AlantoMiki.Alan.24","不用你管理","不用你管理"
+"AlantoMiki.Alan.25","管了","管了"
+"AlantoMiki.Alan.26","我自己去","我自己去"
+"AlantoMiki.Monologue.100","还不是因为你每次都在我处理别的订单的时候来……","还不是因为你每次都在我处理别的订单的时候来……"
+"AlantoMiki.Monologue.101","不过我好像什么都没干……","不过我好像什么都没干……"
+"AlantoMiki.Monologue.102","不过 Amanda 的事情，还是让 Alan 自己去处理吧。","不过 Amanda 的事情，还是让 Alan 自己去处理吧。"
