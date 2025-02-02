@@ -1,56 +1,56 @@
-"location","source","target"
-"﻿Tutorial.Nil.1","喂喂喂","喂喂喂"
-"Tutorial.Nil.2","能看到吗，Miki？","能看到吗，Miki？"
-"Tutorial.Nil.3","我帮你装了些有意思的新软件","我帮你装了些有意思的新软件"
-"Tutorial.Nil.4","能看到的话就用<color=#DB7F20> 键盘<sprite name=""Keyboard""></color>随便输入点什么","能看到的话就用<color=#DB7F20> 键盘<sprite name=""Keyboard""></color>随便输入点什么"
-"Tutorial.Nil.5","然后按<color=#DB7F20> 回车键<sprite name=""Enter""></color>发给我","然后按<color=#DB7F20> 回车键<sprite name=""Enter""></color>发给我"
-"Tutorial.Todo.0","学会使用键盘","学会使用键盘"
-"Tutorial.Todo.1","发送第一条消息","发送第一条消息"
-"Tutorial.Typing.6","我在","我在"
-"Tutorial.Todo.-1","使用回车发送第一条消息 ","使用回车发送第一条消息 "
-"Tutorial.Nil.7","没问题，看来你还记得怎么用键盘打字","没问题，看来你还记得怎么用键盘打字"
-"Tutorial.Nil.8","键盘打字，退格删除，回车发送","键盘打字，退格删除，回车发送"
-"Tutorial.Nil.9","应该没人会弄混吧？","应该没人会弄混吧？"
-"Tutorial.Nil.10","已经打出来的字如果不满意也可以用<color=#DB7F20> 退格键<sprite name=""Backspace""></color>删掉重新打","已经打出来的字如果不满意也可以用<color=#DB7F20> 退格键<sprite name=""Backspace""></color>删掉重新打"
-"Tutorial.Nil.11","现在就试试吧","现在就试试吧"
-"Tutorial.Todo.2","学会删除回复内容","学会删除回复内容"
-"Tutorial.Typing.12","好的","好的"
-"Tutorial.Nil.13","好好听人说话啊!记得按<color=#DB7F20> 退格键<sprite name=""Backspace""></color>","好好听人说话啊!记得按<color=#DB7F20> 退格键<sprite name=""Backspace""></color>"
-"Tutorial.Typing.14","我已经会用了","我已经会用了"
-"Tutorial.Think.14.1","还是认真回答 Nil 吧","还是认真回答 Nil 吧"
-"Tutorial.Typing.15","我看着像这么白痴的人吗","我看着像这么白痴的人吗"
-"Tutorial.Todo.-2","使用退格键删除回复的内容","使用退格键删除回复的内容"
-"Tutorial.Nil.16","很好，你是天才","很好，你是天才"
-"Tutorial.Nil.200","好吧，我看你是在耍我","好吧，我看你是在耍我"
-"Tutorial.Nil.101","哦，对了，我还为你贴心的准备了一些额外的特性","哦，对了，我还为你贴心的准备了一些额外的特性"
-"Tutorial.Nil.102","尝试过所有可能之后，可以用<color=#DB7F20> 退格<sprite name=""Backspace""></color>在输入过的内容间快速切换","尝试过所有可能之后，可以用<color=#DB7F20> 退格<sprite name=""Backspace""></color>在输入过的内容间快速切换"
-"Tutorial.Nil.103","你可以试试","你可以试试"
-"Tutorial.Typing.104","谢谢你，我很需要这个","谢谢你，我很需要这个"
-"Tutorial.Nil.105","举手之劳","举手之劳"
-"Tutorial.Typing.106","似乎用不上","似乎用不上"
-"Tutorial.Nil.107","等以后你同时和四个人聊天你就知错","等以后你同时和四个人聊天你就知错"
-"Tutorial.Nil.17","等一下，","等一下，"
-"Tutorial.Nil.18","<nokey>server out of time.Error 4521...Tried 1 times","<nokey>server out of time.Error 4521...Tried 1 times"
-"Tutorial.Nil.19","<nokey>server out of time.Error 4521...Tried 2 times","<nokey>server out of time.Error 4521...Tried 2 times"
-"Tutorial.Nil.20","<nokey>server out of time.Error 4521...Tried 3 times","<nokey>server out of time.Error 4521...Tried 3 times"
-"Tutorial.Nil.21","ERROR HUMAN IS DEAD, MISMATCH.","ERROR HUMAN IS DEAD, MISMATCH."
-"Tutorial.Nil.22","不好意思，一点小问题。","不好意思，一点小问题。"
-"Tutorial.Nil.23","我没有吓到你吧？","我没有吓到你吧？"
-"Tutorial.Typing.24","呃，没有","呃，没有"
-"Tutorial.Nil.25","请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续","请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续"
-"Tutorial.Nil.26","请输入验证码 PITB","请输入验证码 PITB"
-"Tutorial.Todo.3","输入验证码 PITB","输入验证码 PITB"
-"Tutorial.Typing.27","AHYO","AHYO"
-"Tutorial.Typing.28","PITB","PITB"
-"Tutorial.Typing.29","MKTC","MKTC"
-"Tutorial.Todo.-0","学会使用键盘了","学会使用键盘了"
-"Tutorial.Todo.-3","输入了验证码PITB","输入了验证码PITB"
-"Tutorial.Nil.30","唔哇——！吓我一跳！","唔哇——！吓我一跳！"
-"Tutorial.Typing.31","这下是真的吓到我了","这下是真的吓到我了"
-"Tutorial.Typing.32","你该不会是赛博生命吧？","你该不会是赛博生命吧？"
-"Tutorial.Nil.33","不不，那怎么可能","不不，那怎么可能"
-"Tutorial.Nil.34","一点小小的后端问题","一点小小的后端问题"
-"Tutorial.Nil.35","已经不重要了","已经不重要了"
-"Tutorial.Nil.36","其他的常用操作都在“用户手册”里","其他的常用操作都在“用户手册”里"
-"Tutorial.Nil.37","<color=#38639A><sprite name=""Link"">[用户手册]","<color=#38639A><sprite name=""Link"">[用户手册]"
-"Tutorial.Nil.38","你可以看看","你可以看看"
+﻿location,source,target
+Tutorial.Nil.1,喂喂喂,
+Tutorial.Nil.2,能看到吗，Miki？,
+Tutorial.Nil.3,我帮你装了些有意思的新软件,
+Tutorial.Nil.4,"能看到的话就用<color=#DB7F20> 键盘<sprite name=""Keyboard""></color>随便输入点什么",
+Tutorial.Nil.5,"然后按<color=#DB7F20> 回车键<sprite name=""Enter""></color>发给我",
+Tutorial.Todo.0,学会使用键盘,
+Tutorial.Todo.1,发送第一条消息,
+Tutorial.Typing.6,我在,
+Tutorial.Todo.-1,使用回车发送第一条消息 ,
+Tutorial.Nil.7,没问题，看来你还记得怎么用键盘打字,
+Tutorial.Nil.8,键盘打字，退格删除，回车发送,
+Tutorial.Nil.9,应该没人会弄混吧？,
+Tutorial.Nil.10,"已经打出来的字如果不满意也可以用<color=#DB7F20> 退格键<sprite name=""Backspace""></color>删掉重新打",
+Tutorial.Nil.11,现在就试试吧,
+Tutorial.Todo.2,学会删除回复内容,
+Tutorial.Typing.12,好的,
+Tutorial.Nil.13,"好好听人说话啊!记得按<color=#DB7F20> 退格键<sprite name=""Backspace""></color>",
+Tutorial.Typing.14,我已经会用了,
+Tutorial.Think.14.1,还是认真回答 Nil 吧,
+Tutorial.Typing.15,我看着像这么白痴的人吗,
+Tutorial.Todo.-2,使用退格键删除回复的内容,
+Tutorial.Nil.16,很好，你是天才,
+Tutorial.Nil.200,好吧，我看你是在耍我,
+Tutorial.Nil.101,哦，对了，我还为你贴心的准备了一些额外的特性,
+Tutorial.Nil.102,"尝试过所有可能之后，可以用<color=#DB7F20> 退格<sprite name=""Backspace""></color>在输入过的内容间快速切换",
+Tutorial.Nil.103,你可以试试,
+Tutorial.Typing.104,谢谢你，我很需要这个,
+Tutorial.Nil.105,举手之劳,
+Tutorial.Typing.106,似乎用不上,
+Tutorial.Nil.107,等以后你同时和四个人聊天你就知错,
+Tutorial.Nil.17,等一下，,
+Tutorial.Nil.18,<nokey>server out of time.Error 4521...Tried 1 times,
+Tutorial.Nil.19,<nokey>server out of time.Error 4521...Tried 2 times,
+Tutorial.Nil.20,<nokey>server out of time.Error 4521...Tried 3 times,
+Tutorial.Nil.21,"ERROR HUMAN IS DEAD, MISMATCH.",
+Tutorial.Nil.22,不好意思，一点小问题。,
+Tutorial.Nil.23,我没有吓到你吧？,
+Tutorial.Typing.24,呃，没有,
+Tutorial.Nil.25,请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续请输入验证码以继续,
+Tutorial.Nil.26,请输入验证码 PITB,
+Tutorial.Todo.3,输入验证码 PITB,
+Tutorial.Typing.27,AHYO,
+Tutorial.Typing.28,PITB,
+Tutorial.Typing.29,MKTC,
+Tutorial.Todo.-0,学会使用键盘了,
+Tutorial.Todo.-3,输入了验证码PITB,
+Tutorial.Nil.30,唔哇——！吓我一跳！,
+Tutorial.Typing.31,这下是真的吓到我了,
+Tutorial.Typing.32,你该不会是赛博生命吧？,
+Tutorial.Nil.33,不不，那怎么可能,
+Tutorial.Nil.34,一点小小的后端问题,
+Tutorial.Nil.35,已经不重要了,
+Tutorial.Nil.36,其他的常用操作都在“用户手册”里,
+Tutorial.Nil.37,"<color=#38639A><sprite name=""Link"">[用户手册]",
+Tutorial.Nil.38,你可以看看,

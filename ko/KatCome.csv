@@ -1,47 +1,46 @@
-"location","source","target"
-"﻿KatCome.Kathy.1","你好 不好意思打扰了 想请教一下 是 Speak4U 网络替身公司吗？","你好 不好意思打扰了 想请教一下 是 Speak4U 网络替身公司吗？"
-"KatCome.Kathy.2","我是从新鲜事找过来的","我是从新鲜事找过来的"
-"KatCome.Typing.3","是的。","是的。"
-"KatCome.Typing.4","调制饮料，改","调制饮料，改"
-"KatCome.Typing.5","啊，不对。","啊，不对。"
-"KatCome.Typing.6","我是 S4U，有什么能帮到你？","我是 S4U，有什么能帮到你？"
-"KatCome.Typing.7","Spark40？怎么看着像是火箭的名字","Spark40？怎么看着像是火箭的名字"
-"KatCome.Monologue.8","Nil 真给公司起了个这种名字吗？","Nil 真给公司起了个这种名字吗？"
-"KatCome.Kathy.9","啊 万分抱歉！","啊 万分抱歉！"
-"KatCome.Typing.10","不，不，你稍等我一下。","不，不，你稍等我一下。"
-"KatCome.Monologue.11","怎么办……试着用意念呼唤一下 Nil 吧。","怎么办……试着用意念呼唤一下 Nil 吧。"
-"KatCome.Monologue.12","呵——呀——！","呵——呀——！"
-"KatCome.Monologue.13","NIl，出现！","NIl，出现！"
-"KatCome.Monologue.14","……","……"
-"KatCome.Monologue.15","失败了……","失败了……"
-"KatCome.Monologue.16","还是直接给他发消息吧。","还是直接给他发消息吧。"
-"KatCome.Todo.1","从“好友”中向 Nil 发起询问","从“好友”中向 Nil 发起询问"
-"KatCome.Typing.18","喂，NIl，咱公司叫什么名字？","喂，NIl，咱公司叫什么名字？"
-"KatCome.Nil.19","哈？","哈？"
-"KatCome.Nil.20","S4U啊","S4U啊"
-"KatCome.Typing.21","这是什么鬼名字啊？","这是什么鬼名字啊？"
-"KatCome.Typing.22","像汉堡","像汉堡"
-"KatCome.Typing.23","像火箭","像火箭"
-"KatCome.Typing.24","像补习班","像补习班"
-"KatCome.Nil.25","！！","！！"
-"KatCome.Nil.26","这是按照女团风格起的好不好？","这是按照女团风格起的好不好？"
-"KatCome.Typing.27","什么女团","什么女团"
-"KatCome.Nil.28","那当然是有史以来的第一女团T-WISE","那当然是有史以来的第一女团T-WISE"
-"KatCome.Typing.29","完全没听说过……","完全没听说过……"
-"KatCome.Typing.30","ANA才是第一女团","ANA才是第一女团"
-"KatCome.Nil.31","什么？！！","什么？！！"
-"KatCome.Nil.32","你这个异教徒！","你这个异教徒！"
-"KatCome.Typing.33","你说是那就是吧","你说是那就是吧"
-"KatCome.Typing.34","那先这样，我继续搬砖去了","那先这样，我继续搬砖去了"
-"KatCome.Nil.35","你给我等一下！","你给我等一下！"
-"KatCome.Monologue.36","> <color=#A69884>客人还在等，
-不能再和 Nil 斗嘴了。","> <color=#A69884>客人还在等，
-不能再和 Nil 斗嘴了。"
-"KatCome.Todo.-1","Nil 真给公司起了个这种名字","Nil 真给公司起了个这种名字"
-"KatCome.Typing.37","不好意思，刚刚出了一点状况","不好意思，刚刚出了一点状况"
-"KatCome.Typing.38","我们是S4U，有什么能帮到你的？","我们是S4U，有什么能帮到你的？"
-"KatCome.Todo.0","向 Kathy 询问更多信息","向 Kathy 询问更多信息"
-"KatCome.Kathy.39","是这样的 我最近遇到了一些感情上的问题 就是我的男朋友 他好像 就是喜欢上别的人了","是这样的 我最近遇到了一些感情上的问题 就是我的男朋友 他好像 就是喜欢上别的人了"
-"KatCome.Kathy.40","我 我们原来感情很好","我 我们原来感情很好"
-"KatCome.Kathy.41","唉 我也不知道应该怎么办","唉 我也不知道应该怎么办"
-"KatCome.Kathy.42","我真的好喜欢他 我不想就这么放弃","我真的好喜欢他 我不想就这么放弃"
+﻿location,source,target
+KatCome.Kathy.1,你好 不好意思打扰了 想请教一下 是 Speak4U 网络替身公司吗？,
+KatCome.Kathy.2,我是从新鲜事找过来的,
+KatCome.Typing.3,是的。,
+KatCome.Typing.4,调制饮料，改,
+KatCome.Typing.5,啊，不对。,
+KatCome.Typing.6,我是 S4U，有什么能帮到你？,
+KatCome.Typing.7,Spark40？怎么看着像是火箭的名字,
+KatCome.Monologue.8,Nil 真给公司起了个这种名字吗？,
+KatCome.Kathy.9,啊 万分抱歉！,
+KatCome.Typing.10,不，不，你稍等我一下。,
+KatCome.Monologue.11,怎么办……试着用意念呼唤一下 Nil 吧。,
+KatCome.Monologue.12,呵——呀——！,
+KatCome.Monologue.13,NIl，出现！,
+KatCome.Monologue.14,……,
+KatCome.Monologue.15,失败了……,
+KatCome.Monologue.16,还是直接给他发消息吧。,
+KatCome.Todo.1,从“好友”中向 Nil 发起询问,
+KatCome.Typing.18,喂，NIl，咱公司叫什么名字？,
+KatCome.Nil.19,哈？,
+KatCome.Nil.20,S4U啊,
+KatCome.Typing.21,这是什么鬼名字啊？,
+KatCome.Typing.22,像汉堡,
+KatCome.Typing.23,像火箭,
+KatCome.Typing.24,像补习班,
+KatCome.Nil.25,！！,
+KatCome.Nil.26,这是按照女团风格起的好不好？,
+KatCome.Typing.27,什么女团,
+KatCome.Nil.28,那当然是有史以来的第一女团T-WISE,
+KatCome.Typing.29,完全没听说过……,
+KatCome.Typing.30,ANA才是第一女团,
+KatCome.Nil.31,什么？！！,
+KatCome.Nil.32,你这个异教徒！,
+KatCome.Typing.33,你说是那就是吧,
+KatCome.Typing.34,那先这样，我继续搬砖去了,
+KatCome.Nil.35,你给我等一下！,
+KatCome.Monologue.36,"> <color=#A69884>客人还在等，
+不能再和 Nil 斗嘴了。",
+KatCome.Todo.-1,Nil 真给公司起了个这种名字,
+KatCome.Typing.37,不好意思，刚刚出了一点状况,
+KatCome.Typing.38,我们是S4U，有什么能帮到你的？,
+KatCome.Todo.0,向 Kathy 询问更多信息,
+KatCome.Kathy.39,是这样的 我最近遇到了一些感情上的问题 就是我的男朋友 他好像 就是喜欢上别的人了,
+KatCome.Kathy.40,我 我们原来感情很好,
+KatCome.Kathy.41,唉 我也不知道应该怎么办,
+KatCome.Kathy.42,我真的好喜欢他 我不想就这么放弃,

@@ -1,22 +1,22 @@
-"location","source","target"
-"﻿DukeGroupGossip.Todo.1","给公司群聊的人发送聊天记录","给公司群聊的人发送聊天记录"
-"DukeGroupGossip.Typing.1","/转发: [Holly 与 Duke的聊天记录]","/转发: [Holly 与 Duke的聊天记录]"
-"DukeGroupGossip.Holly.1","<color=#38639A><sprite name=""Link"">[Holly 与 Duke的聊天记录]","<color=#38639A><sprite name=""Link"">[Holly 与 Duke的聊天记录]"
-"DukeGroupGossip.Anybody_gray.1","我靠","我靠"
-"DukeGroupGossip.Anybody_red.2","我靠……","我靠……"
-"DukeGroupGossip.Anybody_green.3","你们都看见了?","你们都看见了?"
-"DukeGroupGossip.Anybody_yellow.4","我也收到了<sprite name=""M"">","我也收到了<sprite name=""M"">"
-"DukeGroupGossip.Anybody_gray.5","真的假的啊","真的假的啊"
-"DukeGroupGossip.Anybody_yellow.6","是真的，我可以作证","是真的，我可以作证"
-"DukeGroupGossip.Anybody_yellow.7","老板不止骚扰了她一个人","老板不止骚扰了她一个人"
-"DukeGroupGossip.Anybody_gray.8","我去，大新闻啊","我去，大新闻啊"
-"DukeGroupGossip.Anybody_blue.9","大家都冷静一下，老板找咱们同事嘘寒问暖不是人之常情吗？","大家都冷静一下，老板找咱们同事嘘寒问暖不是人之常情吗？"
-"DukeGroupGossip.Anybody_blue.10","老板平时对你们的好都忘了？","老板平时对你们的好都忘了？"
-"DukeGroupGossip.Anybody_red.11","放你的屁，这叫个鬼的嘘寒问暖","放你的屁，这叫个鬼的嘘寒问暖"
-"DukeGroupGossip.Anybody_red.12","这应该可以算性骚扰了","这应该可以算性骚扰了"
-"DukeGroupGossip.Anybody_green.13","天哪……","天哪……"
-"DukeGroupGossip.Anybody_yellow.14","谁爱和 Duke 这样嘘寒问暖谁自己去……","谁爱和 Duke 这样嘘寒问暖谁自己去……"
-"DukeGroupGossip.Anybody_blue.15","别闹这么大动静","别闹这么大动静"
-"DukeGroupGossip.Anybody_blue.16","是真是假都还不知道呢","是真是假都还不知道呢"
-"DukeGroupGossip.Anybody_blue.17","老板名声在外，是非多也是正常的","老板名声在外，是非多也是正常的"
-"DukeGroupGossip.主食+云府事业部.18","<color=#A69884>[管理员已开启全员禁言]</color>","<color=#A69884>[管理员已开启全员禁言]</color>"
+﻿location,source,target
+DukeGroupGossip.Todo.1,给公司群聊的人发送聊天记录,
+DukeGroupGossip.Typing.1,/转发: [Holly 与 Duke的聊天记录],
+DukeGroupGossip.Holly.1,"<color=#38639A><sprite name=""Link"">[Holly 与 Duke的聊天记录]",
+DukeGroupGossip.Anybody_gray.1,我靠,
+DukeGroupGossip.Anybody_red.2,我靠……,
+DukeGroupGossip.Anybody_green.3,你们都看见了?,
+DukeGroupGossip.Anybody_yellow.4,"我也收到了<sprite name=""M"">",
+DukeGroupGossip.Anybody_gray.5,真的假的啊,
+DukeGroupGossip.Anybody_yellow.6,是真的，我可以作证,
+DukeGroupGossip.Anybody_yellow.7,老板不止骚扰了她一个人,
+DukeGroupGossip.Anybody_gray.8,我去，大新闻啊,
+DukeGroupGossip.Anybody_blue.9,大家都冷静一下，老板找咱们同事嘘寒问暖不是人之常情吗？,
+DukeGroupGossip.Anybody_blue.10,老板平时对你们的好都忘了？,
+DukeGroupGossip.Anybody_red.11,放你的屁，这叫个鬼的嘘寒问暖,
+DukeGroupGossip.Anybody_red.12,这应该可以算性骚扰了,
+DukeGroupGossip.Anybody_green.13,天哪……,
+DukeGroupGossip.Anybody_yellow.14,谁爱和 Duke 这样嘘寒问暖谁自己去……,
+DukeGroupGossip.Anybody_blue.15,别闹这么大动静,
+DukeGroupGossip.Anybody_blue.16,是真是假都还不知道呢,
+DukeGroupGossip.Anybody_blue.17,老板名声在外，是非多也是正常的,
+DukeGroupGossip.主食+云府事业部.18,<color=#A69884>[管理员已开启全员禁言]</color>,

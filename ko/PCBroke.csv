@@ -1,99 +1,94 @@
-"location","source","target"
-"﻿PCBroke.Monologue.1","这啥情况……","这啥情况……"
-"PCBroke.Monologue.2","我啥也没点啊。","我啥也没点啊。"
-"PCBroke.Monologue.3","我靠！
-这是什么情况？","我靠！
-这是什么情况？"
-"PCBroke.Monologue.4","不会爆炸吧！","不会爆炸吧！"
-"PCBroke.Monologue.5","等一下——！","等一下——！"
-"PCBroke.Monologue.6","别带我走！
-我还有——！","别带我走！
-我还有——！"
-"PCBroke.System.100","Welcome, Miki","Welcome, Miki"
-"PCBroke.System.101","Connecting...          |■                                    | 11.7%","Connecting...          |■                                    | 11.7%"
-"PCBroke.System.102","Connecting...          |■■■■                        | 39.4%","Connecting...          |■■■■                        | 39.4%"
-"PCBroke.System.103","Connecting...          |■■■■■■■■        | 79.8%","Connecting...          |■■■■■■■■        | 79.8%"
-"PCBroke.System.104","Connecting...          |■■■■■■■■■    | 96.1%","Connecting...          |■■■■■■■■■    | 96.1%"
-"PCBroke.System.105","Done                        |■■■■■■■■■■| 100.0%","Done                        |■■■■■■■■■■| 100.0%"
-"PCBroke.MastroX.7","喂喂喂","喂喂喂"
-"PCBroke.MastroX.8","能看到我说话吗","能看到我说话吗"
-"PCBroke.Typing.9","可以","可以"
-"PCBroke.MastroX.10","很好，那我们就可以开始了","很好，那我们就可以开始了"
-"PCBroke.MastroX.11","哼——既然你诚心诚意地问了","哼——既然你诚心诚意地问了"
-"PCBroke.Monologue.12","……","……"
-"PCBroke.Typing.13","我根本","我根本"
-"PCBroke.MastroX.14","我听见远方的呼唤——","我听见远方的呼唤——"
-"PCBroke.MastroX.15","红与绿碰撞，黄金和白银嵌满了宝石。","红与绿碰撞，黄金和白银嵌满了宝石。"
-"PCBroke.MastroX.16","从混沌的黑白中，将诞生出一轮新的日月！！！","从混沌的黑白中，将诞生出一轮新的日月！！！"
-"PCBroke.MastroX.1001","来了！神——降临!","来了！神——降临!"
-"PCBroke.Nil.1002"," ⡠⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀"," ⡠⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀"
-"PCBroke.Nil.1003","⢸⣀⠜⢄⡀⠀⠰⣶⣤⣀⠀⠀⣠⠔⠚⢛⣛⣦⡀⠀⠀⠀⠀⠀⠀⡐⠉⠉⢶⠄","⢸⣀⠜⢄⡀⠀⠰⣶⣤⣀⠀⠀⣠⠔⠚⢛⣛⣦⡀⠀⠀⠀⠀⠀⠀⡐⠉⠉⢶⠄"
-"PCBroke.Nil.1004","⠈⢅⠀⡈⠱⣄⠀⠈⠛⠻⢷⡎⡡⣶⣿⣿⣿⢿⣿⡀⠀⠀⠀⠀⣴⣯⣝⣲⠊⠀","⠈⢅⠀⡈⠱⣄⠀⠈⠛⠻⢷⡎⡡⣶⣿⣿⣿⢿⣿⡀⠀⠀⠀⠀⣴⣯⣝⣲⠊⠀"
-"PCBroke.Nil.1005","⠀⠀⠠⢅⢀⡎⣷⣄⠀⠀⠀⢿⡰⠊⠁⠀⠸⡼⡏⣇⠀⠀⢀⣾⣿⣿⣿⡏⠀⠀","⠀⠀⠠⢅⢀⡎⣷⣄⠀⠀⠀⢿⡰⠊⠁⠀⠸⡼⡏⣇⠀⠀⢀⣾⣿⣿⣿⡏⠀⠀"
-"PCBroke.Nil.1006","⠀⠀⠀⠈⢻⣾⣿⣿⣷⣤⣀⣼⣧⡀⠀⣠⠴⣗⣳⣼⣄⣴⣿⣿⣿⣿⠟⠀⠀⠀","⠀⠀⠀⠈⢻⣾⣿⣿⣷⣤⣀⣼⣧⡀⠀⣠⠴⣗⣳⣼⣄⣴⣿⣿⣿⣿⠟⠀⠀⠀"
-"PCBroke.Nil.1007","⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣶⠏⢹⠁⠀⡟⢹⢿⣿⣿⣿⡟⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣶⠏⢹⠁⠀⡟⢹⢿⣿⣿⣿⡟⠀⠀⠀⠀"
-"PCBroke.Nil.1008","⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⠦⢅⣀⣨⣤⠴⡞⣿⣿⡟⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⠦⢅⣀⣨⣤⠴⡞⣿⣿⡟⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1009","⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣿⣿⣿⣿⠈⠲⢦⡾⣛⣾⣁⣸⠋⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣿⣿⣿⣿⠈⠲⢦⡾⣛⣾⣁⣸⠋⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1010","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡍⡿⠟⢻⡔⠚⠚⣷⣼⣾⠉⢹⠃⠀⣀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡍⡿⠟⢻⡔⠚⠚⣷⣼⣾⠉⢹⠃⠀⣀⠀⠀⠀⠀"
-"PCBroke.Nil.1011","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢱⣷⠀⠀⢧⠀⠸⠋⠸⠌⠃⢸⠀⢰⣿⠃⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢱⣷⠀⠀⢧⠀⠸⠋⠸⠌⠃⢸⠀⢰⣿⠃⠀⠀⠀"
-"PCBroke.Nil.1012","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀⣸⣤⣤⣶⣶⣶⣶⣾⣤⣿⠃⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀⣸⣤⣤⣶⣶⣶⣶⣾⣤⣿⠃⠀⠀⠀⠀"
-"PCBroke.Nil.1013","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀"
-"PCBroke.Nil.1014","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⢸⠀⠀⠀⠀⠀⠀⠉⣿⠿⠏⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⢸⠀⠀⠀⠀⠀⠀⠉⣿⠿⠏⠀⠀⠀⠀"
-"PCBroke.Nil.1015","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢹⠀⢸⠀⠀⠀⠂⠁⠀⠀⢿⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢹⠀⢸⠀⠀⠀⠂⠁⠀⠀⢿⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1016","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⢸⣤⣼⣀⣄⣀⡀⡀⢀⣀⡸⠄⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⢸⣤⣼⣀⣄⣀⡀⡀⢀⣀⡸⠄⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1017","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1018","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠟⠉⠙⡿⠋⢹⠇⠀⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠟⠉⠙⡿⠋⢹⠇⠀⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1019","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣅⣀⣀⣤⡷⠶⡿⠀⠀⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣅⣀⣀⣤⡷⠶⡿⠀⠀⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1020","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⢸⠃⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⢸⠃⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1021","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⣿⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⣿⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1022","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡄⠀⢰⣇⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡄⠀⢰⣇⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1023","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠛⠛⢯⡉⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠛⠛⢯⡉⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀"
-"PCBroke.Nil.1024","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠤⠤⠬⠏⠉⠀⠀","⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠤⠤⠬⠏⠉⠀⠀"
-"PCBroke.Typing.18","来点作用","来点作用"
-"PCBroke.Typing.19","我还有要处理的订单","我还有要处理的订单"
-"PCBroke.Nil.20","交给我吧，搭档！","交给我吧，搭档！"
-"PCBroke.Nil.21","我早就在无数种未来中预演到了这一刻的发生","我早就在无数种未来中预演到了这一刻的发生"
-"PCBroke.Typing.22","所以这是什么情况","所以这是什么情况"
-"PCBroke.Nil.23","看起来像是你装的盗版 Sketching 出了点问题","看起来像是你装的盗版 Sketching 出了点问题"
-"PCBroke.Typing.24","有病毒吗？","有病毒吗？"
-"PCBroke.Nil.25","很难说是病毒","很难说是病毒"
-"PCBroke.Nil.26","好像是你用来生成破解码的那个密钥生成器出了点问题","好像是你用来生成破解码的那个密钥生成器出了点问题"
-"PCBroke.Nil.27","它一口气写了很多个密钥把你的内存写崩了","它一口气写了很多个密钥把你的内存写崩了"
-"PCBroke.Typing.28","我都没有开软件啊","我都没有开软件啊"
-"PCBroke.Nil.29","这毕竟是盗版软件嘛（笑","这毕竟是盗版软件嘛（笑"
-"PCBroke.Nil.30","什么事情都有可能发生","什么事情都有可能发生"
-"PCBroke.Typing.31","那为什么你会在这里","那为什么你会在这里"
-"PCBroke.Nil.32","好问题","好问题"
-"PCBroke.Nil.33","勇敢的宇宙海鸥侠总是第一时间赶到同伴身边","勇敢的宇宙海鸥侠总是第一时间赶到同伴身边"
-"PCBroke.Typing.34","好吧","好吧"
-"PCBroke.Typing.36","麻烦你帮我恢复了","麻烦你帮我恢复了"
-"PCBroke.Nil.37","听好了，我的右手","听好了，我的右手"
-"PCBroke.Nil.38","我已经为你返回真实世界准备好了道路","我已经为你返回真实世界准备好了道路"
-"PCBroke.Monologue.39","真实世界又是哪一出……","真实世界又是哪一出……"
-"PCBroke.Nil.40","你的电脑将会在重启之后恢复正常","你的电脑将会在重启之后恢复正常"
-"PCBroke.Nil.41","别忘了，这个世界需要英雄","别忘了，这个世界需要英雄"
-"PCBroke.Typing.42","什么意思？","什么意思？"
-"PCBroke.Nil.43","3...","3..."
-"PCBroke.Nil.44","2...","2..."
-"PCBroke.Nil.45","1...","1..."
-"PCBroke.Nil.46","点火。","点火。"
-"PCBroke.Monologue.47","按Nil说的，应该是要在这个蓝条走到中间的时候按下Del键吧。","按Nil说的，应该是要在这个蓝条走到中间的时候按下Del键吧。"
-"PCBroke.Monologue.48","不妙！","不妙！"
-"PCBroke.Monologue.49","呼——
-虚惊一场。","呼——
-虚惊一场。"
-"PCBroke.Monologue.300","Grave 老师！
-等等我！","Grave 老师！
-等等我！"
-"PCBroke.Monologue.301","但 Nami 已经被 Grave 删除了……","但 Nami 已经被 Grave 删除了……"
-"PCBroke.Monologue.302","连提起 Haruka 都不可以吗？","连提起 Haruka 都不可以吗？"
-"PCBroke.Monologue.303","没办法理解 Grave 的想法……","没办法理解 Grave 的想法……"
-"PCBroke.Monologue.304","算了，
-去向 Nami 道歉吧。",""
-"PCBroke.Monologue.305","看来这一单帮不了 Nami。","看来这一单帮不了 Nami。"
-"PCBroke.Monologue.306","连这么简单的问题我都想不起来。","连这么简单的问题我都想不起来。"
-"PCBroke.Monologue.307","算了，
-去向 Nami 道歉吧。","算了，
-去向 Nami 道歉吧。"
-"PCBroke.Monologue.308","这也算是我的失误。","这也算是我的失误。"
-"PCBroke.Monologue.309","看来我以后也要多补补知识了。","看来我以后也要多补补知识了。"
+﻿location,source,target
+PCBroke.Monologue.1,这啥情况……,
+PCBroke.Monologue.2,我啥也没点啊。,
+PCBroke.Monologue.3,"我靠！
+这是什么情况？",
+PCBroke.Monologue.4,不会爆炸吧！,
+PCBroke.Monologue.5,等一下——！,
+PCBroke.Monologue.6,"别带我走！
+我还有——！",
+PCBroke.System.100,"Welcome, Miki",
+PCBroke.System.101,Connecting...          |■                                    | 11.7%,
+PCBroke.System.102,Connecting...          |■■■■                        | 39.4%,
+PCBroke.System.103,Connecting...          |■■■■■■■■        | 79.8%,
+PCBroke.System.104,Connecting...          |■■■■■■■■■    | 96.1%,
+PCBroke.System.105,Done                        |■■■■■■■■■■| 100.0%,
+PCBroke.MastroX.7,喂喂喂,
+PCBroke.MastroX.8,能看到我说话吗,
+PCBroke.Typing.9,可以,
+PCBroke.MastroX.10,很好，那我们就可以开始了,
+PCBroke.MastroX.11,哼——既然你诚心诚意地问了,
+PCBroke.Monologue.12,……,
+PCBroke.Typing.13,我根本,
+PCBroke.MastroX.14,我听见远方的呼唤——,
+PCBroke.MastroX.15,红与绿碰撞，黄金和白银嵌满了宝石。,
+PCBroke.MastroX.16,从混沌的黑白中，将诞生出一轮新的日月！！！,
+PCBroke.MastroX.1001,来了！神——降临!,
+PCBroke.Nil.1002, ⡠⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀,
+PCBroke.Nil.1003,⢸⣀⠜⢄⡀⠀⠰⣶⣤⣀⠀⠀⣠⠔⠚⢛⣛⣦⡀⠀⠀⠀⠀⠀⠀⡐⠉⠉⢶⠄,
+PCBroke.Nil.1004,⠈⢅⠀⡈⠱⣄⠀⠈⠛⠻⢷⡎⡡⣶⣿⣿⣿⢿⣿⡀⠀⠀⠀⠀⣴⣯⣝⣲⠊⠀,
+PCBroke.Nil.1005,⠀⠀⠠⢅⢀⡎⣷⣄⠀⠀⠀⢿⡰⠊⠁⠀⠸⡼⡏⣇⠀⠀⢀⣾⣿⣿⣿⡏⠀⠀,
+PCBroke.Nil.1006,⠀⠀⠀⠈⢻⣾⣿⣿⣷⣤⣀⣼⣧⡀⠀⣠⠴⣗⣳⣼⣄⣴⣿⣿⣿⣿⠟⠀⠀⠀,
+PCBroke.Nil.1007,⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣶⠏⢹⠁⠀⡟⢹⢿⣿⣿⣿⡟⠀⠀⠀⠀,
+PCBroke.Nil.1008,⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⠦⢅⣀⣨⣤⠴⡞⣿⣿⡟⠀⠀⠀⠀⠀,
+PCBroke.Nil.1009,⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣿⣿⣿⣿⠈⠲⢦⡾⣛⣾⣁⣸⠋⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1010,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡍⡿⠟⢻⡔⠚⠚⣷⣼⣾⠉⢹⠃⠀⣀⠀⠀⠀⠀,
+PCBroke.Nil.1011,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢱⣷⠀⠀⢧⠀⠸⠋⠸⠌⠃⢸⠀⢰⣿⠃⠀⠀⠀,
+PCBroke.Nil.1012,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀⣸⣤⣤⣶⣶⣶⣶⣾⣤⣿⠃⠀⠀⠀⠀,
+PCBroke.Nil.1013,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀,
+PCBroke.Nil.1014,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⢸⠀⠀⠀⠀⠀⠀⠉⣿⠿⠏⠀⠀⠀⠀,
+PCBroke.Nil.1015,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢹⠀⢸⠀⠀⠀⠂⠁⠀⠀⢿⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1016,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⢸⣤⣼⣀⣄⣀⡀⡀⢀⣀⡸⠄⠀⠀⠀⠀⠀,
+PCBroke.Nil.1017,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1018,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠟⠉⠙⡿⠋⢹⠇⠀⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1019,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣅⣀⣀⣤⡷⠶⡿⠀⠀⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1020,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⢸⠃⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1021,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⣿⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1022,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡄⠀⢰⣇⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1023,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠛⠛⢯⡉⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀,
+PCBroke.Nil.1024,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠤⠤⠬⠏⠉⠀⠀,
+PCBroke.Typing.18,来点作用,
+PCBroke.Typing.19,我还有要处理的订单,
+PCBroke.Nil.20,交给我吧，搭档！,
+PCBroke.Nil.21,我早就在无数种未来中预演到了这一刻的发生,
+PCBroke.Typing.22,所以这是什么情况,
+PCBroke.Nil.23,看起来像是你装的盗版 Sketching 出了点问题,
+PCBroke.Typing.24,有病毒吗？,
+PCBroke.Nil.25,很难说是病毒,
+PCBroke.Nil.26,好像是你用来生成破解码的那个密钥生成器出了点问题,
+PCBroke.Nil.27,它一口气写了很多个密钥把你的内存写崩了,
+PCBroke.Typing.28,我都没有开软件啊,
+PCBroke.Nil.29,这毕竟是盗版软件嘛（笑,
+PCBroke.Nil.30,什么事情都有可能发生,
+PCBroke.Typing.31,那为什么你会在这里,
+PCBroke.Nil.32,好问题,
+PCBroke.Nil.33,勇敢的宇宙海鸥侠总是第一时间赶到同伴身边,
+PCBroke.Typing.34,好吧,
+PCBroke.Typing.36,麻烦你帮我恢复了,
+PCBroke.Nil.37,听好了，我的右手,
+PCBroke.Nil.38,我已经为你返回真实世界准备好了道路,
+PCBroke.Monologue.39,真实世界又是哪一出……,
+PCBroke.Nil.40,你的电脑将会在重启之后恢复正常,
+PCBroke.Nil.41,别忘了，这个世界需要英雄,
+PCBroke.Typing.42,什么意思？,
+PCBroke.Nil.43,3...,
+PCBroke.Nil.44,2...,
+PCBroke.Nil.45,1...,
+PCBroke.Nil.46,点火。,
+PCBroke.Monologue.47,按Nil说的，应该是要在这个蓝条走到中间的时候按下Del键吧。,
+PCBroke.Monologue.48,不妙！,
+PCBroke.Monologue.49,"呼——
+虚惊一场。",
+PCBroke.Monologue.300,"Grave 老师！
+等等我！",
+PCBroke.Monologue.301,但 Nami 已经被 Grave 删除了……,
+PCBroke.Monologue.302,连提起 Haruka 都不可以吗？,
+PCBroke.Monologue.303,没办法理解 Grave 的想法……,
+PCBroke.Monologue.304,"算了，
+去向 Nami 道歉吧。",
+PCBroke.Monologue.305,看来这一单帮不了 Nami。,
+PCBroke.Monologue.306,连这么简单的问题我都想不起来。,
+PCBroke.Monologue.307,"算了，
+去向 Nami 道歉吧。",
+PCBroke.Monologue.308,这也算是我的失误。,
+PCBroke.Monologue.309,看来我以后也要多补补知识了。,

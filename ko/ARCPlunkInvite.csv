@@ -1,5 +1,5 @@
-"location","source","target"
-"﻿ARCPlunkInvite.Plunk.1","尊敬的 [收件人姓名]，
+﻿location,source,target
+ARCPlunkInvite.Plunk.1,"尊敬的 [收件人姓名]，
 
 在这美好而意义深远的时刻，我，Plunk，作为即将踏上人生新旅程的建筑师，满心喜悦地邀请您共襄盛举——我和 Ash 的婚礼庆典。
 
@@ -16,7 +16,10 @@
 热切期待与您相见，
 
 Plunk & Ash
-","尊敬的 [收件人姓名]，
+",
+ARCPlunkInvite.Typing.2,名字,
+ARCPlunkInvite.Plunk.3,哦哦，草，忘记改了,
+ARCPlunkInvite.Plunk.4,"尊敬的 Miki，
 
 在这美好而意义深远的时刻，我，Plunk，作为即将踏上人生新旅程的建筑师，满心喜悦地邀请您共襄盛举——我和 Ash 的婚礼庆典。
 
@@ -33,84 +36,47 @@ Plunk & Ash
 热切期待与您相见，
 
 Plunk & Ash
-"
-"ARCPlunkInvite.Typing.2","名字","名字"
-"ARCPlunkInvite.Plunk.3","哦哦，草，忘记改了","哦哦，草，忘记改了"
-"ARCPlunkInvite.Plunk.4","尊敬的 Miki，
-
-在这美好而意义深远的时刻，我，Plunk，作为即将踏上人生新旅程的建筑师，满心喜悦地邀请您共襄盛举——我和 Ash 的婚礼庆典。
-
-在设计了无数空间，筑梦于砖石之间后，我终于寻获了生命中最珍贵的伴侣，那个能与我共同构筑未来蓝图的灵魂伴侣。正如每一座建筑都需要稳固的基石，我们的爱情故事也即将迎来它最坚实的篇章。我们决定
-在
-贰零壹壹年柒月拾伍日这一天，于千玺滨海婚礼艺术中心——百合花厅
-在诸位亲朋好友的见证下，携手步入婚姻的殿堂。
-
-这场婚礼不仅是两颗心的结合，也是两个世界和谐共生的开始，正如我在建筑设计中追求的那样——和谐、美好且充满爱。我希望能与您分享这份幸福，让我们的大日子因您的出席而更加完美。
-
-请您在百忙之中预留此日，与我们一起庆祝爱、希望与梦想的交汇。在此提前感谢您给予我们的祝福和支持。相信在爱的指引下，我们将共同创造更多美好的回忆。
-期待您的回复。
-
-热切期待与您相见，
-
-Plunk & Ash
-","尊敬的 Miki，
-
-在这美好而意义深远的时刻，我，Plunk，作为即将踏上人生新旅程的建筑师，满心喜悦地邀请您共襄盛举——我和 Ash 的婚礼庆典。
-
-在设计了无数空间，筑梦于砖石之间后，我终于寻获了生命中最珍贵的伴侣，那个能与我共同构筑未来蓝图的灵魂伴侣。正如每一座建筑都需要稳固的基石，我们的爱情故事也即将迎来它最坚实的篇章。我们决定
-在
-贰零壹壹年柒月拾伍日这一天，于千玺滨海婚礼艺术中心——百合花厅
-在诸位亲朋好友的见证下，携手步入婚姻的殿堂。
-
-这场婚礼不仅是两颗心的结合，也是两个世界和谐共生的开始，正如我在建筑设计中追求的那样——和谐、美好且充满爱。我希望能与您分享这份幸福，让我们的大日子因您的出席而更加完美。
-
-请您在百忙之中预留此日，与我们一起庆祝爱、希望与梦想的交汇。在此提前感谢您给予我们的祝福和支持。相信在爱的指引下，我们将共同创造更多美好的回忆。
-期待您的回复。
-
-热切期待与您相见，
-
-Plunk & Ash
-"
-"ARCPlunkInvite.Monologue.5","婚宴啊……总感觉我不适合那种场合。","婚宴啊……总感觉我不适合那种场合。"
-"ARCPlunkInvite.Monologue.6","去应该是不去，但是红包要不要给呢……","去应该是不去，但是红包要不要给呢……"
-"ARCPlunkInvite.Plunk.7","见谅见谅啊","见谅见谅啊"
-"ARCPlunkInvite.Plunk.8","你这边来几个人啊？","你这边来几个人啊？"
-"ARCPlunkInvite.Typing.9","呃，我还要考虑一下","呃，我还要考虑一下"
-"ARCPlunkInvite.Typing.10","那两天可能有点忙","那两天可能有点忙"
-"ARCPlunkInvite.Plunk.11","八番都快倒了，哪还有活忙","八番都快倒了，哪还有活忙"
-"ARCPlunkInvite.Plunk.12","带上你对象呗","带上你对象呗"
-"ARCPlunkInvite.Plunk.13","别装了","别装了"
-"ARCPlunkInvite.Plunk.14","Lucid 都跟我说了","Lucid 都跟我说了"
-"ARCPlunkInvite.Plunk.15","你和隔壁部门那个 Tonny？","你和隔壁部门那个 Tonny？"
-"ARCPlunkInvite.Plunk.16","怎么说，什么时候参加你们的婚礼","怎么说，什么时候参加你们的婚礼"
-"ARCPlunkInvite.Monologue.17","妈的，这下总算找到谁天天在背后造我的谣了。","妈的，这下总算找到谁天天在背后造我的谣了。"
-"ARCPlunkInvite.Monologue.18","完全没有这回事。","完全没有这回事。"
-"ARCPlunkInvite.Typing.19","Lucid 是个贱人","Lucid 是个贱人"
-"ARCPlunkInvite.Typing.20","他说的话就像放屁一样","他说的话就像放屁一样"
-"ARCPlunkInvite.Typing.21","没有这回事","没有这回事"
-"ARCPlunkInvite.Plunk.22","哦，是吗，被这小混蛋骗了","哦，是吗，被这小混蛋骗了"
-"ARCPlunkInvite.Plunk.23","嘴里没一句实话","嘴里没一句实话"
-"ARCPlunkInvite.Typing.24","别找骂","别找骂"
-"ARCPlunkInvite.Typing.25","再说这种猪话就把你删了","再说这种猪话就把你删了"
-"ARCPlunkInvite.Plunk.26","我的我的","我的我的"
-"ARCPlunkInvite.Plunk.27","只想开个玩笑，对不起","只想开个玩笑，对不起"
-"ARCPlunkInvite.Plunk.28","呃，咱说回正事儿","呃，咱说回正事儿"
-"ARCPlunkInvite.Plunk.29","真得来啊，Miki","真得来啊，Miki"
-"ARCPlunkInvite.Plunk.30","同事一场我是真心请你的","同事一场我是真心请你的"
-"ARCPlunkInvite.Plunk.31","到时候龙虾和牛肉管够啊","到时候龙虾和牛肉管够啊"
-"ARCPlunkInvite.Typing.32","你发财了？","你发财了？"
-"ARCPlunkInvite.Plunk.33","哈哈，哎也不算发财是，小赚一点","哈哈，哎也不算发财是，小赚一点"
-"ARCPlunkInvite.Typing.34","你不会去炒虚拟货币了吧？","你不会去炒虚拟货币了吧？"
-"ARCPlunkInvite.Plunk.35","哈哈，虚拟货币狗都不炒","哈哈，虚拟货币狗都不炒"
-"ARCPlunkInvite.Plunk.36","你想做吗？","你想做吗？"
-"ARCPlunkInvite.Plunk.37","我可以给你推荐，量子医疗，很赚钱的","我可以给你推荐，量子医疗，很赚钱的"
-"ARCPlunkInvite.Plunk.38","今天投一百明天就变成一百五","今天投一百明天就变成一百五"
-"ARCPlunkInvite.Plunk.39","那家伙，噌噌的","那家伙，噌噌的"
-"ARCPlunkInvite.Plunk.40","你用我推荐码呗","你用我推荐码呗"
-"ARCPlunkInvite.Typing.41","暂时不用了","暂时不用了"
-"ARCPlunkInvite.Plunk.101","行，那回头吃席来啊","行，那回头吃席来啊"
-"ARCPlunkInvite.Plunk.102","我这还一大堆事","我这还一大堆事"
-"ARCPlunkInvite.Plunk.103","我不和你说了嗷","我不和你说了嗷"
-"ARCPlunkInvite.Typing.42","新婚快乐","新婚快乐"
-"ARCPlunkInvite.Plunk.43","同乐同乐","同乐同乐"
-"ARCPlunkInvite.Typing.44","/不回","/不回"
+",
+ARCPlunkInvite.Monologue.5,婚宴啊……总感觉我不适合那种场合。,
+ARCPlunkInvite.Monologue.6,去应该是不去，但是红包要不要给呢……,
+ARCPlunkInvite.Plunk.7,见谅见谅啊,
+ARCPlunkInvite.Plunk.8,你这边来几个人啊？,
+ARCPlunkInvite.Typing.9,呃，我还要考虑一下,
+ARCPlunkInvite.Typing.10,那两天可能有点忙,
+ARCPlunkInvite.Plunk.11,八番都快倒了，哪还有活忙,
+ARCPlunkInvite.Plunk.12,带上你对象呗,
+ARCPlunkInvite.Plunk.13,别装了,
+ARCPlunkInvite.Plunk.14,Lucid 都跟我说了,
+ARCPlunkInvite.Plunk.15,你和隔壁部门那个 Tonny？,
+ARCPlunkInvite.Plunk.16,怎么说，什么时候参加你们的婚礼,
+ARCPlunkInvite.Monologue.17,妈的，这下总算找到谁天天在背后造我的谣了。,
+ARCPlunkInvite.Monologue.18,完全没有这回事。,
+ARCPlunkInvite.Typing.19,Lucid 是个贱人,
+ARCPlunkInvite.Typing.20,他说的话就像放屁一样,
+ARCPlunkInvite.Typing.21,没有这回事,
+ARCPlunkInvite.Plunk.22,哦，是吗，被这小混蛋骗了,
+ARCPlunkInvite.Plunk.23,嘴里没一句实话,
+ARCPlunkInvite.Typing.24,别找骂,
+ARCPlunkInvite.Typing.25,再说这种猪话就把你删了,
+ARCPlunkInvite.Plunk.26,我的我的,
+ARCPlunkInvite.Plunk.27,只想开个玩笑，对不起,
+ARCPlunkInvite.Plunk.28,呃，咱说回正事儿,
+ARCPlunkInvite.Plunk.29,真得来啊，Miki,
+ARCPlunkInvite.Plunk.30,同事一场我是真心请你的,
+ARCPlunkInvite.Plunk.31,到时候龙虾和牛肉管够啊,
+ARCPlunkInvite.Typing.32,你发财了？,
+ARCPlunkInvite.Plunk.33,哈哈，哎也不算发财是，小赚一点,
+ARCPlunkInvite.Typing.34,你不会去炒虚拟货币了吧？,
+ARCPlunkInvite.Plunk.35,哈哈，虚拟货币狗都不炒,
+ARCPlunkInvite.Plunk.36,你想做吗？,
+ARCPlunkInvite.Plunk.37,我可以给你推荐，量子医疗，很赚钱的,
+ARCPlunkInvite.Plunk.38,今天投一百明天就变成一百五,
+ARCPlunkInvite.Plunk.39,那家伙，噌噌的,
+ARCPlunkInvite.Plunk.40,你用我推荐码呗,
+ARCPlunkInvite.Typing.41,暂时不用了,
+ARCPlunkInvite.Plunk.101,行，那回头吃席来啊,
+ARCPlunkInvite.Plunk.102,我这还一大堆事,
+ARCPlunkInvite.Plunk.103,我不和你说了嗷,
+ARCPlunkInvite.Typing.42,新婚快乐,
+ARCPlunkInvite.Plunk.43,同乐同乐,
+ARCPlunkInvite.Typing.44,/不回,

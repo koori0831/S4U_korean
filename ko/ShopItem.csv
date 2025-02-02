@@ -1,4 +1,5 @@
-﻿ShopItem.11.Name,玛莎拉汽水赠汉堡,
+﻿location,source,target
+ShopItem.11.Name,玛莎拉汽水赠汉堡,
 ShopItem.11.Description,汉堡只是赠品，十四种复合香料才是真东西。,
 ShopItem.11.BuyDialogue.1,谢谢惠顾。,
 ShopItem.11.BuyDialogue.2,绿色是爱情。,

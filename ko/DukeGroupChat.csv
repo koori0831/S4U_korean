@@ -1,15 +1,15 @@
-"location","source","target"
-"﻿DukeGroupChat.Anybody_blue.1","今天老板说！只要大家一起加班到12点","今天老板说！只要大家一起加班到12点"
-"DukeGroupChat.Anybody_blue.2","明天就请所有人吃早餐！<sprite name=""SIDE"">","明天就请所有人吃早餐！<sprite name=""SIDE"">"
-"DukeGroupChat.Anybody_gray.3","哇！老板牛逼<sprite name=""STAR"">","哇！老板牛逼<sprite name=""STAR"">"
-"DukeGroupChat.Anybody_green.4","提个小意见","提个小意见"
-"DukeGroupChat.Anybody_green.5","今天迟到的人有点多","今天迟到的人有点多"
-"DukeGroupChat.Anybody_green.6","要不就扣他们的工资买早餐吧","要不就扣他们的工资买早餐吧"
-"DukeGroupChat.Anybody_green.7","给公司省点钱，也惩罚到位了，如何？<sprite name=""HAPPY"">","给公司省点钱，也惩罚到位了，如何？<sprite name=""HAPPY"">"
-"DukeGroupChat.Anybody_blue.8","我觉得不错","我觉得不错"
-"DukeGroupChat.Anybody_yellow.9","这样不太好吧?",""
-"DukeGroupChat.Holly.10","这样不太好吧?","这样不太好吧?"
-"DukeGroupChat.Anybody_blue.11","大家对自己阉割一点","大家对自己阉割一点"
-"DukeGroupChat.Anybody_blue.12","不光是为了公司，也是为了自己嘛","不光是为了公司，也是为了自己嘛"
-"DukeGroupChat.Anybody_blue.13","说错了，严格，见谅","说错了，严格，见谅"
-"DukeGroupChat.Anybody_green.14","同意","同意"
+﻿location,source,target
+DukeGroupChat.Anybody_blue.1,今天老板说！只要大家一起加班到12点,
+DukeGroupChat.Anybody_blue.2,"明天就请所有人吃早餐！<sprite name=""SIDE"">",
+DukeGroupChat.Anybody_gray.3,"哇！老板牛逼<sprite name=""STAR"">",
+DukeGroupChat.Anybody_green.4,提个小意见,
+DukeGroupChat.Anybody_green.5,今天迟到的人有点多,
+DukeGroupChat.Anybody_green.6,要不就扣他们的工资买早餐吧,
+DukeGroupChat.Anybody_green.7,"给公司省点钱，也惩罚到位了，如何？<sprite name=""HAPPY"">",
+DukeGroupChat.Anybody_blue.8,我觉得不错,
+DukeGroupChat.Anybody_yellow.9,这样不太好吧?,
+DukeGroupChat.Holly.10,这样不太好吧?,
+DukeGroupChat.Anybody_blue.11,大家对自己阉割一点,
+DukeGroupChat.Anybody_blue.12,不光是为了公司，也是为了自己嘛,
+DukeGroupChat.Anybody_blue.13,说错了，严格，见谅,
+DukeGroupChat.Anybody_green.14,同意,

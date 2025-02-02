@@ -1,43 +1,43 @@
-"location","source","target"
-"﻿NoritoViz.Todo.0","尝试用 Norida 给 Viz 发消息","尝试用 Norida 给 Viz 发消息"
-"NoritoViz.Monologue.1","> 确定要以Nori的身份发消息给 Viz 吗？","> 确定要以Nori的身份发消息给 Viz 吗？"
-"NoritoViz.Monologue.2","确定","确定"
-"NoritoViz.Monologue.3","再想想……","再想想……"
-"NoritoViz.Typing.4.1","Viz 姐，我们谈谈吧","Viz 姐，我们谈谈吧"
-"NoritoViz.Viz.5","谈什么？","谈什么？"
-"NoritoViz.Viz.6","我和你一样联系不上 Will","我和你一样联系不上 Will"
-"NoritoViz.Viz.7","我真的没办法","我真的没办法"
-"NoritoViz.Typing.8","/表情：难过","/表情：难过"
-"NoritoViz.Typing.9","我想和大家一起把幽灵协议2做完","我想和大家一起把幽灵协议2做完"
-"NoritoViz.Todo.100","没有向 Viz 表明 Norida 的意愿","没有向 Viz 表明 Norida 的意愿"
-"NoritoViz.Todo.101","用 Norida 告诉 Viz 他还想继续做下去","用 Norida 告诉 Viz 他还想继续做下去"
-"NoritoViz.Viz.10","这已经是不可能的事情了","这已经是不可能的事情了"
-"NoritoViz.Viz.11","人都在变","人都在变"
-"NoritoViz.Viz.12","公司乱成这样","公司乱成这样"
-"NoritoViz.Viz.13","Will 又不在","Will 又不在"
-"NoritoViz.Viz.14","我也差不多是在死撑","我也差不多是在死撑"
-"NoritoViz.Viz.15","没机会的","没机会的"
-"NoritoViz.Viz.16","你也别太自责 Nori，这和你没关系","你也别太自责 Nori，这和你没关系"
-"NoritoViz.Viz.17","不好意思耽误了你几个月的时间","不好意思耽误了你几个月的时间"
-"NoritoViz.Monologue.18","靠……","靠……"
-"NoritoViz.Monologue.19","我是不是缺了什么线索……","我是不是缺了什么线索……"
-"NoritoViz.Monologue.20","还是说这就是 Nori 的极限了……","还是说这就是 Nori 的极限了……"
-"NoritoViz.Typing.21","Viz 姐，老师和我说了您的事情","Viz 姐，老师和我说了您的事情"
-"NoritoViz.Viz.22","什么？","什么？"
-"NoritoViz.Typing.23","我想知道 17 号的酒会上您和他说了什么？","我想知道 17 号的酒会上您和他说了什么？"
-"NoritoViz.Viz.24","没什么","没什么"
-"NoritoViz.Viz.25","找他闲扯了两句而已","找他闲扯了两句而已"
-"NoritoViz.Typing.26","您做了什么亏欠他的事情吗？","您做了什么亏欠他的事情吗？"
-"NoritoViz.Typing.27","我觉得我们还可以弥补","我觉得我们还可以弥补"
-"NoritoViz.Typing.28","还可以让老师回心转意","还可以让老师回心转意"
-"NoritoViz.Viz.29","你可能可以","你可能可以"
-"NoritoViz.Viz.30","但我不行","但我不行"
-"NoritoViz.Viz.31","我是个背叛者，我什么也弥补不了","我是个背叛者，我什么也弥补不了"
-"NoritoViz.Typing.32","我想知道和老师一起离开的那个女孩是谁？","我想知道和老师一起离开的那个女孩是谁？"
-"NoritoViz.Viz.33","我不知道","我不知道"
-"NoritoViz.Viz.34","好像是 CT 那边的人","好像是 CT 那边的人"
-"NoritoViz.Viz.35","可能是 Will 以前的朋友吧","可能是 Will 以前的朋友吧"
-"NoritoViz.Monologue.36","靠……想不到要说什么了……","靠……想不到要说什么了……"
-"NoritoViz.Monologue.103","从 Viz 这里得不到一点 Will 的行踪……","从 Viz 这里得不到一点 Will 的行踪……"
-"NoritoViz.Monologue.37","这应该就是 Nori 的极限了……","这应该就是 Nori 的极限了……"
-"NoritoViz.Todo.102","没有从 Viz 口中问到 Will 的信息","没有从 Viz 口中问到 Will 的信息"
+﻿location,source,target
+NoritoViz.Todo.0,尝试用 Norida 给 Viz 发消息,
+NoritoViz.Monologue.1,> 确定要以Nori的身份发消息给 Viz 吗？,
+NoritoViz.Monologue.2,确定,
+NoritoViz.Monologue.3,再想想……,
+NoritoViz.Typing.4.1,Viz 姐，我们谈谈吧,
+NoritoViz.Viz.5,谈什么？,
+NoritoViz.Viz.6,我和你一样联系不上 Will,
+NoritoViz.Viz.7,我真的没办法,
+NoritoViz.Typing.8,/表情：难过,
+NoritoViz.Typing.9,我想和大家一起把幽灵协议2做完,
+NoritoViz.Todo.100,没有向 Viz 表明 Norida 的意愿,
+NoritoViz.Todo.101,用 Norida 告诉 Viz 他还想继续做下去,
+NoritoViz.Viz.10,这已经是不可能的事情了,
+NoritoViz.Viz.11,人都在变,
+NoritoViz.Viz.12,公司乱成这样,
+NoritoViz.Viz.13,Will 又不在,
+NoritoViz.Viz.14,我也差不多是在死撑,
+NoritoViz.Viz.15,没机会的,
+NoritoViz.Viz.16,你也别太自责 Nori，这和你没关系,
+NoritoViz.Viz.17,不好意思耽误了你几个月的时间,
+NoritoViz.Monologue.18,靠……,
+NoritoViz.Monologue.19,我是不是缺了什么线索……,
+NoritoViz.Monologue.20,还是说这就是 Nori 的极限了……,
+NoritoViz.Typing.21,Viz 姐，老师和我说了您的事情,
+NoritoViz.Viz.22,什么？,
+NoritoViz.Typing.23,我想知道 17 号的酒会上您和他说了什么？,
+NoritoViz.Viz.24,没什么,
+NoritoViz.Viz.25,找他闲扯了两句而已,
+NoritoViz.Typing.26,您做了什么亏欠他的事情吗？,
+NoritoViz.Typing.27,我觉得我们还可以弥补,
+NoritoViz.Typing.28,还可以让老师回心转意,
+NoritoViz.Viz.29,你可能可以,
+NoritoViz.Viz.30,但我不行,
+NoritoViz.Viz.31,我是个背叛者，我什么也弥补不了,
+NoritoViz.Typing.32,我想知道和老师一起离开的那个女孩是谁？,
+NoritoViz.Viz.33,我不知道,
+NoritoViz.Viz.34,好像是 CT 那边的人,
+NoritoViz.Viz.35,可能是 Will 以前的朋友吧,
+NoritoViz.Monologue.36,靠……想不到要说什么了……,
+NoritoViz.Monologue.103,从 Viz 这里得不到一点 Will 的行踪……,
+NoritoViz.Monologue.37,这应该就是 Nori 的极限了……,
+NoritoViz.Todo.102,没有从 Viz 口中问到 Will 的信息,
