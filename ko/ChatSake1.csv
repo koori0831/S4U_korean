@@ -1,37 +1,38 @@
-﻿ChatSake1.Typing.1,Ben 要走了,
-ChatSake1.Sake.2,啥时候啊,
-ChatSake1.Sake.3,我打电话给他,
-ChatSake1.Sake.4,我现在在天角呢，过来撸个串儿呗,
-ChatSake1.Typing.5,我看他没这个意思,
-ChatSake1.Typing.6.1,他说要安静地和这个城市道别,
-ChatSake1.Think.100,这是他的原话,
-ChatSake1.Typing.6.2,他说要回老家结婚,
-ChatSake1.Think.101,反正他只说了要回老家,
-ChatSake1.Sake.8,啊？这么想不开,
-ChatSake1.Typing.9,结婚是我我瞎说的,
-ChatSake1.Sake.10,靠，我还说,
-ChatSake1.Sake.11,真闹心啊这两天,
-ChatSake1.Typing.12.1,你又失业了吗,
-ChatSake1.Sake.13,为什么要说又,
-ChatSake1.Typing.14,感觉你总是跳槽,
-ChatSake1.Sake.15,快别提槽的事儿了,
-ChatSake1.Sake.16,我那逼公司,
-ChatSake1.Sake.17,他妈的,
-ChatSake1.Sake.18,唉，不提不提,
-ChatSake1.Typing.12.2,你去天角干嘛,
-ChatSake1.Sake.20,啊，去见一个教练,
-ChatSake1.Typing.21,啥教练？,
-ChatSake1.Sake.22,以前带过 DSG 的教练,
-ChatSake1.Sake.23,Kuen 以前的朋友,
-ChatSake1.Typing.24,你也要转行了吗？,
-ChatSake1.Sake.25,也？,
-ChatSake1.Sake.26,你被设计院开除啦？,
-ChatSake1.Typing.27,目前还没,
-ChatSake1.Typing.28,我手上还有一个项目,
-ChatSake1.Sake.29,那倒是可以放心,
-ChatSake1.Sake.30,得，我不和你多说了,
-ChatSake1.Sake.31,人来了,
-ChatSake1.Typing.32.1,好,
-ChatSake1.Typing.32.2,有空出来吃饭吧,
-ChatSake1.Sake.34,好啊,
-ChatSake1.Sake.35,到时候我约你,
+"location","source","target"
+"﻿ChatSake1.Typing.1","Ben 要走了","Ben 要走了"
+"ChatSake1.Sake.2","啥时候啊","啥时候啊"
+"ChatSake1.Sake.3","我打电话给他","我打电话给他"
+"ChatSake1.Sake.4","我现在在天角呢，过来撸个串儿呗","我现在在天角呢，过来撸个串儿呗"
+"ChatSake1.Typing.5","我看他没这个意思","我看他没这个意思"
+"ChatSake1.Typing.6.1","他说要安静地和这个城市道别","他说要安静地和这个城市道别"
+"ChatSake1.Think.100","这是他的原话","这是他的原话"
+"ChatSake1.Typing.6.2","他说要回老家结婚","他说要回老家结婚"
+"ChatSake1.Think.101","反正他只说了要回老家","反正他只说了要回老家"
+"ChatSake1.Sake.8","啊？这么想不开","啊？这么想不开"
+"ChatSake1.Typing.9","结婚是我我瞎说的","结婚是我我瞎说的"
+"ChatSake1.Sake.10","靠，我还说","靠，我还说"
+"ChatSake1.Sake.11","真闹心啊这两天","真闹心啊这两天"
+"ChatSake1.Typing.12.1","你又失业了吗","你又失业了吗"
+"ChatSake1.Sake.13","为什么要说又","为什么要说又"
+"ChatSake1.Typing.14","感觉你总是跳槽","感觉你总是跳槽"
+"ChatSake1.Sake.15","快别提槽的事儿了","快别提槽的事儿了"
+"ChatSake1.Sake.16","我那逼公司","我那逼公司"
+"ChatSake1.Sake.17","他妈的","他妈的"
+"ChatSake1.Sake.18","唉，不提不提","唉，不提不提"
+"ChatSake1.Typing.12.2","你去天角干嘛","你去天角干嘛"
+"ChatSake1.Sake.20","啊，去见一个教练","啊，去见一个教练"
+"ChatSake1.Typing.21","啥教练？","啥教练？"
+"ChatSake1.Sake.22","以前带过 DSG 的教练","以前带过 DSG 的教练"
+"ChatSake1.Sake.23","Kuen 以前的朋友","Kuen 以前的朋友"
+"ChatSake1.Typing.24","你也要转行了吗？","你也要转行了吗？"
+"ChatSake1.Sake.25","也？","也？"
+"ChatSake1.Sake.26","你被设计院开除啦？","你被设计院开除啦？"
+"ChatSake1.Typing.27","目前还没","目前还没"
+"ChatSake1.Typing.28","我手上还有一个项目","我手上还有一个项目"
+"ChatSake1.Sake.29","那倒是可以放心","那倒是可以放心"
+"ChatSake1.Sake.30","得，我不和你多说了","得，我不和你多说了"
+"ChatSake1.Sake.31","人来了","人来了"
+"ChatSake1.Typing.32.1","好","好"
+"ChatSake1.Typing.32.2","有空出来吃饭吧","有空出来吃饭吧"
+"ChatSake1.Sake.34","好啊","好啊"
+"ChatSake1.Sake.35","到时候我约你","到时候我约你"
