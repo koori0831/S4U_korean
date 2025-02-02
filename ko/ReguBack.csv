@@ -1,39 +1,40 @@
-﻿ReguBack.Regules.1,当当当当——,
-ReguBack.Regules.2,Regu 酱到达宇宙中心城——麻园——！,
-ReguBack.Regules.3,＼_(･ω･`)ｺｺ,
-ReguBack.Regules.4,辛苦 S 小姐，值班时间结束 ∠(°ゝ°）,
-ReguBack.Typing.5,呃，那个就是……,
-ReguBack.Typing.6.1,你工作没了,
-ReguBack.Regules.7,啊？,
-ReguBack.Regules.8,什么意思 = =,
-ReguBack.Typing.9,我把聊天记录同步给你,
-ReguBack.Monologue.10,>和 Regules 同步了聊天记录。,
-ReguBack.Regules.11,好,
-ReguBack.Typing.6.2,你组长没了,
-ReguBack.Regules.13,没……没了？(⊙﹏⊙),
-ReguBack.Regules.14,Nora 出什么意外了吗？,
-ReguBack.Typing.15,就是她把你删了,
-ReguBack.Regules.16,这倒是没什么事情,
-ReguBack.Regules.17,她经常这样,
-ReguBack.Regules.18,老女人嘛，都是要哄的啦,
-ReguBack.Regules.19,╮（╯_╰）╭,
-ReguBack.Monologue.20,原来是这样啊……,
-ReguBack.Typing.21,总之我把聊天记录同步一下,
-ReguBack.Monologue.22,>向 Regules 发送了聊天记录。,
-ReguBack.Typing.23,你先看看,
-ReguBack.Typing.24,还有你的那个朋友 Neko,
-ReguBack.Typing.25,一不小心做了多余的事情,
-ReguBack.Typing.26,很不好意思，给你添麻烦了,
-ReguBack.Typing.27.1,如果你需要的话，我可以把机票和音乐节的票钱补给你,
-ReguBack.Typing.27.2,/表情：难受,
-ReguBack.Regules.29,我先看看记录,
-ReguBack.Monologue.30,……,
-ReguBack.Monologue.31,好紧张……,
-ReguBack.Monologue.32,这就是问心有愧的感觉吗……,
-ReguBack.Monologue.33,好像一不小心许下了无法兑现的诺言。,
-ReguBack.Monologue.34,从栗岛坐飞机到麻园至少是 600 吧……,
-ReguBack.Monologue.35,机建燃油 220……,
-ReguBack.Monologue.36,还有那个音乐节票，680。,
-ReguBack.Monologue.37,600 加 220 再加 680，这就是 1500 了。,
-ReguBack.Monologue.38,我草。,
-ReguBack.Regules.39,看完了,
+"location","source","target"
+"﻿ReguBack.Regules.1","当当当当——","当当当当——"
+"ReguBack.Regules.2","Regu 酱到达宇宙中心城——麻园——！","Regu 酱到达宇宙中心城——麻园——！"
+"ReguBack.Regules.3","＼_(･ω･`)ｺｺ","＼_(･ω･`)ｺｺ"
+"ReguBack.Regules.4","辛苦 S 小姐，值班时间结束 ∠(°ゝ°）","辛苦 S 小姐，值班时间结束 ∠(°ゝ°）"
+"ReguBack.Typing.5","呃，那个就是……","呃，那个就是……"
+"ReguBack.Typing.6.1","你工作没了","你工作没了"
+"ReguBack.Regules.7","啊？","啊？"
+"ReguBack.Regules.8","什么意思 = =","什么意思 = ="
+"ReguBack.Typing.9","我把聊天记录同步给你","我把聊天记录同步给你"
+"ReguBack.Monologue.10",">和 Regules 同步了聊天记录。",">和 Regules 同步了聊天记录。"
+"ReguBack.Regules.11","好","好"
+"ReguBack.Typing.6.2","你组长没了","你组长没了"
+"ReguBack.Regules.13","没……没了？(⊙﹏⊙)","没……没了？(⊙﹏⊙)"
+"ReguBack.Regules.14","Nora 出什么意外了吗？","Nora 出什么意外了吗？"
+"ReguBack.Typing.15","就是她把你删了","就是她把你删了"
+"ReguBack.Regules.16","这倒是没什么事情","这倒是没什么事情"
+"ReguBack.Regules.17","她经常这样","她经常这样"
+"ReguBack.Regules.18","老女人嘛，都是要哄的啦","老女人嘛，都是要哄的啦"
+"ReguBack.Regules.19","╮（╯_╰）╭","╮（╯_╰）╭"
+"ReguBack.Monologue.20","原来是这样啊……","原来是这样啊……"
+"ReguBack.Typing.21","总之我把聊天记录同步一下","总之我把聊天记录同步一下"
+"ReguBack.Monologue.22",">向 Regules 发送了聊天记录。",">向 Regules 发送了聊天记录。"
+"ReguBack.Typing.23","你先看看","你先看看"
+"ReguBack.Typing.24","还有你的那个朋友 Neko","还有你的那个朋友 Neko"
+"ReguBack.Typing.25","一不小心做了多余的事情","一不小心做了多余的事情"
+"ReguBack.Typing.26","很不好意思，给你添麻烦了","很不好意思，给你添麻烦了"
+"ReguBack.Typing.27.1","如果你需要的话，我可以把机票和音乐节的票钱补给你","如果你需要的话，我可以把机票和音乐节的票钱补给你"
+"ReguBack.Typing.27.2","/表情：难受","/表情：难受"
+"ReguBack.Regules.29","我先看看记录","我先看看记录"
+"ReguBack.Monologue.30","……","……"
+"ReguBack.Monologue.31","好紧张……","好紧张……"
+"ReguBack.Monologue.32","这就是问心有愧的感觉吗……","这就是问心有愧的感觉吗……"
+"ReguBack.Monologue.33","好像一不小心许下了无法兑现的诺言。","好像一不小心许下了无法兑现的诺言。"
+"ReguBack.Monologue.34","从栗岛坐飞机到麻园至少是 600 吧……","从栗岛坐飞机到麻园至少是 600 吧……"
+"ReguBack.Monologue.35","机建燃油 220……","机建燃油 220……"
+"ReguBack.Monologue.36","还有那个音乐节票，680。","还有那个音乐节票，680。"
+"ReguBack.Monologue.37","600 加 220 再加 680，这就是 1500 了。","600 加 220 再加 680，这就是 1500 了。"
+"ReguBack.Monologue.38","我草。","我草。"
+"ReguBack.Regules.39","看完了","看完了"
