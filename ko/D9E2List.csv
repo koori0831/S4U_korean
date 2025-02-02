@@ -1,17 +1,19 @@
-﻿D9E2List.Monologue.1,感觉这个名单应该是今天委托的关键……,
-D9E2List.Monologue.2,Nil 说不定挺了解虚拟主播的。,
-D9E2List.Monologue.3,不过和他一聊起来势必要说些有的没的。,
-D9E2List.Monologue.4,时间有点紧张……,
-D9E2List.Monologue.5,差不多得开始了。,
-D9E2List.todo.6,向 Nil 了解虚拟主播的情况,
-D9E2List.todo.7,从好友中选择合适的对象发起聊天,
-D9E2List.Monologue.100,看起来可以联系的一共有<color=#DB7F20> 5 个人。</color>,
-D9E2List.Monologue.101,真名为<color=#DB7F20> Meeka </color>的<color=#DB7F20>麻生苇竹</color>。,
-D9E2List.Monologue.102,真名为<color=#DB7F20> Dom </color>的……,
-D9E2List.Monologue.103,"Dom？
-我得去看看 Lith 的好友列表……",
-D9E2List.Monologue.104,嗯……应该是我在公司的<color=#DB7F20> 直接上级 </color>。,
-D9E2List.Monologue.105,然后是不知道真实名字的<color=#DB7F20> Woooods。,
-D9E2List.Monologue.106,真名为<color=#DB7F20> Penny </color>的<color=#DB7F20> Aspen</color>。,
-D9E2List.Monologue.107,最后是真名为<color=#DB7F20> Deans </color>的<color=#DB7F20> 发明王小明</color>。,
-D9E2List.Monologue.108,至于其他的信息，并不是很了解……,
+"location","source","target"
+"﻿D9E2List.Monologue.1","感觉这个名单应该是今天委托的关键……","感觉这个名单应该是今天委托的关键……"
+"D9E2List.Monologue.2","Nil 说不定挺了解虚拟主播的。","Nil 说不定挺了解虚拟主播的。"
+"D9E2List.Monologue.3","不过和他一聊起来势必要说些有的没的。","不过和他一聊起来势必要说些有的没的。"
+"D9E2List.Monologue.4","时间有点紧张……","时间有点紧张……"
+"D9E2List.Monologue.5","差不多得开始了。","差不多得开始了。"
+"D9E2List.todo.6","向 Nil 了解虚拟主播的情况","向 Nil 了解虚拟主播的情况"
+"D9E2List.todo.7","从好友中选择合适的对象发起聊天","从好友中选择合适的对象发起聊天"
+"D9E2List.Monologue.100","看起来可以联系的一共有<color=#DB7F20> 5 个人。</color>","看起来可以联系的一共有<color=#DB7F20> 5 个人。</color>"
+"D9E2List.Monologue.101","真名为<color=#DB7F20> Meeka </color>的<color=#DB7F20>麻生苇竹</color>。","真名为<color=#DB7F20> Meeka </color>的<color=#DB7F20>麻生苇竹</color>。"
+"D9E2List.Monologue.102","真名为<color=#DB7F20> Dom </color>的……","真名为<color=#DB7F20> Dom </color>的……"
+"D9E2List.Monologue.103","Dom？
+我得去看看 Lith 的好友列表……","Dom？
+我得去看看 Lith 的好友列表……"
+"D9E2List.Monologue.104","嗯……应该是我在公司的<color=#DB7F20> 直接上级 </color>。","嗯……应该是我在公司的<color=#DB7F20> 直接上级 </color>。"
+"D9E2List.Monologue.105","然后是不知道真实名字的<color=#DB7F20> Woooods。","然后是不知道真实名字的<color=#DB7F20> Woooods。"
+"D9E2List.Monologue.106","真名为<color=#DB7F20> Penny </color>的<color=#DB7F20> Aspen</color>。","真名为<color=#DB7F20> Penny </color>的<color=#DB7F20> Aspen</color>。"
+"D9E2List.Monologue.107","最后是真名为<color=#DB7F20> Deans </color>的<color=#DB7F20> 发明王小明</color>。","最后是真名为<color=#DB7F20> Deans </color>的<color=#DB7F20> 发明王小明</color>。"
+"D9E2List.Monologue.108","至于其他的信息，并不是很了解……","至于其他的信息，并不是很了解……"
