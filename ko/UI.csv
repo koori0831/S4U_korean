@@ -1,256 +1,272 @@
-﻿UI.LanguageName,简体中文,
-UI.Yes,是,
-UI.No,否,
-UI.Confirm,确认,
-UI.Cancel,取消,
-UI.DemoVersionTips,功能测试版本,
-UI.Tips.Keyboard,推荐使用键盘游玩,
-UI.Tips.Mouse,有时候鼠标也可以,
-UI.Tips.Switch,切换,
-UI.Tips.Select,选择,
-UI.Tips.Confirm,确认,
-UI.Tips.Move,移动,
-UI.Tips.Leave,离开,
-UI.Tips.Menu,菜单,
-UI.Tips.Software,软件,
-UI.Tips.Option,选项,
-UI.Tips.Unlock,"晃动鼠标<sprite name=""Mouse"">以解锁",
-UI.Tips.TimeLimit,展会试玩开始后只有 <color=#db7f20>{0:00}</color> 哦,
-UI.Tips.DemoLeftTime,离试玩结束还有:,
-UI.Tips.DemoOver,感谢！试玩已经结束辣,
-UI.Tips.DemoReturn,回到2011年9月,
-UI.Tips.StoryCreationStatement,本游戏的剧情故事纯属虚构，与任何实际存在的人物、事件、团体、组织无任何联系。,
-UI.Todo.MakeMoneyTarget,存够 {0}（还差 {1}）,
-UI.Todo.GiveMoneyTarget,6月28号前借给 Daisy {0}（还差 {1}）,
-UI.DayPerview.2,"天气还不错……
-前有爱情？莫名其妙有这种感觉！",
-UI.DayPerview.3,下午喝到了不错的奶茶。,
-UI.DayPerview.4,"时隔三天，再次回到网络替身的岗位……
-不想工作啊，想去音乐节……",
-UI.DayPerview.5,休息日过得太快了……,
-UI.DayPerview.7,"距离上次快要一周了啊……
-感觉这周又是什么都没干。",
-UI.DayPerview.8,烟花啊……希望不要下雨……,
-UI.DayPerview.9,落枕了……头还有点晕。,
-UI.PopUp.Warning,警告,
-UI.PopUp.SaveError,"警告
-保存失败",
-UI.PopUp.QuitGameTips,"是否要退出？
-<color=#A69884>（未保存的进度将不再存在）",
-UI.PopUp.SaveToAutoProfileTips,无法保存到自动存档,
-UI.PopUp.OverrideProfileTips,是否覆盖存档?,
-UI.PopUp.DontSaveAndExit,"不保存当天的存档
-（警告：自动存档中的数据会被覆盖）",
-UI.PopUp.RestartTips,是否开始新游戏?,
-UI.PopUp.ProfileError,错误：无法加载此存档,
-UI.PopUp.ReturnToMenu,回到开始菜单,
-UI.Tips.PressDEL1,连续按下,
-UI.Tips.PressDEL2,启动RE操作系统,
-UI.App.FriendAppName,好友,
-UI.App.FriendAppTitle,联系人,
-UI.App.FriendNum,共 {0} 位好友,
-UI.App.FriendOnlineState,在线,
-UI.App.FriendBusyState,忙碌,
-UI.App.FriendOfflineState,离线,
-UI.App.FriendDefalutMotto,暂无,
-UI.App.DeleteOthersFriend,没有权限,
-UI.App.DeleteSelfFriendFailed,还是不要这么做比较好,
-UI.App.DeleteSelfFriendSucceed,确认要删除{0}吗,
-UI.App.ChatAppTitle,聊天框,
-UI.App.ChatAppName,聊天,
-UI.App.ChatWindowTips,敲击字母键输入回复内容,
-UI.App.CantReplyTips,似乎没有什么想说的,
-UI.App.ChatScrollTips,"长按<sprite name=""Up""><sprite name=""Down""> 查看聊天记录",
-UI.App.ChatTargetTips,与 {0} 聊天,
-UI.App.ChatTargetTips2,替 {0} 与 {1} 聊天,
-UI.App.ChatTargetTyping,正在输入,
-UI.App.NewChatMessage,以下是新消息,
-UI.App.DeleteTips,发送失败,
-UI.App.PlayersFriendGroupName,最近联系,
-UI.App.ImagePreviewText,[图片],
-UI.App.NewsAppName,新鲜事,
-UI.App.NewsAppTitle,新鲜事,
-UI.App.NewsAppReplyTips,回复 {0} 的新鲜事,
-UI.App.NewsAppFresh,今日更新 {0} 条新鲜事,
-UI.App.NewsAppNone,似乎没有新内容了,
-UI.App.NewsAppBan,博主已开启精选评论,
-UI.App.NewsAppChoose,回复查看大家的选择,
-UI.App.QuitAppName,控制台,
-UI.App.ExitAppName,控制台,
-UI.App.ExitAppWindowName,超级嗨客控制大师,
-UI.App.ExitAppWindowName2,超级嗨客控制大师 2.1,
-UI.App.ExitAppWelcome,"<color=#A69884>Last login:Unknown
+"location","source","target"
+"﻿UI.LanguageName","简体中文","简体中文"
+"UI.Yes","是","是"
+"UI.No","否","否"
+"UI.Confirm","确认",""
+"UI.Cancel","取消","取消"
+"UI.DemoVersionTips","功能测试版本","功能测试版本"
+"UI.Tips.Keyboard","推荐使用键盘游玩","推荐使用键盘游玩"
+"UI.Tips.Mouse","有时候鼠标也可以","有时候鼠标也可以"
+"UI.Tips.Switch","切换","切换"
+"UI.Tips.Select","选择","选择"
+"UI.Tips.Confirm","确认","确认"
+"UI.Tips.Move","移动","移动"
+"UI.Tips.Leave","离开","离开"
+"UI.Tips.Menu","菜单","菜单"
+"UI.Tips.Software","软件","软件"
+"UI.Tips.Option","选项","选项"
+"UI.Tips.Unlock","晃动鼠标<sprite name=""Mouse"">以解锁","晃动鼠标<sprite name=""Mouse"">以解锁"
+"UI.Tips.TimeLimit","展会试玩开始后只有 <color=#db7f20>{0:00}</color> 哦","展会试玩开始后只有 <color=#db7f20>{0:00}</color> 哦"
+"UI.Tips.DemoLeftTime","离试玩结束还有:","离试玩结束还有:"
+"UI.Tips.DemoOver","感谢！试玩已经结束辣","感谢！试玩已经结束辣"
+"UI.Tips.DemoReturn","回到2011年9月","回到2011年9月"
+"UI.Tips.StoryCreationStatement","本游戏的剧情故事纯属虚构，与任何实际存在的人物、事件、团体、组织无任何联系。","本游戏的剧情故事纯属虚构，与任何实际存在的人物、事件、团体、组织无任何联系。"
+"UI.Todo.MakeMoneyTarget","存够 {0}（还差 {1}）","存够 {0}（还差 {1}）"
+"UI.Todo.GiveMoneyTarget","6月28号前借给 Daisy {0}（还差 {1}）","6月28号前借给 Daisy {0}（还差 {1}）"
+"UI.DayPerview.2","天气还不错……
+前有爱情？莫名其妙有这种感觉！","天气还不错……
+前有爱情？莫名其妙有这种感觉！"
+"UI.DayPerview.3","下午喝到了不错的奶茶。","下午喝到了不错的奶茶。"
+"UI.DayPerview.4","时隔三天，再次回到网络替身的岗位……
+不想工作啊，想去音乐节……","时隔三天，再次回到网络替身的岗位……
+不想工作啊，想去音乐节……"
+"UI.DayPerview.5","休息日过得太快了……",""
+"UI.DayPerview.7","距离上次快要一周了啊……
+感觉这周又是什么都没干。","距离上次快要一周了啊……
+感觉这周又是什么都没干。"
+"UI.DayPerview.8","烟花啊……希望不要下雨……",""
+"UI.DayPerview.9","落枕了……头还有点晕。",""
+"UI.PopUp.Warning","警告","警告"
+"UI.PopUp.SaveError","警告
+保存失败","警告
+保存失败"
+"UI.PopUp.QuitGameTips","是否要退出？
+<color=#A69884>（未保存的进度将不再存在）","是否要退出？
+<color=#A69884>（未保存的进度将不再存在）"
+"UI.PopUp.SaveToAutoProfileTips","无法保存到自动存档","无法保存到自动存档"
+"UI.PopUp.OverrideProfileTips","是否覆盖存档?","是否覆盖存档?"
+"UI.PopUp.DontSaveAndExit","不保存当天的存档
+（警告：自动存档中的数据会被覆盖）","不保存当天的存档
+（警告：自动存档中的数据会被覆盖）"
+"UI.PopUp.RestartTips","是否开始新游戏?","是否开始新游戏?"
+"UI.PopUp.ProfileError","错误：无法加载此存档","错误：无法加载此存档"
+"UI.PopUp.ReturnToMenu","回到开始菜单","回到开始菜单"
+"UI.Tips.PressDEL1","连续按下","连续按下"
+"UI.Tips.PressDEL2","启动RE操作系统","启动RE操作系统"
+"UI.App.FriendAppName","好友","好友"
+"UI.App.FriendAppTitle","联系人","联系人"
+"UI.App.FriendNum","共 {0} 位好友","共 {0} 位好友"
+"UI.App.FriendOnlineState","在线","在线"
+"UI.App.FriendBusyState","忙碌","忙碌"
+"UI.App.FriendOfflineState","离线","离线"
+"UI.App.FriendDefalutMotto","暂无","暂无"
+"UI.App.DeleteOthersFriend","没有权限","没有权限"
+"UI.App.DeleteSelfFriendFailed","还是不要这么做比较好","还是不要这么做比较好"
+"UI.App.DeleteSelfFriendSucceed","确认要删除{0}吗","确认要删除{0}吗"
+"UI.App.ChatAppTitle","聊天框","聊天框"
+"UI.App.ChatAppName","聊天","聊天"
+"UI.App.ChatWindowTips","敲击字母键输入回复内容","敲击字母键输入回复内容"
+"UI.App.CantReplyTips","似乎没有什么想说的","似乎没有什么想说的"
+"UI.App.ChatScrollTips","长按<sprite name=""Up""><sprite name=""Down""> 查看聊天记录","长按<sprite name=""Up""><sprite name=""Down""> 查看聊天记录"
+"UI.App.ChatTargetTips","与 {0} 聊天","与 {0} 聊天"
+"UI.App.ChatTargetTips2","替 {0} 与 {1} 聊天","替 {0} 与 {1} 聊天"
+"UI.App.ChatTargetTyping","正在输入","正在输入"
+"UI.App.NewChatMessage","以下是新消息","以下是新消息"
+"UI.App.DeleteTips","发送失败","发送失败"
+"UI.App.PlayersFriendGroupName","最近联系","最近联系"
+"UI.App.ImagePreviewText","[图片]","[图片]"
+"UI.App.NewsAppName","新鲜事",""
+"UI.App.NewsAppTitle","新鲜事","新鲜事"
+"UI.App.NewsAppReplyTips","回复 {0} 的新鲜事","回复 {0} 的新鲜事"
+"UI.App.NewsAppFresh","今日更新 {0} 条新鲜事","今日更新 {0} 条新鲜事"
+"UI.App.NewsAppNone","似乎没有新内容了","似乎没有新内容了"
+"UI.App.NewsAppBan","博主已开启精选评论","博主已开启精选评论"
+"UI.App.NewsAppChoose","回复查看大家的选择","回复查看大家的选择"
+"UI.App.QuitAppName","控制台",""
+"UI.App.ExitAppName","控制台","控制台"
+"UI.App.ExitAppWindowName","超级嗨客控制大师","超级嗨客控制大师"
+"UI.App.ExitAppWindowName2","超级嗨客控制大师 2.1","超级嗨客控制大师 2.1"
+"UI.App.ExitAppWelcome","<color=#A69884>Last login:Unknown
 System:欢迎来到 RE2011os 管理系统
-Notice:输入 保存记录 并按回车结束今天的工作，外出购物</color>",
-UI.App.ExitAppWarning,Warning:还有尚未处理的订单,
-UI.App.ExitAppTyping,/保存: [今日操作记录] ,
-UI.App.ExitAppExitTips,"即将离开
-关闭程序，回到现实？",
-UI.App.VideoChatTitle,视频通话,
-UI.App.VideoChatContext,发起视频通话请求,
-UI.App.VideoChatName,与 {0} 视频通话中,
-UI.App.SettingAppName,设置,
-UI.Setting.GeneralSettingTitle,游戏,
-UI.Setting.Language,"<sprite name=""Language"">语言",
-UI.Setting.LanguageAll,"<sprite name=""Language"">语言/ 語言 / Language / 言語",
-UI.Setting.GraphSettingTitle,画面,
-UI.Setting.FullScreen,全屏,
-UI.Setting.Resolution,分辨率,
-UI.Setting.AudioSettingTitle,声音,
-UI.Setting.Mute,静音,
-UI.Setting.GlobalVolume,总音量,
-UI.Setting.SfxVolume,音效,
-UI.Setting.BgmVolume,背景音乐,
-UI.Setting.ItemSfxVolume,互动物品音量,
-UI.Setting.AutoTyping,自动连续回复,
-UI.Setting.EnableCRT,老电视效果,
-UI.App.PlayerTips,查看神奇播放器,
-UI.App.GalleryTips,相册密码？,
-UI.App.GalleryAppName,相册,
-UI.App.GalleryAppWindowName,相册.zip,
-UI.App.GalleryAppOpenTips,输入解压密码以打开“相册.zip”,
-UI.App.GalleryPassword,在此输入密码,
-UI.App.GalleryErrorPassword,密码错误,
-UI.App.PasswordTips,密码: {0},
-UI.App.YaSuoing,正在压缩“相册.zip”,
-UI.App.YaSuoingOver,压缩成功！,
-UI.App.SetPassword,设置解压密码,
-UI.App.YaSuoTips,将所有照片添加到压缩文件“相册.zip”,
-UI.Gallery.LoadDayTips,选择你要回顾的文件,
-UI.Gallery.Thansk,感谢你来玩我们制作的游戏,
-UI.App.ContactSteam,"<sprite name=""Heart"">加入愿望单<sprite name=""Heart"">",
-UI.App.ContactQQ,加入交流群,
-UI.App.ContactDiscord,加入Discord,
-UI.App.ContactFeedback,填写问卷,
-UI.App.ContactBug,BUG反馈,
-UI.App.LoadGameAppName,快速访问,
-UI.App.LBAppTips,正在切换至账号：Eka,
-UI.App.StartAppWindowName,神奇播放器 2.0,
-UI.App.StartOrContinueAppName,神奇播放器,
-UI.App.Continue,继续,
-UI.App.Start,开始,
-UI.App.NewGame,重新开始,
-UI.App.InstallingAppName,安装程序,
-UI.App.InstallingAppWindowName,安装中...,
-UI.App.InstallingAppText,正在安装 Sketching,
-UI.Windows.ChatHistoryTitle,聊天记录,
-UI.Windows.ChatHistoryInfo,{0}与{1},
-UI.Levishop.Title,24小时自动售货商店,
-UI.Levishop.Ask,请问……,
-UI.Levishop.Cargo1,今日特卖,
-UI.Levishop.Cargo2,小玩意,
-UI.Levishop.Decorate,已装饰,
-UI.Levishop.RandomBuyTips,花费 {0} 随机购买一个 “小玩意”,
-UI.Overview.BuyItemTips,购买了 {0},
-UI.Overview.WithNPC,与 {0},
-UI.Overview.Money,存款余额,
-UI.Overview.Today,今天……,
-UI.Overview.Save,写下记录,
-UI.EseMenu.Setting,系统设置,
-UI.EseMenu.GameInfo,用户手册,
-UI.EseMenu.Quit,关机,
-UI.MoneyMessage.Add,收到转账,
-UI.MoneyMessage.From,来自,
-UI.MoneyMessage.CurrMoney,当前账户余额,
-UI.MoneyMessage.LithGet,Lith收到转账,
-UI.PlayerProfile.FileName,文件名,
-UI.PlayerProfile.Content,内容,
-UI.PlayerProfile.GameTime,游玩时长,
-UI.Outside.LeaveStreet,再往前走就回家了。,
-UI.Outside.VendingMachine,赛博生命开的24小时便利店，俗称自动售货机。,
-UI.Outside.PostboxUnread,因为时空波动，收到了一些明信片。,
-UI.Outside.PostboxEmpty,邮箱空空的……,
-UI.Outside.NextPostcard,下一张,
-UI.Outside.PostcardReachEnd,结束,
-UI.Outside.PostcardMY,麻园,
-UI.Outside.PostcardStreet,星水街,
-UI.Outside.ToWork,去上班,
-UI.Profile.AutoSave,自动,
-UI.Profile.Outside,外出,
-UI.Profile.Work,家里,
-UI.Profile.Money,余额:{0},
-UI.Profile.Empty,空,
-UI.SaveGame,保存游戏,
-UI.Profile.LastDayDate,2011/9/x,
-UI.TextAnimSpeed,1.5,
-UI.Saving.01,网络替身的平静生活,
-UI.Saving.02,829 咖啡修罗场（误）,
-UI.Saving.03,四重雨：麻园不可思议,
-UI.Saving.04,孤独飞行的建筑家,
-UI.Saving.05,游戏公司爆炸事件,
-UI.Saving.06,医学院之变,
-UI.Saving.07,在烟花绽放之时,
-UI.Saving.08,网络崩溃的那一天,
-UI.Saving.09,主播和主播和骑士们,
-UI.MDName.01,便利店后武装少女两人 ,
-UI.MDName.02,无醇霓虹,
-UI.MDName.03,克赛吐司,
-UI.MDName.04,晴海风,
-UI.MDName.05,白鸥镇的居民们和造瓜机器,
-UI.MDName.06,麻园猎人,
-UI.MDName.07,龙舌烂橘子,
-UI.MDName.11,阳电子涡流,
-UI.MDName.111,重氢加速电场一圈圈环绕着，唐怀瑟炮已充能至百分之九十七，开火！,
-UI.MDName.12,浓缩拼配,
-UI.MDName.121,深烘焙，日晒加水洗，6 种大川红标原生种，酸甜苦平衡。,
-UI.MDName.13,碧色晴海风,
-UI.MDName.131,栗岛的风吹到了麻园，太阳从它离开的地方升起。,
-UI.MDName.14,8号混凝土,
-UI.MDName.141,以 888 千克每立方米的密度承载着未来的希望。,
-UI.MDName.15,烂诡计,
-UI.MDName.151,竹林间的密谋，幽灵们的诡计，谁能找到真相？,
-UI.MDName.16,网中鸟,
-UI.MDName.161,网兜关得住鸟，但关不住羽毛。,
-UI.MDName.17,真相处方,
-UI.MDName.171,那张纸上写了你的名字，那张纸上留存着唯一的出路。,
-UI.MDName.18,烟，花,
-UI.MDName.181,那么我的愿望也会实现吗？,
-UI.MDName.19,终局（纪念版）,
-UI.MDName.191,这是一切的根基，这是一切的支柱。,
-UI.MDName.20,赛博纪元（精选集）,
-UI.MDName.201,就在一个更好的世界里重逢吧。,
-UI.Calendar.01,天气还不错……,
-UI.Calendar.02,难道说……前有爱情？莫名其妙有这种感觉！,
-UI.Calendar.03,又来电厂了……大风车转啊……转啊……,
-UI.Calendar.04,脑子里多了很多和风有关的点子……,
-UI.Calendar.05,我觉得我可以写小说。,
-UI.Calendar.06,电厂一天，人间十年。,
-UI.Calendar.07,回城了，下午喝了杯不错的奶茶。,
-UI.Calendar.08,嗯……薄荷麝香拉茶。,
-UI.Calendar.09,周五！,
-UI.Calendar.10,周末也得再次回到网络替身的岗位……,
-UI.Calendar.11,不想工作啊，想去音乐节……,
-UI.Calendar.12,邦邦邦邦、哒哒哒！,
-UI.Calendar.13,休息日过得太快了……,
-UI.Calendar.14,有点想戒烟。,
-UI.Calendar.15,晴，今天的风儿有点喧嚣啊……,
-UI.Calendar.16,刷了刷租房软件，好多租不起的好房子。,
-UI.Calendar.17,好像主食+ 的餐厅上新品了。,
-UI.Calendar.18,下雨天必须睡觉。,
-UI.Calendar.19,距离上次快要一周了啊……,
-UI.Calendar.20,感觉这周又是什么都没干。,
-UI.Calendar.21,烟花啊……希望不要下雨……,
-UI.Calendar.22,落枕了……头还有点晕。,
-UI.Link.LithSheet,"<color=#38639A><sprite name=""Link"">[粉丝名单.exl]",
-UI.CountDownApp.Name,锟斤拷烫烫烫,
-UI.App.LithAppName,粉丝名单,
-UI.App.ImageDetailTitle,图片,
-UI.Setting.AutoMonologue,快进时跳过独白,
-UI.Todo.OpenConsole,打开控制台,
-UI.App.ZipOver,> <color=#A69884>记录一份带标记的完整操作记录。,
-UI.App.UnlockGalleryTips,"> <color=#A69884>打开了相册，
-可以通过相册回顾曾经发生的故事了。",
-UI.Profile.LoadWarning,"确认要读取无标记的存档吗?
-<color=#A69884> (此存档以外的数据可能会丢失）",
-UI.Credits.BtnName,制作人员,
-UI.Demo.SavingTips,警告：DEMO 的游玩进度无法继承到正式版，且二者存档不互通。,
-UI.Awake.Light,"光敏性癫痫风险提示：
+Notice:输入 保存记录 并按回车结束今天的工作，外出购物</color>","<color=#A69884>Last login:Unknown
+System:欢迎来到 RE2011os 管理系统
+Notice:输入 保存记录 并按回车结束今天的工作，外出购物</color>"
+"UI.App.ExitAppWarning","Warning:还有尚未处理的订单","Warning:还有尚未处理的订单"
+"UI.App.ExitAppTyping","/保存: [今日操作记录] ","/保存: [今日操作记录] "
+"UI.App.ExitAppExitTips","即将离开
+关闭程序，回到现实？","即将离开
+关闭程序，回到现实？"
+"UI.App.VideoChatTitle","视频通话","视频通话"
+"UI.App.VideoChatContext","发起视频通话请求","发起视频通话请求"
+"UI.App.VideoChatName","与 {0} 视频通话中","与 {0} 视频通话中"
+"UI.App.SettingAppName","设置","设置"
+"UI.Setting.GeneralSettingTitle","游戏","游戏"
+"UI.Setting.Language","<sprite name=""Language"">语言","<sprite name=""Language"">语言"
+"UI.Setting.LanguageAll","<sprite name=""Language"">语言/ 語言 / Language / 言語","<sprite name=""Language"">语言/ 語言 / Language / 言語"
+"UI.Setting.GraphSettingTitle","画面","画面"
+"UI.Setting.FullScreen","全屏","全屏"
+"UI.Setting.Resolution","分辨率","分辨率"
+"UI.Setting.AudioSettingTitle","声音","声音"
+"UI.Setting.Mute","静音","静音"
+"UI.Setting.GlobalVolume","总音量","总音量"
+"UI.Setting.SfxVolume","音效","音效"
+"UI.Setting.BgmVolume","背景音乐","背景音乐"
+"UI.Setting.ItemSfxVolume","互动物品音量","互动物品音量"
+"UI.Setting.AutoTyping","自动连续回复","自动连续回复"
+"UI.Setting.EnableCRT","老电视效果","老电视效果"
+"UI.App.PlayerTips","查看神奇播放器","查看神奇播放器"
+"UI.App.GalleryTips","相册密码？","相册密码？"
+"UI.App.GalleryAppName","相册","相册"
+"UI.App.GalleryAppWindowName","相册.zip","相册.zip"
+"UI.App.GalleryAppOpenTips","输入解压密码以打开“相册.zip”","输入解压密码以打开“相册.zip”"
+"UI.App.GalleryPassword","在此输入密码","在此输入密码"
+"UI.App.GalleryErrorPassword","密码错误","密码错误"
+"UI.App.PasswordTips","密码: {0}","密码: {0}"
+"UI.App.YaSuoing","正在压缩“相册.zip”","正在压缩“相册.zip”"
+"UI.App.YaSuoingOver","压缩成功！","压缩成功！"
+"UI.App.SetPassword","设置解压密码","设置解压密码"
+"UI.App.YaSuoTips","将所有照片添加到压缩文件“相册.zip”","将所有照片添加到压缩文件“相册.zip”"
+"UI.Gallery.LoadDayTips","选择你要回顾的文件","选择你要回顾的文件"
+"UI.Gallery.Thansk","感谢你来玩我们制作的游戏","感谢你来玩我们制作的游戏"
+"UI.App.ContactSteam","<sprite name=""Heart"">加入愿望单<sprite name=""Heart"">","<sprite name=""Heart"">加入愿望单<sprite name=""Heart"">"
+"UI.App.ContactQQ","加入交流群","加入交流群"
+"UI.App.ContactDiscord","加入Discord","加入Discord"
+"UI.App.ContactFeedback","填写问卷","填写问卷"
+"UI.App.ContactBug","BUG反馈","BUG反馈"
+"UI.App.LoadGameAppName","快速访问","快速访问"
+"UI.App.LBAppTips","正在切换至账号：Eka","正在切换至账号：Eka"
+"UI.App.StartAppWindowName","神奇播放器 2.0","神奇播放器 2.0"
+"UI.App.StartOrContinueAppName","神奇播放器","神奇播放器"
+"UI.App.Continue","继续","继续"
+"UI.App.Start","开始","开始"
+"UI.App.NewGame","重新开始","重新开始"
+"UI.App.InstallingAppName","安装程序","安装程序"
+"UI.App.InstallingAppWindowName","安装中...","安装中..."
+"UI.App.InstallingAppText","正在安装 Sketching","正在安装 Sketching"
+"UI.Windows.ChatHistoryTitle","聊天记录","聊天记录"
+"UI.Windows.ChatHistoryInfo","{0}与{1}","{0}与{1}"
+"UI.Levishop.Title","24小时自动售货商店","24小时自动售货商店"
+"UI.Levishop.Ask","请问……","请问……"
+"UI.Levishop.Cargo1","今日特卖","今日特卖"
+"UI.Levishop.Cargo2","小玩意","小玩意"
+"UI.Levishop.Decorate","已装饰","已装饰"
+"UI.Levishop.RandomBuyTips","花费 {0} 随机购买一个 “小玩意”","花费 {0} 随机购买一个 “小玩意”"
+"UI.Overview.BuyItemTips","购买了 {0}","购买了 {0}"
+"UI.Overview.WithNPC","与 {0}","与 {0}"
+"UI.Overview.Money","存款余额","存款余额"
+"UI.Overview.Today","今天……","今天……"
+"UI.Overview.Save","写下记录","写下记录"
+"UI.EseMenu.Setting","系统设置","系统设置"
+"UI.EseMenu.GameInfo","用户手册","用户手册"
+"UI.EseMenu.Quit","关机","关机"
+"UI.MoneyMessage.Add","收到转账","收到转账"
+"UI.MoneyMessage.From","来自","来自"
+"UI.MoneyMessage.CurrMoney","当前账户余额","当前账户余额"
+"UI.MoneyMessage.LithGet","Lith收到转账","Lith收到转账"
+"UI.PlayerProfile.FileName","文件名","文件名"
+"UI.PlayerProfile.Content","内容","内容"
+"UI.PlayerProfile.GameTime","游玩时长","游玩时长"
+"UI.Outside.LeaveStreet","再往前走就回家了。","再往前走就回家了。"
+"UI.Outside.VendingMachine","赛博生命开的24小时便利店，俗称自动售货机。","赛博生命开的24小时便利店，俗称自动售货机。"
+"UI.Outside.PostboxUnread","因为时空波动，收到了一些明信片。","因为时空波动，收到了一些明信片。"
+"UI.Outside.PostboxEmpty","邮箱空空的……","邮箱空空的……"
+"UI.Outside.NextPostcard","下一张","下一张"
+"UI.Outside.PostcardReachEnd","结束","结束"
+"UI.Outside.PostcardMY","麻园","麻园"
+"UI.Outside.PostcardStreet","星水街","星水街"
+"UI.Outside.ToWork","去上班","去上班"
+"UI.Profile.AutoSave","自动","自动"
+"UI.Profile.Outside","外出","外出"
+"UI.Profile.Work","家里","家里"
+"UI.Profile.Money","余额:{0}","余额:{0}"
+"UI.Profile.Empty","空","空"
+"UI.SaveGame","保存游戏","保存游戏"
+"UI.Profile.LastDayDate","2011/9/x","2011/9/x"
+"UI.TextAnimSpeed","1.5","1.5"
+"UI.Saving.01","网络替身的平静生活","网络替身的平静生活"
+"UI.Saving.02","829 咖啡修罗场（误）","829 咖啡修罗场（误）"
+"UI.Saving.03","四重雨：麻园不可思议","四重雨：麻园不可思议"
+"UI.Saving.04","孤独飞行的建筑家","孤独飞行的建筑家"
+"UI.Saving.05","游戏公司爆炸事件","游戏公司爆炸事件"
+"UI.Saving.06","医学院之变","医学院之变"
+"UI.Saving.07","在烟花绽放之时","在烟花绽放之时"
+"UI.Saving.08","网络崩溃的那一天","网络崩溃的那一天"
+"UI.Saving.09","主播和主播和骑士们","主播和主播和骑士们"
+"UI.MDName.01","便利店后武装少女两人 ","便利店后武装少女两人 "
+"UI.MDName.02","无醇霓虹","无醇霓虹"
+"UI.MDName.03","克赛吐司","克赛吐司"
+"UI.MDName.04","晴海风","晴海风"
+"UI.MDName.05","白鸥镇的居民们和造瓜机器","白鸥镇的居民们和造瓜机器"
+"UI.MDName.06","麻园猎人","麻园猎人"
+"UI.MDName.07","龙舌烂橘子","龙舌烂橘子"
+"UI.MDName.11","阳电子涡流","阳电子涡流"
+"UI.MDName.111","重氢加速电场一圈圈环绕着，唐怀瑟炮已充能至百分之九十七，开火！","重氢加速电场一圈圈环绕着，唐怀瑟炮已充能至百分之九十七，开火！"
+"UI.MDName.12","浓缩拼配","浓缩拼配"
+"UI.MDName.121","深烘焙，日晒加水洗，6 种大川红标原生种，酸甜苦平衡。","深烘焙，日晒加水洗，6 种大川红标原生种，酸甜苦平衡。"
+"UI.MDName.13","碧色晴海风","碧色晴海风"
+"UI.MDName.131","栗岛的风吹到了麻园，太阳从它离开的地方升起。","栗岛的风吹到了麻园，太阳从它离开的地方升起。"
+"UI.MDName.14","8号混凝土","8号混凝土"
+"UI.MDName.141","以 888 千克每立方米的密度承载着未来的希望。","以 888 千克每立方米的密度承载着未来的希望。"
+"UI.MDName.15","烂诡计","烂诡计"
+"UI.MDName.151","竹林间的密谋，幽灵们的诡计，谁能找到真相？","竹林间的密谋，幽灵们的诡计，谁能找到真相？"
+"UI.MDName.16","网中鸟","网中鸟"
+"UI.MDName.161","网兜关得住鸟，但关不住羽毛。","网兜关得住鸟，但关不住羽毛。"
+"UI.MDName.17","真相处方","真相处方"
+"UI.MDName.171","那张纸上写了你的名字，那张纸上留存着唯一的出路。","那张纸上写了你的名字，那张纸上留存着唯一的出路。"
+"UI.MDName.18","烟，花","烟，花"
+"UI.MDName.181","那么我的愿望也会实现吗？","那么我的愿望也会实现吗？"
+"UI.MDName.19","终局（纪念版）","终局（纪念版）"
+"UI.MDName.191","这是一切的根基，这是一切的支柱。","这是一切的根基，这是一切的支柱。"
+"UI.MDName.20","赛博纪元（精选集）","赛博纪元（精选集）"
+"UI.MDName.201","就在一个更好的世界里重逢吧。","就在一个更好的世界里重逢吧。"
+"UI.Calendar.01","天气还不错……","天气还不错……"
+"UI.Calendar.02","难道说……前有爱情？莫名其妙有这种感觉！","难道说……前有爱情？莫名其妙有这种感觉！"
+"UI.Calendar.03","又来电厂了……大风车转啊……转啊……","又来电厂了……大风车转啊……转啊……"
+"UI.Calendar.04","脑子里多了很多和风有关的点子……","脑子里多了很多和风有关的点子……"
+"UI.Calendar.05","我觉得我可以写小说。","我觉得我可以写小说。"
+"UI.Calendar.06","电厂一天，人间十年。","电厂一天，人间十年。"
+"UI.Calendar.07","回城了，下午喝了杯不错的奶茶。","回城了，下午喝了杯不错的奶茶。"
+"UI.Calendar.08","嗯……薄荷麝香拉茶。","嗯……薄荷麝香拉茶。"
+"UI.Calendar.09","周五！","周五！"
+"UI.Calendar.10","周末也得再次回到网络替身的岗位……","周末也得再次回到网络替身的岗位……"
+"UI.Calendar.11","不想工作啊，想去音乐节……","不想工作啊，想去音乐节……"
+"UI.Calendar.12","邦邦邦邦、哒哒哒！","邦邦邦邦、哒哒哒！"
+"UI.Calendar.13","休息日过得太快了……","休息日过得太快了……"
+"UI.Calendar.14","有点想戒烟。","有点想戒烟。"
+"UI.Calendar.15","晴，今天的风儿有点喧嚣啊……","晴，今天的风儿有点喧嚣啊……"
+"UI.Calendar.16","刷了刷租房软件，好多租不起的好房子。","刷了刷租房软件，好多租不起的好房子。"
+"UI.Calendar.17","好像主食+ 的餐厅上新品了。","好像主食+ 的餐厅上新品了。"
+"UI.Calendar.18","下雨天必须睡觉。","下雨天必须睡觉。"
+"UI.Calendar.19","距离上次快要一周了啊……","距离上次快要一周了啊……"
+"UI.Calendar.20","感觉这周又是什么都没干。","感觉这周又是什么都没干。"
+"UI.Calendar.21","烟花啊……希望不要下雨……","烟花啊……希望不要下雨……"
+"UI.Calendar.22","落枕了……头还有点晕。","落枕了……头还有点晕。"
+"UI.Link.LithSheet","<color=#38639A><sprite name=""Link"">[粉丝名单.exl]","<color=#38639A><sprite name=""Link"">[粉丝名单.exl]"
+"UI.CountDownApp.Name","锟斤拷烫烫烫","锟斤拷烫烫烫"
+"UI.App.LithAppName","粉丝名单","粉丝名单"
+"UI.App.ImageDetailTitle","图片","图片"
+"UI.Setting.AutoMonologue","快进时跳过独白","快进时跳过独白"
+"UI.Todo.OpenConsole","打开控制台","打开控制台"
+"UI.App.ZipOver","> <color=#A69884>记录一份带标记的完整操作记录。","> <color=#A69884>记录一份带标记的完整操作记录。"
+"UI.App.UnlockGalleryTips","> <color=#A69884>打开了相册，
+可以通过相册回顾曾经发生的故事了。","> <color=#A69884>打开了相册，
+可以通过相册回顾曾经发生的故事了。"
+"UI.Profile.LoadWarning","确认要读取无标记的存档吗?
+<color=#A69884> (此存档以外的数据可能会丢失）","确认要读取无标记的存档吗?
+<color=#A69884> (此存档以外的数据可能会丢失）"
+"UI.Credits.BtnName","制作人员","制作人员"
+"UI.Demo.SavingTips","警告：DEMO 的游玩进度无法继承到正式版，且二者存档不互通。","警告：DEMO 的游玩进度无法继承到正式版，且二者存档不互通。"
+"UI.Awake.Light","光敏性癫痫风险提示：
 
 本游戏包含的部分图像序列，如快速闪烁的灯光、高对比度的交替图案以及快速变换的复杂场景，可能会在特定个体中引发光敏性癫痫发作。光敏性癫痫是一种由视觉刺激诱发的癫痫类型，受影响个体在暴露于特定视觉刺激后，可能出现全身性或部分性癫痫发作。
 
-若您有癫痫病史，特别是光敏性癫痫，或有偏头痛、视觉敏感等相关症状，建议在游戏前咨询神经科医生。在游戏过程中，若您出现任何异常感觉，如闪烁感、刺痛、肌肉抽搐、意识丧失等，请立即停止游戏，并及时就医。",
-UI.Setting.MultiRoundAutoTyping,多周目快捷输入,
-UI.Error.Notfind,找不到文件,
-UI.App.Note,记事本,
-UI.App.NoteTips,共 {0} 句,
-UI.Error.Internet,正在尝试重新连接……,
+若您有癫痫病史，特别是光敏性癫痫，或有偏头痛、视觉敏感等相关症状，建议在游戏前咨询神经科医生。在游戏过程中，若您出现任何异常感觉，如闪烁感、刺痛、肌肉抽搐、意识丧失等，请立即停止游戏，并及时就医。","光敏性癫痫风险提示：
+
+本游戏包含的部分图像序列，如快速闪烁的灯光、高对比度的交替图案以及快速变换的复杂场景，可能会在特定个体中引发光敏性癫痫发作。光敏性癫痫是一种由视觉刺激诱发的癫痫类型，受影响个体在暴露于特定视觉刺激后，可能出现全身性或部分性癫痫发作。
+
+若您有癫痫病史，特别是光敏性癫痫，或有偏头痛、视觉敏感等相关症状，建议在游戏前咨询神经科医生。在游戏过程中，若您出现任何异常感觉，如闪烁感、刺痛、肌肉抽搐、意识丧失等，请立即停止游戏，并及时就医。"
+"UI.Setting.MultiRoundAutoTyping","多周目快捷输入","多周目快捷输入"
+"UI.Error.Notfind","找不到文件","找不到文件"
+"UI.App.Note","记事本","记事本"
+"UI.App.NoteTips","共 {0} 句","共 {0} 句"
+"UI.Error.Internet","正在尝试重新连接……","正在尝试重新连接……"
